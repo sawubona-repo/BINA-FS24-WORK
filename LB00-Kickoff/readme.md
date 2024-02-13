@@ -15,6 +15,6 @@
 
 2. Explore the **Google Colab Juypter Notebook** Environment 
 
-> [KETE Python Tutorial III](/DOC/Jupyter_Tutorial_Google-Colab-Notebooks.pdf)    
-> [KETE Colab Notebook Sample](LB00-Kickoff/CODE/JUPYTER_Tutorial-1_Colaboratory_Features.ipynb)  
+> [KETE Python Tutorial III](https://github.com/sawubona-repo/BINA-FS24-WORK/blob/2442ca381e059581107c4cfc5bd2b1b0c6f61c30/LB00-Kickoff/DOC/Jupyter_Tutorial_Google-Colab-Notebooks.pdf)    
+> [KETE Colab Notebook Sample](https://github.com/sawubona-repo/BINA-FS24-WORK/blob/2442ca381e059581107c4cfc5bd2b1b0c6f61c30/LB00-Kickoff/CODE/JUPYTER_Tutorial-1_Colaboratory_Features.ipynb)  
 
