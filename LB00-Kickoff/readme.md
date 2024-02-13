@@ -13,5 +13,8 @@
 
 </br>
 
+2. Explore the **Google Colab Juypter Notebook** Environment 
 
+> [KETE Python Tutorial III](LB00-Kickoff/DOC/Jupyter_Tutorial_Google-Colab-Notebooks.pdf)
+> [KETE Colab Notebook Sample](LB00-Kickoff/CODE/JUPYTER_Tutorial-1_Colaboratory_Features.ipynb)  
 
