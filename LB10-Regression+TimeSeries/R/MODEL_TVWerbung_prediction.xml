@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<PMML version="4.4.1" xmlns="http://www.dmg.org/PMML-4_4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dmg.org/PMML-4_4 http://www.dmg.org/pmml/v4-4/pmml-4-4.xsd">
+ <Header copyright="Copyright (c) 2021 rstudio-user" description="Linear Regression Model">
+  <Extension name="user" value="rstudio-user" extender="SoftwareAG PMML Generator"/>
+  <Application name="SoftwareAG PMML Generator" version="2.4.0"/>
+  <Timestamp>2021-05-18 12:14:38</Timestamp>
+ </Header>
+ <DataDictionary numberOfFields="2">
+  <DataField name="Sales" optype="continuous" dataType="double"/>
+  <DataField name="TV" optype="continuous" dataType="double"/>
+ </DataDictionary>
+ <RegressionModel modelName="lm_Model" functionName="regression" algorithmName="least squares">
+  <MiningSchema>
+   <MiningField name="Sales" usageType="predicted" invalidValueTreatment="returnInvalid"/>
+   <MiningField name="TV" usageType="active" invalidValueTreatment="returnInvalid"/>
+  </MiningSchema>
+  <Output>
+   <OutputField name="Predicted_Sales" optype="continuous" dataType="double" feature="predictedValue"/>
+  </Output>
+  <RegressionTable intercept="7.0325935491277">
+   <NumericPredictor name="TV" exponent="1" coefficient="0.0475366404330197"/>
+  </RegressionTable>
+ </RegressionModel>
+</PMML>

@@ -1,0 +1,36 @@
+
+Z:\zWORK\zPerl64\code>perl -W ../code/extract_vbz-linie.pl  Z:/zWORK/zVBZ Fahrzeiten_SOLL_IST_20230101_20230107.csv 10 
+
+----------------------
+For VBZ Line Nr      :10
+Total lines scanned  :1394136
+Total lines extracted:45869
+Ausgabedatei         :Z:/zWORK/zVBZ/Linie-10_Fahrzeiten_SOLL_IST_20230101_20230107.csv
+Z:\zWORK\zPerl64\code>perl -W ../code/extract_vbz-linie.pl  Z:/zWORK/zVBZ Fahrzeiten_SOLL_IST_20230108_20230114.csv 10 
+
+----------------------
+For VBZ Line Nr      :10
+Total lines scanned  :1456034
+Total lines extracted:48844
+Ausgabedatei         :Z:/zWORK/zVBZ/Linie-10_Fahrzeiten_SOLL_IST_20230108_20230114.csv
+Z:\zWORK\zPerl64\code>perl -W ../code/extract_vbz-linie.pl  Z:/zWORK/zVBZ Fahrzeiten_SOLL_IST_20230115_20230121.csv 10 
+
+----------------------
+For VBZ Line Nr      :10
+Total lines scanned  :1457042
+Total lines extracted:48341
+Ausgabedatei         :Z:/zWORK/zVBZ/Linie-10_Fahrzeiten_SOLL_IST_20230115_20230121.csv
+Z:\zWORK\zPerl64\code>perl -W ../code/extract_vbz-linie.pl  Z:/zWORK/zVBZ Fahrzeiten_SOLL_IST_20230122_20230128.csv 10 
+
+----------------------
+For VBZ Line Nr      :10
+Total lines scanned  :1458556
+Total lines extracted:49017
+Ausgabedatei         :Z:/zWORK/zVBZ/Linie-10_Fahrzeiten_SOLL_IST_20230122_20230128.csv
+Z:\zWORK\zPerl64\code>perl -W ../code/extract_vbz-linie.pl  Z:/zWORK/zVBZ Fahrzeiten_SOLL_IST_20230129_20230204.csv 10 
+
+----------------------
+For VBZ Line Nr      :10
+Total lines scanned  :1456202
+Total lines extracted:48319
+Ausgabedatei         :Z:/zWORK/zVBZ/Linie-10_Fahrzeiten_SOLL_IST_20230129_20230204.csv

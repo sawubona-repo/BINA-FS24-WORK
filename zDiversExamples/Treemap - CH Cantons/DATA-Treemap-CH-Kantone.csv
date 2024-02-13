@@ -1,0 +1,27 @@
+﻿;Kanton;Region;Einwohner;Flaeche;WohnungPreis2020;bfs_code;bfs_num
+1;Zuerich;Deutschschweiz;1553.6;1729;328;ZH;1
+2;Bern;Deutschschweiz;1046.3;5959;240;BE;2
+3;Luzern;Deutschschweiz;416.3;1494;256;LU;3
+4;Uri;Deutschschweiz;37.0;1077;232;UR;4
+5;Schwyz;Deutschschweiz;162.6;908;219;SZ;5
+6;Obwalden;Deutschschweiz;38.4;491;242;OW;6
+7;Nidwalden;Deutschschweiz;43.9;276;271;NW;7
+8;Glarus;Deutschschweiz;40.7;685;207;GL;8
+9;Zug;Deutschschweiz;130.2;239;390;ZG;9
+10;Freiburg;Westschweiz;325.2;1671;238;FR;10
+11;Solothurn;Deutschschweiz;278.3;791;223;SO;11
+12;Basel-Stadt;Deutschschweiz;196.6;37;300;BS;12
+13;Basel-Landschaft;Deutschschweiz;291.3;518;259;BL;13
+14;Schaffhausen;Deutschschweiz;83.6;299;268;SH;14
+15;Appenzel ARh;Deutschschweiz;55.7;243;207;AR;15
+16;Appenzell IRh;Deutschschweiz;16.3;173;233;AI;16
+17;Sankt Gallen;Deutschschweiz;516.7;2026;220;SG;17
+18;Graubuenden;Suedschweiz;198.9;7105;461;GR;18
+19;Aargau;Deutschschweiz;695.3;1404;239;AG;19
+20;Thurgau;Deutschschweiz;282.9;991;218;TG;20
+21;Tessin;Suedschweiz;353.3;2813;222;TI;21
+22;Waadt;Westschweiz;815.6;3212;304;VD;22
+23;Wallis;Westschweiz;349.2;5225;240;VS;23
+24;Neuenburg;Westschweiz;177.3;803;212;NE;24
+25;Genf;Westschweiz;509.1;282;416;GE;25
+26;Jura;Westschweiz;73.8;839;176;JU;26
