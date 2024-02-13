@@ -1,6 +1,6 @@
-MSc WINF - Modul "Business Intelligence and Analytics" (BINA) (FS23)
+MSc WINF - Modul "Business Intelligence and Analytics" (BINA) (FS24)
 ====================================================================
-## This the Public GitHub Repository for BINA FS23 Students 
+## This the Public GitHub Repository for BINA FS24 Students 
 
 ![Welcome](https://user-images.githubusercontent.com/52699611/219407241-8a382b6e-7960-4715-8cf8-9c130fdca705.png)
 
