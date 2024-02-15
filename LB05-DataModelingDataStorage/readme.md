@@ -1,8 +1,8 @@
-# LB03 - Data Modeling and Data Storage README
-###### Last update: 3/3/22 dbe
+# LB05 - Data Modeling and Data Storage README
+###### Last update: 12/2/24 dbe - modified LB numbering
 </br>
 
-![LB03](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/zImages/MSc-WI_BINA_LB3_Data%20Modeling.png)
+![LB05](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/zImages/MSc-WI_BINA_LB3_Data%20Modeling.png)
 
 ## A) Relational Data Model
 

@@ -1,5 +1,5 @@
-# LB10 - Regression + Time Series README
-###### Last update: 14/4/23 dbe - added Tools + Examples description
+# LB06 - Regression + Time Series README
+###### Last update: 12/2/24 dbe - modfied LB numbering
 </br>
 
 ![Folie4](https://user-images.githubusercontent.com/52699611/168085602-800c1f8a-1771-4bf1-a588-448af5cee539.PNG)

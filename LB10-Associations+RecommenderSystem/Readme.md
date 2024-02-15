@@ -1,5 +1,5 @@
-# LB11 - Associations + Recommender Systems  README
-###### Last update: 1/6/23 dbe - minor corrections for BINA FS23
+# LB10 - Associations + Recommender Systems  README
+###### Last update: 12/2/24 dbe - modified LB numbering
 </br>
 
 ![Folie5](https://user-images.githubusercontent.com/52699611/168466677-047e77c5-1a2a-421e-a253-51592ed2773e.PNG)

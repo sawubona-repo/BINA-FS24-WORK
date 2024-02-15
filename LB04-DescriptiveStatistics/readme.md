@@ -1,5 +1,5 @@
-# LB06 - Descriptive Statistics README
-###### Last update: 22/3/23 dbe - minor corrections, R/Studio is now Posit
+# LB04 - Descriptive Statistics README
+###### Last update: 12/2/24 dbe - modified LB numbering
 </br>
 
 ![Folie5](https://user-images.githubusercontent.com/52699611/160862506-33f6b3e0-e2f8-4cd8-ac4d-3e23ed960faa.PNG)
