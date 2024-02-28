@@ -15,7 +15,7 @@ Seaborn is a Python data visualization library based on matplotlib. It provides 
 For a brief introduction to the ideas behind the library, you can read the [introductory notes](https://seaborn.pydata.org/introduction.html) or the [paper](https://joss.theoj.org/papers/10.21105/joss.03021).  
 You can browse the [example gallery](https://seaborn.pydata.org/examples/index.html) to see some of the things that you can do with seaborn.
 
-<br>
+<br>    
 ---   
 
 * [**BOKEH** Visualization Library](https://bokeh.org/)  
@@ -29,7 +29,7 @@ Or browse the [gallery](https://docs.bokeh.org/en/latest/docs/gallery.html) for 
 
 
 <br>
-<br>
+<br>    
 ---   
 
 Und weitere aktuelle Tools/Libraries zur Visualisierung, zu Dashboards, zu graphical User Interfaces mittels Python    
@@ -38,7 +38,7 @@ Downloaded 600,000 times per month, **Dash** is the original low-code framework 
 
 *Sample Dahsboard: [FIFA Football Player Generations](https://dash.gallery/dash-fifa-dashboard/)*
 
-<br>
+<br>   
 ---   
 
 + [STREAMLIT](https://streamlit.io/)  
