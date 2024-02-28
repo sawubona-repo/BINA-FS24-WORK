@@ -13,9 +13,7 @@ Python/Jupyter Sample Code zu den folgenden Libraries
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 For a brief introduction to the ideas behind the library, you can read the [introductory notes](https://seaborn.pydata.org/introduction.html) or the [paper](https://joss.theoj.org/papers/10.21105/joss.03021).  
-You can browse the [example gallery](https://seaborn.pydata.org/examples/index.html) to see some of the things that you can do with seaborn.
-
-<br>    
+You can browse the [example gallery](https://seaborn.pydata.org/examples/index.html) to see some of the things that you can do with seaborn. 
 
 ---   
 
@@ -27,10 +25,7 @@ You can browse the [example gallery](https://seaborn.pydata.org/examples/index.h
 Bokeh is a Python library for creating interactive visualizations for modern web browsers. It helps you build beautiful graphics, ranging from simple plots to complex dashboards with streaming datasets. With Bokeh, you can create JavaScript-powered visualizations without writing any JavaScript yourself.
 See the [First Steps Tutorial](https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps) to quickly learn about the most important features and capabilities of Bokeh.  
 Or browse the [gallery](https://docs.bokeh.org/en/latest/docs/gallery.html) for examples of using Bokeh in different ways.
-
-
-<br>
-<br>    
+   
 ---   
 
 Und weitere aktuelle Tools/Libraries zur Visualisierung, zu Dashboards, zu graphical User Interfaces mittels Python    
@@ -39,7 +34,6 @@ Downloaded 600,000 times per month, **Dash** is the original low-code framework 
 
 *Sample Dahsboard: [FIFA Football Player Generations](https://dash.gallery/dash-fifa-dashboard/)*
 
-<br>   
 ---   
 
 + [STREAMLIT](https://streamlit.io/)  
