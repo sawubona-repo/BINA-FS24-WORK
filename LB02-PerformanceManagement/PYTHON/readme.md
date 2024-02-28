@@ -16,6 +16,7 @@ For a brief introduction to the ideas behind the library, you can read the [intr
 You can browse the [example gallery](https://seaborn.pydata.org/examples/index.html) to see some of the things that you can do with seaborn.
 
 <br>    
+
 ---   
 
 * [**BOKEH** Visualization Library](https://bokeh.org/)  
