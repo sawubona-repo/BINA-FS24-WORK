@@ -6,7 +6,7 @@ Python/Jupyter Sample Code zu den folgenden Libraries
 ![image](https://user-images.githubusercontent.com/52699611/155507372-cd566aad-ffad-4ad8-9101-1e8fb646d155.png)
 
 
-*Sample Code: [Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-gmbh/BINA-FS24-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)*
+*Sample Code: [Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-repo/BINA-FS24-WORK/blob/cba408f3b788ce0f0300d58b68e9f78288b01955/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)*
  
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
