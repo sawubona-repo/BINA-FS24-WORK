@@ -7,7 +7,7 @@ Python/Jupyter Sample Code zu den folgenden Libraries
 
 
 *Sample Code*: 
-+ [Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-repo/BINA-FS24-WORK/blob/cba408f3b788ce0f0300d58b68e9f78288b01955/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)*
++ [Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-repo/BINA-FS24-WORK/blob/cba408f3b788ce0f0300d58b68e9f78288b01955/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)
 + [Python_SEABORN_Visualization_Examples_INCL_MarathonFinisherTimes.ipynb](https://github.com/sawubona-repo/BINA-FS24-WORK/blob/81846943243b60dbc601dd876bfcde70c0038875/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples_INCL_MarathonFinisherTimes.ipynb)
  
 
@@ -16,6 +16,7 @@ For a brief introduction to the ideas behind the library, you can read the [intr
 You can browse the [example gallery](https://seaborn.pydata.org/examples/index.html) to see some of the things that you can do with seaborn.
 
 <br>
+--- 
 
 * [**BOKEH** Visualization Library](https://bokeh.org/)  
 ![image](https://user-images.githubusercontent.com/52699611/155508184-b89139d2-71a0-4a7b-985b-9f818ade8a09.png)
@@ -29,6 +30,7 @@ Or browse the [gallery](https://docs.bokeh.org/en/latest/docs/gallery.html) for 
 
 <br>
 <br>
+--- 
 
 Und weitere aktuelle Tools/Libraries zur Visualisierung, zu Dashboards, zu graphical User Interfaces mittels Python    
 + [DASH/Plotly](https://dash.plotly.com/)   
@@ -37,6 +39,7 @@ Downloaded 600,000 times per month, **Dash** is the original low-code framework 
 *Sample Dahsboard: [FIFA Football Player Generations](https://dash.gallery/dash-fifa-dashboard/)*
 
 <br>
+--- 
 
 + [STREAMLIT](https://streamlit.io/)  
 **Streamlit** is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. In just a few minutes you can build and deploy powerful data apps.  
