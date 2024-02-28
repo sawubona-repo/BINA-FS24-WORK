@@ -6,7 +6,7 @@ Python/Jupyter Sample Code zu den folgenden Libraries
 ![image](https://user-images.githubusercontent.com/52699611/155507372-cd566aad-ffad-4ad8-9101-1e8fb646d155.png)
 
 
-*Sample Code: [Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)*
+*Sample Code: [Python_SEABORN_Visualization_Examples.ipynb](https://github.com/sawubona-gmbh/BINA-FS24-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_SEABORN_Visualization_Examples.ipynb)*
  
 
 Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
@@ -18,7 +18,7 @@ You can browse the [example gallery](https://seaborn.pydata.org/examples/index.h
 * [**BOKEH** Visualization Library](https://bokeh.org/)  
 ![image](https://user-images.githubusercontent.com/52699611/155508184-b89139d2-71a0-4a7b-985b-9f818ade8a09.png)
 
-*Sample Code: [Python_BOKEH_Basic_Plotting.ipynb](https://github.com/sawubona-gmbh/BINA-FS22-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_BOKEH_Basic_Plotting.ipynb)*  
+*Sample Code: [Python_BOKEH_Basic_Plotting.ipynb](https://github.com/sawubona-gmbh/BINA-FS24-WORK/blob/main/LB02-PerformanceManagement/PYTHON/Python_BOKEH_Basic_Plotting.ipynb)*  
 
 Bokeh is a Python library for creating interactive visualizations for modern web browsers. It helps you build beautiful graphics, ranging from simple plots to complex dashboards with streaming datasets. With Bokeh, you can create JavaScript-powered visualizations without writing any JavaScript yourself.
 See the [First Steps Tutorial](https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps) to quickly learn about the most important features and capabilities of Bokeh.  
