@@ -1,0 +1,862 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Switzerland,CHE,2020,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993499994277954
+Switzerland,CHE,2019,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995119988918304
+Switzerland,CHE,2018,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993939995765686
+Switzerland,CHE,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993239998817444
+Switzerland,CHE,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993120014667511
+Switzerland,CHE,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997179985046387
+Switzerland,CHE,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00074994564056
+Switzerland,CHE,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.998109996318817
+Switzerland,CHE,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997600018978119
+Switzerland,CHE,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995090007781982
+Switzerland,CHE,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995429992675781
+Switzerland,CHE,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995329976081848
+Switzerland,CHE,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994939982891083
+Switzerland,CHE,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995559990406036
+Switzerland,CHE,2006,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995819985866547
+Switzerland,CHE,2005,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.996969997882843
+Switzerland,CHE,2004,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997219979763031
+Switzerland,CHE,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00194001197815
+Switzerland,CHE,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00171995162964
+Switzerland,CHE,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00123000144958
+Switzerland,CHE,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.998300015926361
+Switzerland,CHE,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994830012321472
+Switzerland,CHE,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.995930016040802
+Switzerland,CHE,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.998520016670227
+Switzerland,CHE,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997290015220642
+Switzerland,CHE,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.997720003128052
+Switzerland,CHE,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.994319975376129
+Switzerland,CHE,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01450002193451
+Switzerland,CHE,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01007997989655
+Switzerland,CHE,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01040005683899
+Switzerland,CHE,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01076996326447
+Switzerland,CHE,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01297998428345
+Switzerland,CHE,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0147500038147
+Switzerland,CHE,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01159000396729
+Switzerland,CHE,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0134299993515
+Switzerland,CHE,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01561999320984
+Switzerland,CHE,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01271998882294
+Switzerland,CHE,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00843000411987
+Switzerland,CHE,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.009850025177
+Switzerland,CHE,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00910997390747
+Switzerland,CHE,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.00966000556946
+Switzerland,CHE,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0113799571991
+Switzerland,CHE,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01370000839233
+Switzerland,CHE,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0152200460434
+Switzerland,CHE,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.0139000415802
+Switzerland,CHE,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01011002063751
+Switzerland,CHE,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01190996170044
+Switzerland,CHE,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.968540012836456
+Switzerland,CHE,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.968580007553101
+Switzerland,CHE,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.970459997653961
+Switzerland,CHE,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.973230004310608
+Switzerland,CHE,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.97613000869751
+Switzerland,CHE,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.979340016841888
+Switzerland,CHE,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.985319972038269
+Switzerland,CHE,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983169972896576
+Switzerland,CHE,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983799993991852
+Switzerland,CHE,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.981530010700226
+Switzerland,CHE,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.975220024585724
+Switzerland,CHE,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.972180008888245
+Switzerland,CHE,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.969760000705719
+Switzerland,CHE,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.967320024967194
+Switzerland,CHE,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.966939985752106
+Switzerland,CHE,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.964699983596802
+Switzerland,CHE,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.969969987869263
+Switzerland,CHE,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.971790015697479
+Switzerland,CHE,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.974749982357025
+Switzerland,CHE,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.967230021953583
+Switzerland,CHE,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.960879981517792
+Switzerland,CHE,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.956250011920929
+Switzerland,CHE,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.96806001663208
+Switzerland,CHE,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.963680028915405
+Switzerland,CHE,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.960979998111725
+Switzerland,CHE,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.955579996109009
+Switzerland,CHE,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.972379982471466
+Switzerland,CHE,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.969820022583008
+Switzerland,CHE,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.965449988842011
+Switzerland,CHE,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.963389992713928
+Switzerland,CHE,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.957589983940125
+Switzerland,CHE,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.953779995441437
+Switzerland,CHE,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.948920011520386
+Switzerland,CHE,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.947229981422424
+Switzerland,CHE,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.945360004901886
+Switzerland,CHE,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.945200026035309
+Switzerland,CHE,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.943560004234314
+Switzerland,CHE,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.942460000514984
+Switzerland,CHE,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.941340029239655
+Switzerland,CHE,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.937390029430389
+Switzerland,CHE,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.928780019283295
+Switzerland,CHE,2020,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.94744998216629
+Switzerland,CHE,2019,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.946449995040894
+Switzerland,CHE,2018,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.951099991798401
+Switzerland,CHE,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.956870019435883
+Switzerland,CHE,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.962459981441498
+Switzerland,CHE,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.9653599858284
+Switzerland,CHE,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.975489974021912
+Switzerland,CHE,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.971909999847412
+Switzerland,CHE,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.974889993667603
+Switzerland,CHE,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.97052001953125
+Switzerland,CHE,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.959029972553253
+Switzerland,CHE,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.953610002994537
+Switzerland,CHE,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.948230028152466
+Switzerland,CHE,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.942879974842072
+Switzerland,CHE,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.940559983253479
+Switzerland,CHE,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.935320019721985
+Switzerland,CHE,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.940460026264191
+Switzerland,CHE,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.943650007247925
+Switzerland,CHE,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.949519991874695
+Switzerland,CHE,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.9375
+Switzerland,CHE,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.928799986839294
+Switzerland,CHE,1998,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.919160008430481
+Switzerland,CHE,1996,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.942770004272461
+Switzerland,CHE,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.936720013618469
+Switzerland,CHE,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.932519972324371
+Switzerland,CHE,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.925719976425171
+Switzerland,CHE,1992,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.942380011081696
+Switzerland,CHE,1991,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.942229986190796
+Switzerland,CHE,1990,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.935999989509583
+Switzerland,CHE,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.933790028095245
+Switzerland,CHE,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.924639999866486
+Switzerland,CHE,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.91865998506546
+Switzerland,CHE,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.913429975509644
+Switzerland,CHE,1985,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.909539997577667
+Switzerland,CHE,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.904550015926361
+Switzerland,CHE,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.904399991035461
+Switzerland,CHE,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.902679979801178
+Switzerland,CHE,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.898530006408691
+Switzerland,CHE,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.894869983196259
+Switzerland,CHE,1979,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.885269999504089
+Switzerland,CHE,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.866590023040771
+Switzerland,CHE,2021,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.10327994823456
+Switzerland,CHE,2020,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.0848799943924
+Switzerland,CHE,2019,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06560003757477
+Switzerland,CHE,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.05497002601624
+Switzerland,CHE,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04795002937317
+Switzerland,CHE,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.02540004253387
+Switzerland,CHE,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.03004002571106
+Switzerland,CHE,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.014279961586
+Switzerland,CHE,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.01347005367279
+Switzerland,CHE,2012,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.00308001041412
+Switzerland,CHE,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.00019001960754
+Switzerland,CHE,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.989430010318756
+Switzerland,CHE,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.01130998134613
+Switzerland,CHE,2008,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.992410004138947
+Switzerland,CHE,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.924700021743774
+Switzerland,CHE,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.900789976119995
+Switzerland,CHE,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.865649998188019
+Switzerland,CHE,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.824240028858185
+Switzerland,CHE,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.801090002059937
+Switzerland,CHE,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.773329973220825
+Switzerland,CHE,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.756389975547791
+Switzerland,CHE,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.753260016441345
+Switzerland,CHE,1999,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.72639000415802
+Switzerland,CHE,1998,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.70414000749588
+Switzerland,CHE,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.605589985847473
+Switzerland,CHE,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.595300018787384
+Switzerland,CHE,1994,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.581260025501251
+Switzerland,CHE,1993,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.562560021877289
+Switzerland,CHE,1992,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.544560015201569
+Switzerland,CHE,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.537760019302368
+Switzerland,CHE,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.526920020580292
+Switzerland,CHE,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.494100004434586
+Switzerland,CHE,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.475479990243912
+Switzerland,CHE,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.485920011997223
+Switzerland,CHE,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.4860700070858
+Switzerland,CHE,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.477829992771149
+Switzerland,CHE,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.49371001124382
+Switzerland,CHE,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.481110006570816
+Switzerland,CHE,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.454070001840591
+Switzerland,CHE,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.433349996805191
+Switzerland,CHE,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.407579988241196
+Switzerland,CHE,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.385500013828278
+Switzerland,CHE,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.374469995498657
+Switzerland,CHE,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.364560008049011
+Switzerland,CHE,2022,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Switzerland,CHE,2021,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,42.5
+Switzerland,CHE,2020,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Switzerland,CHE,2019,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,41.5
+Switzerland,CHE,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,32.5
+Switzerland,CHE,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,32.5
+Switzerland,CHE,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,32
+Switzerland,CHE,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,32
+Switzerland,CHE,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31
+Switzerland,CHE,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,31
+Switzerland,CHE,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,29
+Switzerland,CHE,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,28.5
+Switzerland,CHE,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,29
+Switzerland,CHE,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,29
+Switzerland,CHE,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,28.5
+Switzerland,CHE,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,28.5
+Switzerland,CHE,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,25
+Switzerland,CHE,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,25
+Switzerland,CHE,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,25
+Switzerland,CHE,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,25
+Switzerland,CHE,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23
+Switzerland,CHE,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23
+Switzerland,CHE,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,23
+Switzerland,CHE,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,22.5
+Switzerland,CHE,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21
+Switzerland,CHE,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,21
+Switzerland,CHE,2022,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.73071438737206
+Switzerland,CHE,2021,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.6898584680943
+Switzerland,CHE,2020,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.26357752483858
+Switzerland,CHE,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,9.55051517750916
+Switzerland,CHE,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.120912853944
+Switzerland,CHE,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.1400285260378
+Switzerland,CHE,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.1398643481545
+Switzerland,CHE,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.4637034678863
+Switzerland,CHE,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.6254017419964
+Switzerland,CHE,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.8879327684919
+Switzerland,CHE,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.6884013799576
+Switzerland,CHE,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.7678225557674
+Switzerland,CHE,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.6525679946187
+Switzerland,CHE,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.6744954277297
+Switzerland,CHE,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,10.8759030847626
+Switzerland,CHE,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.9766440842909
+Switzerland,CHE,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.1920164839192
+Switzerland,CHE,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.1037906227127
+Switzerland,CHE,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.2189886882176
+Switzerland,CHE,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,11.8802976693886
+Switzerland,CHE,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,12.1973544858585
+Switzerland,CHE,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,12.5423325430499
+Switzerland,CHE,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,12.8435049835828
+Switzerland,CHE,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.6868761040045
+Switzerland,CHE,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.5993229927979
+Switzerland,CHE,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.8307335630326
+Switzerland,CHE,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.3955656721293
+Switzerland,CHE,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.5800320105453
+Switzerland,CHE,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.7588469329287
+Switzerland,CHE,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,13.9627634641603
+Switzerland,CHE,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,14.1351253417663
+Switzerland,CHE,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,14.3550356925498
+Switzerland,CHE,2022,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.72912660935976
+Switzerland,CHE,2021,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.54181226833389
+Switzerland,CHE,2020,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.34293349684797
+Switzerland,CHE,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.52865846155788
+Switzerland,CHE,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,9.88291275121655
+Switzerland,CHE,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.0488439936909
+Switzerland,CHE,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.1856619037123
+Switzerland,CHE,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,10.099917948877
+Switzerland,CHE,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.1539051717256
+Switzerland,CHE,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.6115690370439
+Switzerland,CHE,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.3547186023199
+Switzerland,CHE,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.7774512468574
+Switzerland,CHE,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.3001802617117
+Switzerland,CHE,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,11.7839969079489
+Switzerland,CHE,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.5585649285436
+Switzerland,CHE,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.694283324565
+Switzerland,CHE,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.4802048753238
+Switzerland,CHE,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.5657031277944
+Switzerland,CHE,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,12.8378496034841
+Switzerland,CHE,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,13.3296868189941
+Switzerland,CHE,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,13.9538098645094
+Switzerland,CHE,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.6044114589339
+Switzerland,CHE,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.6699824147261
+Switzerland,CHE,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.4895573085907
+Switzerland,CHE,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.5200170332013
+Switzerland,CHE,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,15.1419811396427
+Switzerland,CHE,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.6672559401146
+Switzerland,CHE,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.5427262788587
+Switzerland,CHE,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.5215348714569
+Switzerland,CHE,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.5200070576678
+Switzerland,CHE,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.5121434287485
+Switzerland,CHE,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,14.557021608552
+Switzerland,CHE,2022,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,63.366
+Switzerland,CHE,2021,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.152
+Switzerland,CHE,2020,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.547
+Switzerland,CHE,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.289
+Switzerland,CHE,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.599
+Switzerland,CHE,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.732
+Switzerland,CHE,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.939
+Switzerland,CHE,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.294
+Switzerland,CHE,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.426
+Switzerland,CHE,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.047
+Switzerland,CHE,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.206
+Switzerland,CHE,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.868
+Switzerland,CHE,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.341
+Switzerland,CHE,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.417
+Switzerland,CHE,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.07
+Switzerland,CHE,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.41
+Switzerland,CHE,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.986
+Switzerland,CHE,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.657
+Switzerland,CHE,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.901
+Switzerland,CHE,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.202
+Switzerland,CHE,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.044
+Switzerland,CHE,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.88
+Switzerland,CHE,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,65.946
+Switzerland,CHE,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,69.316
+Switzerland,CHE,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,63.564
+Switzerland,CHE,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.768
+Switzerland,CHE,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.538
+Switzerland,CHE,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,61.922
+Switzerland,CHE,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,64.902
+Switzerland,CHE,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,68.974
+Switzerland,CHE,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,66.274
+Switzerland,CHE,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,67.034
+Switzerland,CHE,2022,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.576
+Switzerland,CHE,2021,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.533
+Switzerland,CHE,2020,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,65.463
+Switzerland,CHE,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.659
+Switzerland,CHE,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.356
+Switzerland,CHE,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.551
+Switzerland,CHE,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,67.79
+Switzerland,CHE,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.777
+Switzerland,CHE,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.353
+Switzerland,CHE,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.932
+Switzerland,CHE,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.897
+Switzerland,CHE,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.222
+Switzerland,CHE,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.846
+Switzerland,CHE,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.157
+Switzerland,CHE,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.146
+Switzerland,CHE,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.221
+Switzerland,CHE,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.195
+Switzerland,CHE,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.626
+Switzerland,CHE,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.179
+Switzerland,CHE,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.458
+Switzerland,CHE,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.435
+Switzerland,CHE,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.63
+Switzerland,CHE,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.525
+Switzerland,CHE,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,67.905
+Switzerland,CHE,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.759
+Switzerland,CHE,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.079
+Switzerland,CHE,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,68.274
+Switzerland,CHE,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,65.727
+Switzerland,CHE,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,65.312
+Switzerland,CHE,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,69.708
+Switzerland,CHE,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.799
+Switzerland,CHE,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,70.192
+Switzerland,CHE,2022,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,65.02
+Switzerland,CHE,2021,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,65.38
+Switzerland,CHE,2020,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,65.019
+Switzerland,CHE,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,66.479
+Switzerland,CHE,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.989
+Switzerland,CHE,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.669
+Switzerland,CHE,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.349
+Switzerland,CHE,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.519
+Switzerland,CHE,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.899
+Switzerland,CHE,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.009
+Switzerland,CHE,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.579
+Switzerland,CHE,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.559
+Switzerland,CHE,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.108
+Switzerland,CHE,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.266
+Switzerland,CHE,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.128
+Switzerland,CHE,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.369
+Switzerland,CHE,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.618
+Switzerland,CHE,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,65.657
+Switzerland,CHE,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.057
+Switzerland,CHE,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,69.347
+Switzerland,CHE,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,69.257
+Switzerland,CHE,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.769
+Switzerland,CHE,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.278
+Switzerland,CHE,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.597
+Switzerland,CHE,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,67.221
+Switzerland,CHE,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,66.956
+Switzerland,CHE,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,66.431
+Switzerland,CHE,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,63.848
+Switzerland,CHE,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,65.109
+Switzerland,CHE,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,69.345
+Switzerland,CHE,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.565
+Switzerland,CHE,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,68.635
+Switzerland,CHE,2022,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.235
+Switzerland,CHE,2021,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.669
+Switzerland,CHE,2020,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.845
+Switzerland,CHE,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,80.066
+Switzerland,CHE,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.717
+Switzerland,CHE,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.171
+Switzerland,CHE,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,79.339
+Switzerland,CHE,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,78.546
+Switzerland,CHE,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,77.914
+Switzerland,CHE,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.992
+Switzerland,CHE,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.566
+Switzerland,CHE,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.133
+Switzerland,CHE,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,75.246
+Switzerland,CHE,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.961
+Switzerland,CHE,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,76.519
+Switzerland,CHE,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.906
+Switzerland,CHE,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.631
+Switzerland,CHE,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,74.166
+Switzerland,CHE,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.783
+Switzerland,CHE,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.997
+Switzerland,CHE,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.708
+Switzerland,CHE,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,73.144
+Switzerland,CHE,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.553
+Switzerland,CHE,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,72.148
+Switzerland,CHE,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,71.972
+Switzerland,CHE,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,70.506
+Switzerland,CHE,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,70.181
+Switzerland,CHE,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,64.596
+Switzerland,CHE,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,64.444
+Switzerland,CHE,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,65.02
+Switzerland,CHE,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,64.024
+Switzerland,CHE,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,63.434
+Switzerland,CHE,2022,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.133
+Switzerland,CHE,2021,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.462
+Switzerland,CHE,2020,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.907
+Switzerland,CHE,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.147
+Switzerland,CHE,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.264
+Switzerland,CHE,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.34
+Switzerland,CHE,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.023
+Switzerland,CHE,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.716
+Switzerland,CHE,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.533
+Switzerland,CHE,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.492
+Switzerland,CHE,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.668
+Switzerland,CHE,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.619
+Switzerland,CHE,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.201
+Switzerland,CHE,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.776
+Switzerland,CHE,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.989
+Switzerland,CHE,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.218
+Switzerland,CHE,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.784
+Switzerland,CHE,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.416
+Switzerland,CHE,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.997
+Switzerland,CHE,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.516
+Switzerland,CHE,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.681
+Switzerland,CHE,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.204
+Switzerland,CHE,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.456
+Switzerland,CHE,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.674
+Switzerland,CHE,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,90.197
+Switzerland,CHE,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.915
+Switzerland,CHE,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.908
+Switzerland,CHE,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,88.483
+Switzerland,CHE,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.886
+Switzerland,CHE,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.227
+Switzerland,CHE,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.375
+Switzerland,CHE,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,89.367
+Switzerland,CHE,2022,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.231
+Switzerland,CHE,2021,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.611
+Switzerland,CHE,2020,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.923
+Switzerland,CHE,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,84.153
+Switzerland,CHE,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,84.04
+Switzerland,CHE,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.81
+Switzerland,CHE,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.729
+Switzerland,CHE,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,83.177
+Switzerland,CHE,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.77
+Switzerland,CHE,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.289
+Switzerland,CHE,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.163
+Switzerland,CHE,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.92
+Switzerland,CHE,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.263
+Switzerland,CHE,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.401
+Switzerland,CHE,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,82.284
+Switzerland,CHE,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.588
+Switzerland,CHE,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.226
+Switzerland,CHE,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.807
+Switzerland,CHE,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.905
+Switzerland,CHE,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.271
+Switzerland,CHE,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.21
+Switzerland,CHE,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.189
+Switzerland,CHE,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.521
+Switzerland,CHE,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.929
+Switzerland,CHE,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,81.103
+Switzerland,CHE,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.232
+Switzerland,CHE,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,80.069
+Switzerland,CHE,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.575
+Switzerland,CHE,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.203
+Switzerland,CHE,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,77.164
+Switzerland,CHE,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.741
+Switzerland,CHE,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,76.449
+Switzerland,CHE,2022,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,61.483
+Switzerland,CHE,2021,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.226
+Switzerland,CHE,2020,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.506
+Switzerland,CHE,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.972
+Switzerland,CHE,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.898
+Switzerland,CHE,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.599
+Switzerland,CHE,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.832
+Switzerland,CHE,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,62.282
+Switzerland,CHE,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,61.9
+Switzerland,CHE,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,61.14
+Switzerland,CHE,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,60.83
+Switzerland,CHE,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,60.537
+Switzerland,CHE,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.979
+Switzerland,CHE,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,61.555
+Switzerland,CHE,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,61.291
+Switzerland,CHE,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.924
+Switzerland,CHE,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.752
+Switzerland,CHE,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.336
+Switzerland,CHE,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.1
+Switzerland,CHE,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.458
+Switzerland,CHE,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,59.295
+Switzerland,CHE,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.822
+Switzerland,CHE,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,57.627
+Switzerland,CHE,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.161
+Switzerland,CHE,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,58.147
+Switzerland,CHE,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.915
+Switzerland,CHE,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,56.951
+Switzerland,CHE,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.15
+Switzerland,CHE,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.175
+Switzerland,CHE,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.876
+Switzerland,CHE,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,52.236
+Switzerland,CHE,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,51.965
+Switzerland,CHE,2022,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,71.932
+Switzerland,CHE,2021,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,72.675
+Switzerland,CHE,2020,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.386
+Switzerland,CHE,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,73.641
+Switzerland,CHE,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.226
+Switzerland,CHE,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.456
+Switzerland,CHE,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.491
+Switzerland,CHE,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.222
+Switzerland,CHE,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.14
+Switzerland,CHE,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.189
+Switzerland,CHE,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.488
+Switzerland,CHE,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.687
+Switzerland,CHE,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,74.349
+Switzerland,CHE,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.233
+Switzerland,CHE,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.449
+Switzerland,CHE,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.75
+Switzerland,CHE,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.4
+Switzerland,CHE,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.095
+Switzerland,CHE,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,75.957
+Switzerland,CHE,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.787
+Switzerland,CHE,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.704
+Switzerland,CHE,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.39
+Switzerland,CHE,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.766
+Switzerland,CHE,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.111
+Switzerland,CHE,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.486
+Switzerland,CHE,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.543
+Switzerland,CHE,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.792
+Switzerland,CHE,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,77.03
+Switzerland,CHE,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,76.892
+Switzerland,CHE,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.084
+Switzerland,CHE,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.104
+Switzerland,CHE,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.627
+Switzerland,CHE,2022,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.572
+Switzerland,CHE,2021,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.313
+Switzerland,CHE,2020,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.001
+Switzerland,CHE,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.709
+Switzerland,CHE,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.105
+Switzerland,CHE,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.063
+Switzerland,CHE,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.011
+Switzerland,CHE,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.912
+Switzerland,CHE,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.991
+Switzerland,CHE,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.922
+Switzerland,CHE,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.738
+Switzerland,CHE,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.8
+Switzerland,CHE,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.2
+Switzerland,CHE,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.514
+Switzerland,CHE,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.97
+Switzerland,CHE,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.505
+Switzerland,CHE,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.696
+Switzerland,CHE,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,5.093
+Switzerland,CHE,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.77
+Switzerland,CHE,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.493
+Switzerland,CHE,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.095
+Switzerland,CHE,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.462
+Switzerland,CHE,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.124
+Switzerland,CHE,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.529
+Switzerland,CHE,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.084
+Switzerland,CHE,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.933
+Switzerland,CHE,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.08
+Switzerland,CHE,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.658
+Switzerland,CHE,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.258
+Switzerland,CHE,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.461
+Switzerland,CHE,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.974
+Switzerland,CHE,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.695
+Switzerland,CHE,2022,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.062
+Switzerland,CHE,2021,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.913
+Switzerland,CHE,2020,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.661
+Switzerland,CHE,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.109
+Switzerland,CHE,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.366
+Switzerland,CHE,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.572
+Switzerland,CHE,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.841
+Switzerland,CHE,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.702
+Switzerland,CHE,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.691
+Switzerland,CHE,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.602
+Switzerland,CHE,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.279
+Switzerland,CHE,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.08
+Switzerland,CHE,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.48
+Switzerland,CHE,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.763
+Switzerland,CHE,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.82
+Switzerland,CHE,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.917
+Switzerland,CHE,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.397
+Switzerland,CHE,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.892
+Switzerland,CHE,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.948
+Switzerland,CHE,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.812
+Switzerland,CHE,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.776
+Switzerland,CHE,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.701
+Switzerland,CHE,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.293
+Switzerland,CHE,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.669
+Switzerland,CHE,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.163
+Switzerland,CHE,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,4.283
+Switzerland,CHE,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.37
+Switzerland,CHE,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.679
+Switzerland,CHE,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.088
+Switzerland,CHE,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.891
+Switzerland,CHE,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.886
+Switzerland,CHE,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,1.202
+Switzerland,CHE,2022,Refugee population by country or territory of asylum,SM.POP.REFG,182474
+Switzerland,CHE,2021,Refugee population by country or territory of asylum,SM.POP.REFG,118829
+Switzerland,CHE,2020,Refugee population by country or territory of asylum,SM.POP.REFG,115798
+Switzerland,CHE,2019,Refugee population by country or territory of asylum,SM.POP.REFG,110162
+Switzerland,CHE,2018,Refugee population by country or territory of asylum,SM.POP.REFG,104011
+Switzerland,CHE,2017,Refugee population by country or territory of asylum,SM.POP.REFG,93030
+Switzerland,CHE,2016,Refugee population by country or territory of asylum,SM.POP.REFG,82668
+Switzerland,CHE,2015,Refugee population by country or territory of asylum,SM.POP.REFG,73326
+Switzerland,CHE,2014,Refugee population by country or territory of asylum,SM.POP.REFG,62596
+Switzerland,CHE,2013,Refugee population by country or territory of asylum,SM.POP.REFG,52448
+Switzerland,CHE,2012,Refugee population by country or territory of asylum,SM.POP.REFG,50733
+Switzerland,CHE,2011,Refugee population by country or territory of asylum,SM.POP.REFG,50401
+Switzerland,CHE,2010,Refugee population by country or territory of asylum,SM.POP.REFG,48813
+Switzerland,CHE,2009,Refugee population by country or territory of asylum,SM.POP.REFG,46204
+Switzerland,CHE,2008,Refugee population by country or territory of asylum,SM.POP.REFG,46131
+Switzerland,CHE,2007,Refugee population by country or territory of asylum,SM.POP.REFG,45642
+Switzerland,CHE,2006,Refugee population by country or territory of asylum,SM.POP.REFG,48508
+Switzerland,CHE,2005,Refugee population by country or territory of asylum,SM.POP.REFG,48010
+Switzerland,CHE,2004,Refugee population by country or territory of asylum,SM.POP.REFG,47654
+Switzerland,CHE,2003,Refugee population by country or territory of asylum,SM.POP.REFG,50126
+Switzerland,CHE,2002,Refugee population by country or territory of asylum,SM.POP.REFG,54081
+Switzerland,CHE,2001,Refugee population by country or territory of asylum,SM.POP.REFG,58471
+Switzerland,CHE,2000,Refugee population by country or territory of asylum,SM.POP.REFG,57624
+Switzerland,CHE,1999,Refugee population by country or territory of asylum,SM.POP.REFG,82273
+Switzerland,CHE,1998,Refugee population by country or territory of asylum,SM.POP.REFG,81875
+Switzerland,CHE,1997,Refugee population by country or territory of asylum,SM.POP.REFG,83205
+Switzerland,CHE,1996,Refugee population by country or territory of asylum,SM.POP.REFG,84413
+Switzerland,CHE,1995,Refugee population by country or territory of asylum,SM.POP.REFG,82943
+Switzerland,CHE,1994,Refugee population by country or territory of asylum,SM.POP.REFG,75295
+Switzerland,CHE,1993,Refugee population by country or territory of asylum,SM.POP.REFG,56586
+Switzerland,CHE,1992,Refugee population by country or territory of asylum,SM.POP.REFG,51930
+Switzerland,CHE,1991,Refugee population by country or territory of asylum,SM.POP.REFG,45622
+Switzerland,CHE,1990,Refugee population by country or territory of asylum,SM.POP.REFG,40943
+Switzerland,CHE,1989,Refugee population by country or territory of asylum,SM.POP.REFG,36763
+Switzerland,CHE,1988,Refugee population by country or territory of asylum,SM.POP.REFG,31949
+Switzerland,CHE,1987,Refugee population by country or territory of asylum,SM.POP.REFG,31707
+Switzerland,CHE,1986,Refugee population by country or territory of asylum,SM.POP.REFG,31343
+Switzerland,CHE,1985,Refugee population by country or territory of asylum,SM.POP.REFG,30726
+Switzerland,CHE,1984,Refugee population by country or territory of asylum,SM.POP.REFG,31201
+Switzerland,CHE,1983,Refugee population by country or territory of asylum,SM.POP.REFG,32312
+Switzerland,CHE,1982,Refugee population by country or territory of asylum,SM.POP.REFG,33404
+Switzerland,CHE,1981,Refugee population by country or territory of asylum,SM.POP.REFG,40000
+Switzerland,CHE,1980,Refugee population by country or territory of asylum,SM.POP.REFG,32000
+Switzerland,CHE,1979,Refugee population by country or territory of asylum,SM.POP.REFG,30000
+Switzerland,CHE,1978,Refugee population by country or territory of asylum,SM.POP.REFG,30000
+Switzerland,CHE,1977,Refugee population by country or territory of asylum,SM.POP.REFG,30000
+Switzerland,CHE,1976,Refugee population by country or territory of asylum,SM.POP.REFG,35000
+Switzerland,CHE,1975,Refugee population by country or territory of asylum,SM.POP.REFG,35000
+Switzerland,CHE,1974,Refugee population by country or territory of asylum,SM.POP.REFG,35000
+Switzerland,CHE,1973,Refugee population by country or territory of asylum,SM.POP.REFG,35000
+Switzerland,CHE,1972,Refugee population by country or territory of asylum,SM.POP.REFG,35000
+Switzerland,CHE,1971,Refugee population by country or territory of asylum,SM.POP.REFG,30000
+Switzerland,CHE,1970,Refugee population by country or territory of asylum,SM.POP.REFG,31000
+Switzerland,CHE,1969,Refugee population by country or territory of asylum,SM.POP.REFG,30000
+Switzerland,CHE,1968,Refugee population by country or territory of asylum,SM.POP.REFG,26000
+Switzerland,CHE,1967,Refugee population by country or territory of asylum,SM.POP.REFG,21000
+Switzerland,CHE,1966,Refugee population by country or territory of asylum,SM.POP.REFG,20500
+Switzerland,CHE,1965,Refugee population by country or territory of asylum,SM.POP.REFG,20000
+Switzerland,CHE,1964,Refugee population by country or territory of asylum,SM.POP.REFG,20000
+Switzerland,CHE,1963,Refugee population by country or territory of asylum,SM.POP.REFG,20000
+Switzerland,CHE,1962,Refugee population by country or territory of asylum,SM.POP.REFG,20000
+Switzerland,CHE,1961,Refugee population by country or territory of asylum,SM.POP.REFG,20000
+Switzerland,CHE,1960,Refugee population by country or territory of asylum,SM.POP.REFG,20000
+Switzerland,CHE,2022,Refugee population by country or territory of origin,SM.POP.REFG.OR,8
+Switzerland,CHE,2020,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+Switzerland,CHE,2019,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+Switzerland,CHE,2018,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+Switzerland,CHE,2017,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+Switzerland,CHE,2016,Refugee population by country or territory of origin,SM.POP.REFG.OR,5
+Switzerland,CHE,2015,Refugee population by country or territory of origin,SM.POP.REFG.OR,16
+Switzerland,CHE,2014,Refugee population by country or territory of origin,SM.POP.REFG.OR,16
+Switzerland,CHE,2013,Refugee population by country or territory of origin,SM.POP.REFG.OR,11
+Switzerland,CHE,2012,Refugee population by country or territory of origin,SM.POP.REFG.OR,16
+Switzerland,CHE,2011,Refugee population by country or territory of origin,SM.POP.REFG.OR,20
+Switzerland,CHE,2010,Refugee population by country or territory of origin,SM.POP.REFG.OR,20
+Switzerland,CHE,2009,Refugee population by country or territory of origin,SM.POP.REFG.OR,19
+Switzerland,CHE,2008,Refugee population by country or territory of origin,SM.POP.REFG.OR,32
+Switzerland,CHE,2007,Refugee population by country or territory of origin,SM.POP.REFG.OR,33
+Switzerland,CHE,2006,Refugee population by country or territory of origin,SM.POP.REFG.OR,38
+Switzerland,CHE,2005,Refugee population by country or territory of origin,SM.POP.REFG.OR,14
+Switzerland,CHE,2004,Refugee population by country or territory of origin,SM.POP.REFG.OR,11
+Switzerland,CHE,2003,Refugee population by country or territory of origin,SM.POP.REFG.OR,34
+Switzerland,CHE,2002,Refugee population by country or territory of origin,SM.POP.REFG.OR,55
+Switzerland,CHE,2001,Refugee population by country or territory of origin,SM.POP.REFG.OR,60
+Switzerland,CHE,2000,Refugee population by country or territory of origin,SM.POP.REFG.OR,69
+Switzerland,CHE,1999,Refugee population by country or territory of origin,SM.POP.REFG.OR,90
+Switzerland,CHE,1998,Refugee population by country or territory of origin,SM.POP.REFG.OR,76
+Switzerland,CHE,1997,Refugee population by country or territory of origin,SM.POP.REFG.OR,54
+Switzerland,CHE,1996,Refugee population by country or territory of origin,SM.POP.REFG.OR,32
+Switzerland,CHE,1995,Refugee population by country or territory of origin,SM.POP.REFG.OR,27
+Switzerland,CHE,1994,Refugee population by country or territory of origin,SM.POP.REFG.OR,8
+Switzerland,CHE,2021,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.212
+Switzerland,CHE,2020,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.194
+Switzerland,CHE,2019,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.185
+Switzerland,CHE,2018,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.403
+Switzerland,CHE,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.557
+Switzerland,CHE,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.874
+Switzerland,CHE,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,2.852
+Switzerland,CHE,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.061
+Switzerland,CHE,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.207
+Switzerland,CHE,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.542
+Switzerland,CHE,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,3.627
+Switzerland,CHE,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.083
+Switzerland,CHE,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.276
+Switzerland,CHE,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.417
+Switzerland,CHE,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.489
+Switzerland,CHE,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,4.674
+Switzerland,CHE,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.162
+Switzerland,CHE,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.396
+Switzerland,CHE,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.43
+Switzerland,CHE,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.618
+Switzerland,CHE,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.633
+Switzerland,CHE,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.168
+Switzerland,CHE,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.105
+Switzerland,CHE,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.777
+Switzerland,CHE,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.671
+Switzerland,CHE,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.755
+Switzerland,CHE,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,5.763
+Switzerland,CHE,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.231
+Switzerland,CHE,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.022
+Switzerland,CHE,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.827
+Switzerland,CHE,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.283
+Switzerland,CHE,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.556
+Switzerland,CHE,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.172
+Switzerland,CHE,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.101
+Switzerland,CHE,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.6
+Switzerland,CHE,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,6.859
+Switzerland,CHE,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,7.057
+Switzerland,CHE,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.18
+Switzerland,CHE,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,8.553
+Switzerland,CHE,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.582
+Switzerland,CHE,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.787
+Switzerland,CHE,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.907
+Switzerland,CHE,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,9.666
+Switzerland,CHE,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.116
+Switzerland,CHE,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,10.799
+Switzerland,CHE,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,12.842
+Switzerland,CHE,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.254
+Switzerland,CHE,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,17.781
+Switzerland,CHE,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.589
+Switzerland,CHE,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.683
+Switzerland,CHE,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.954
+Switzerland,CHE,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.147
+Switzerland,CHE,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.954
+Switzerland,CHE,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.151
+Switzerland,CHE,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.478
+Switzerland,CHE,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.931
+Switzerland,CHE,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,26.001
+Switzerland,CHE,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,24.817
+Switzerland,CHE,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,23.387
+Switzerland,CHE,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,21.381
+Switzerland,CHE,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,20.066
+Switzerland,CHE,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,15.205
+Switzerland,CHE,2021,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.9
+Switzerland,CHE,2020,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.1
+Switzerland,CHE,2019,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.8
+Switzerland,CHE,2018,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.7
+Switzerland,CHE,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.6
+Switzerland,CHE,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.6
+Switzerland,CHE,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.1
+Switzerland,CHE,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85.4
+Switzerland,CHE,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85
+Switzerland,CHE,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.9
+Switzerland,CHE,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,85
+Switzerland,CHE,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.5
+Switzerland,CHE,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4
+Switzerland,CHE,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.4
+Switzerland,CHE,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84.2
+Switzerland,CHE,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,84
+Switzerland,CHE,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.9
+Switzerland,CHE,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.7
+Switzerland,CHE,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.2
+Switzerland,CHE,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.1
+Switzerland,CHE,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,83.1
+Switzerland,CHE,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.6
+Switzerland,CHE,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.5
+Switzerland,CHE,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.5
+Switzerland,CHE,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82.04
+Switzerland,CHE,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,82
+Switzerland,CHE,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.69
+Switzerland,CHE,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.71
+Switzerland,CHE,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.43
+Switzerland,CHE,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.33
+Switzerland,CHE,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,81.1
+Switzerland,CHE,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.71
+Switzerland,CHE,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.94
+Switzerland,CHE,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.73
+Switzerland,CHE,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.66
+Switzerland,CHE,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.3
+Switzerland,CHE,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.15
+Switzerland,CHE,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,80.03
+Switzerland,CHE,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.55
+Switzerland,CHE,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.44
+Switzerland,CHE,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,79.13
+Switzerland,CHE,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.85
+Switzerland,CHE,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.78
+Switzerland,CHE,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.66
+Switzerland,CHE,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.68
+Switzerland,CHE,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78.13
+Switzerland,CHE,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,78
+Switzerland,CHE,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.56
+Switzerland,CHE,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,77.05
+Switzerland,CHE,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.82
+Switzerland,CHE,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.25
+Switzerland,CHE,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,76.16
+Switzerland,CHE,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.65
+Switzerland,CHE,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.52
+Switzerland,CHE,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.72
+Switzerland,CHE,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.25
+Switzerland,CHE,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.07
+Switzerland,CHE,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,75.11
+Switzerland,CHE,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.23
+Switzerland,CHE,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.09
+Switzerland,CHE,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.59
+Switzerland,CHE,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,74.11
+Switzerland,CHE,2021,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.9
+Switzerland,CHE,2020,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81
+Switzerland,CHE,2019,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,82.1
+Switzerland,CHE,2018,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.9
+Switzerland,CHE,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.6
+Switzerland,CHE,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.7
+Switzerland,CHE,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.8
+Switzerland,CHE,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,81.1
+Switzerland,CHE,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.7
+Switzerland,CHE,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.6
+Switzerland,CHE,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.5
+Switzerland,CHE,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,80.1
+Switzerland,CHE,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.8
+Switzerland,CHE,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.7
+Switzerland,CHE,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.4
+Switzerland,CHE,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,79.1
+Switzerland,CHE,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.7
+Switzerland,CHE,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78.6
+Switzerland,CHE,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,78
+Switzerland,CHE,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.8
+Switzerland,CHE,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,77.4
+Switzerland,CHE,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.9
+Switzerland,CHE,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.8
+Switzerland,CHE,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.3
+Switzerland,CHE,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,76.26
+Switzerland,CHE,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.94
+Switzerland,CHE,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.3
+Switzerland,CHE,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,75.15
+Switzerland,CHE,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.9
+Switzerland,CHE,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.45
+Switzerland,CHE,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.1
+Switzerland,CHE,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.94
+Switzerland,CHE,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,74.07
+Switzerland,CHE,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.89
+Switzerland,CHE,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.9
+Switzerland,CHE,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.66
+Switzerland,CHE,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.48
+Switzerland,CHE,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,73.35
+Switzerland,CHE,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.68
+Switzerland,CHE,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.79
+Switzerland,CHE,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.42
+Switzerland,CHE,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.23
+Switzerland,CHE,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,72.31
+Switzerland,CHE,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.88
+Switzerland,CHE,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.96
+Switzerland,CHE,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.6
+Switzerland,CHE,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.49
+Switzerland,CHE,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,71.17
+Switzerland,CHE,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.98
+Switzerland,CHE,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.62
+Switzerland,CHE,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.16
+Switzerland,CHE,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,70.03
+Switzerland,CHE,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.72
+Switzerland,CHE,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.8
+Switzerland,CHE,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.7
+Switzerland,CHE,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.56
+Switzerland,CHE,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.47
+Switzerland,CHE,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,69.19
+Switzerland,CHE,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.29
+Switzerland,CHE,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.44
+Switzerland,CHE,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.84
+Switzerland,CHE,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68.65

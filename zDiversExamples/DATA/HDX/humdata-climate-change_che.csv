@@ -1,0 +1,1998 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Switzerland,CHE,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,14993.783
+Switzerland,CHE,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,15024.369
+Switzerland,CHE,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,15055.158
+Switzerland,CHE,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,15085.727
+Switzerland,CHE,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,15116.339
+Switzerland,CHE,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,15147.463
+Switzerland,CHE,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,15180.055
+Switzerland,CHE,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,15212.778
+Switzerland,CHE,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,15245.633
+Switzerland,CHE,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,15278.375
+Switzerland,CHE,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,15311.226
+Switzerland,CHE,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,15344.107
+Switzerland,CHE,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,15376.983
+Switzerland,CHE,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,15410.273
+Switzerland,CHE,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,15443.686
+Switzerland,CHE,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,15474.187
+Switzerland,CHE,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,15504.631
+Switzerland,CHE,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,15535.559
+Switzerland,CHE,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,15566.689
+Switzerland,CHE,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,15597.256
+Switzerland,CHE,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,15627.446
+Switzerland,CHE,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,15658.165
+Switzerland,CHE,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,15688.881
+Switzerland,CHE,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,15721.444
+Switzerland,CHE,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,15752.201
+Switzerland,CHE,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,15783.105
+Switzerland,CHE,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,15820.57
+Switzerland,CHE,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,15867.503
+Switzerland,CHE,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,15914.576
+Switzerland,CHE,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,15961.788
+Switzerland,CHE,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,16009.14
+Switzerland,CHE,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,16050.303
+Switzerland,CHE,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,16104.266
+Switzerland,CHE,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,16152.041
+Switzerland,CHE,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,16199.958
+Switzerland,CHE,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,16248.017
+Switzerland,CHE,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,16290.524
+Switzerland,CHE,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,16344.562
+Switzerland,CHE,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,16393.05
+Switzerland,CHE,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,16441.394
+Switzerland,CHE,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,16489.882
+Switzerland,CHE,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,16533.566
+Switzerland,CHE,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,16587.287
+Switzerland,CHE,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,16449
+Switzerland,CHE,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,16414
+Switzerland,CHE,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,16426
+Switzerland,CHE,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,16438
+Switzerland,CHE,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,16475
+Switzerland,CHE,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,16537
+Switzerland,CHE,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,16628
+Switzerland,CHE,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,16654
+Switzerland,CHE,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,16739
+Switzerland,CHE,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,16874
+Switzerland,CHE,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,16861
+Switzerland,CHE,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,16888
+Switzerland,CHE,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,16957
+Switzerland,CHE,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,17016
+Switzerland,CHE,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,17104
+Switzerland,CHE,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,17192
+Switzerland,CHE,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,17334
+Switzerland,CHE,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,17363
+Switzerland,CHE,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,37.9496922648985
+Switzerland,CHE,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.0271063029444
+Switzerland,CHE,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.1050341397781
+Switzerland,CHE,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.1824051503393
+Switzerland,CHE,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.2598849951265
+Switzerland,CHE,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.3386607265115
+Switzerland,CHE,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.4205685464246
+Switzerland,CHE,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.5028064078332
+Switzerland,CHE,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.5853758563219
+Switzerland,CHE,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.6676558338134
+Switzerland,CHE,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.7502111350433
+Switzerland,CHE,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.8328388786286
+Switzerland,CHE,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.9154514632651
+Switzerland,CHE,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,38.9991102489111
+Switzerland,CHE,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.0830777765012
+Switzerland,CHE,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.1590521822101
+Switzerland,CHE,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.2348776376625
+Switzerland,CHE,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.3119241238083
+Switzerland,CHE,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.3894779687923
+Switzerland,CHE,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.4656034584428
+Switzerland,CHE,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.5407713506987
+Switzerland,CHE,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.6172730401124
+Switzerland,CHE,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.6937644213253
+Switzerland,CHE,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.7749239557872
+Switzerland,CHE,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.8515104913607
+Switzerland,CHE,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,39.9284652012952
+Switzerland,CHE,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.0220138442846
+Switzerland,CHE,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.1408236209887
+Switzerland,CHE,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.2599880443749
+Switzerland,CHE,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.3795045868357
+Switzerland,CHE,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.4993757802747
+Switzerland,CHE,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.6035907063298
+Switzerland,CHE,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.7401871882525
+Switzerland,CHE,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.8611299368997
+Switzerland,CHE,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,40.9824324047415
+Switzerland,CHE,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.1040945939621
+Switzerland,CHE,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.2117118450388
+Switzerland,CHE,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.3485006750776
+Switzerland,CHE,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.4712496309644
+Switzerland,CHE,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.5935506116946
+Switzerland,CHE,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.7162158846064
+Switzerland,CHE,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.8267279655724
+Switzerland,CHE,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.9626317175542
+Switzerland,CHE,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.6135397692775
+Switzerland,CHE,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.5249949402955
+Switzerland,CHE,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.555353167375
+Switzerland,CHE,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.5857113944546
+Switzerland,CHE,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.6793159279498
+Switzerland,CHE,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,41.8361667678608
+Switzerland,CHE,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.0663833232139
+Switzerland,CHE,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.1321594818863
+Switzerland,CHE,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.3471969236997
+Switzerland,CHE,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.6887269783445
+Switzerland,CHE,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.6558388990083
+Switzerland,CHE,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.7241449099373
+Switzerland,CHE,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,42.8987047156446
+Switzerland,CHE,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.0479659987857
+Switzerland,CHE,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.270592997369
+Switzerland,CHE,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.4932199959522
+Switzerland,CHE,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.8524590163934
+Switzerland,CHE,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,43.9258247318357
+Switzerland,CHE,2021,Arable land (% of land area),AG.LND.ARBL.ZS,10.009321778007
+Switzerland,CHE,2020,Arable land (% of land area),AG.LND.ARBL.ZS,10.1201023649171
+Switzerland,CHE,2019,Arable land (% of land area),AG.LND.ARBL.ZS,10.0935999653755
+Switzerland,CHE,2018,Arable land (% of land area),AG.LND.ARBL.ZS,10.0770090734841
+Switzerland,CHE,2017,Arable land (% of land area),AG.LND.ARBL.ZS,10.0781505673427
+Switzerland,CHE,2016,Arable land (% of land area),AG.LND.ARBL.ZS,10.0910917161209
+Switzerland,CHE,2015,Arable land (% of land area),AG.LND.ARBL.ZS,10.0834340878299
+Switzerland,CHE,2014,Arable land (% of land area),AG.LND.ARBL.ZS,10.1096765142539
+Switzerland,CHE,2013,Arable land (% of land area),AG.LND.ARBL.ZS,10.1970928512126
+Switzerland,CHE,2012,Arable land (% of land area),AG.LND.ARBL.ZS,10.1998738207009
+Switzerland,CHE,2011,Arable land (% of land area),AG.LND.ARBL.ZS,10.2005698127986
+Switzerland,CHE,2010,Arable land (% of land area),AG.LND.ARBL.ZS,10.2180826799129
+Switzerland,CHE,2009,Arable land (% of land area),AG.LND.ARBL.ZS,10.2549907596896
+Switzerland,CHE,2008,Arable land (% of land area),AG.LND.ARBL.ZS,10.2618001093373
+Switzerland,CHE,2007,Arable land (% of land area),AG.LND.ARBL.ZS,10.2715246000129
+Switzerland,CHE,2006,Arable land (% of land area),AG.LND.ARBL.ZS,10.2782741629424
+Switzerland,CHE,2005,Arable land (% of land area),AG.LND.ARBL.ZS,10.2590651678865
+Switzerland,CHE,2004,Arable land (% of land area),AG.LND.ARBL.ZS,10.2679582478105
+Switzerland,CHE,2003,Arable land (% of land area),AG.LND.ARBL.ZS,10.2800570153019
+Switzerland,CHE,2002,Arable land (% of land area),AG.LND.ARBL.ZS,10.3133388944079
+Switzerland,CHE,2001,Arable land (% of land area),AG.LND.ARBL.ZS,10.342633891296
+Switzerland,CHE,2000,Arable land (% of land area),AG.LND.ARBL.ZS,10.3239253548407
+Switzerland,CHE,1999,Arable land (% of land area),AG.LND.ARBL.ZS,10.370238432579
+Switzerland,CHE,1998,Arable land (% of land area),AG.LND.ARBL.ZS,10.4424657590738
+Switzerland,CHE,1997,Arable land (% of land area),AG.LND.ARBL.ZS,10.4955071866015
+Switzerland,CHE,1996,Arable land (% of land area),AG.LND.ARBL.ZS,10.6327634265686
+Switzerland,CHE,1995,Arable land (% of land area),AG.LND.ARBL.ZS,10.6793226454964
+Switzerland,CHE,1994,Arable land (% of land area),AG.LND.ARBL.ZS,10.6045344765782
+Switzerland,CHE,1993,Arable land (% of land area),AG.LND.ARBL.ZS,10.3684715545424
+Switzerland,CHE,1992,Arable land (% of land area),AG.LND.ARBL.ZS,10.2730269573834
+Switzerland,CHE,1991,Arable land (% of land area),AG.LND.ARBL.ZS,10.3100076272441
+Switzerland,CHE,1990,Arable land (% of land area),AG.LND.ARBL.ZS,10.1972538324133
+Switzerland,CHE,1989,Arable land (% of land area),AG.LND.ARBL.ZS,10.336870044643
+Switzerland,CHE,1988,Arable land (% of land area),AG.LND.ARBL.ZS,10.1758501519513
+Switzerland,CHE,1987,Arable land (% of land area),AG.LND.ARBL.ZS,10.0863997927599
+Switzerland,CHE,1986,Arable land (% of land area),AG.LND.ARBL.ZS,10.2227101908854
+Switzerland,CHE,1985,Arable land (% of land area),AG.LND.ARBL.ZS,10.2315295124804
+Switzerland,CHE,1984,Arable land (% of land area),AG.LND.ARBL.ZS,10.1788797481532
+Switzerland,CHE,1983,Arable land (% of land area),AG.LND.ARBL.ZS,9.9801941424347
+Switzerland,CHE,1982,Arable land (% of land area),AG.LND.ARBL.ZS,9.83957483054722
+Switzerland,CHE,1981,Arable land (% of land area),AG.LND.ARBL.ZS,9.73070965381871
+Switzerland,CHE,1980,Arable land (% of land area),AG.LND.ARBL.ZS,9.62938077159614
+Switzerland,CHE,1979,Arable land (% of land area),AG.LND.ARBL.ZS,9.53578550881119
+Switzerland,CHE,1978,Arable land (% of land area),AG.LND.ARBL.ZS,9.49453551912568
+Switzerland,CHE,1977,Arable land (% of land area),AG.LND.ARBL.ZS,9.35792349726776
+Switzerland,CHE,1976,Arable land (% of land area),AG.LND.ARBL.ZS,9.34780408824125
+Switzerland,CHE,1975,Arable land (% of land area),AG.LND.ARBL.ZS,9.33262497470148
+Switzerland,CHE,1974,Arable land (% of land area),AG.LND.ARBL.ZS,9.24408014571949
+Switzerland,CHE,1973,Arable land (% of land area),AG.LND.ARBL.ZS,9.17830398704716
+Switzerland,CHE,1972,Arable land (% of land area),AG.LND.ARBL.ZS,9.18336369156041
+Switzerland,CHE,1971,Arable land (% of land area),AG.LND.ARBL.ZS,9.02904270390609
+Switzerland,CHE,1970,Arable land (% of land area),AG.LND.ARBL.ZS,9.00374418133981
+Switzerland,CHE,1969,Arable land (% of land area),AG.LND.ARBL.ZS,9.10746812386157
+Switzerland,CHE,1968,Arable land (% of land area),AG.LND.ARBL.ZS,9.09987856709168
+Switzerland,CHE,1967,Arable land (% of land area),AG.LND.ARBL.ZS,9.19348310058693
+Switzerland,CHE,1966,Arable land (% of land area),AG.LND.ARBL.ZS,9.38575187209067
+Switzerland,CHE,1965,Arable land (% of land area),AG.LND.ARBL.ZS,9.55525197328476
+Switzerland,CHE,1964,Arable land (% of land area),AG.LND.ARBL.ZS,9.70957296093908
+Switzerland,CHE,1963,Arable land (% of land area),AG.LND.ARBL.ZS,9.81329690346084
+Switzerland,CHE,1962,Arable land (% of land area),AG.LND.ARBL.ZS,10.0612224246104
+Switzerland,CHE,1961,Arable land (% of land area),AG.LND.ARBL.ZS,10.0207447885044
+Switzerland,CHE,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,0
+Switzerland,CHE,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,0
+Switzerland,CHE,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,0
+Switzerland,CHE,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0
+Switzerland,CHE,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0
+Switzerland,CHE,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0
+Switzerland,CHE,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Switzerland,CHE,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Switzerland,CHE,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Switzerland,CHE,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Switzerland,CHE,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Switzerland,CHE,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Switzerland,CHE,2015,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0
+Switzerland,CHE,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0
+Switzerland,CHE,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0
+Switzerland,CHE,2021,Forest area (sq. km),AG.LND.FRST.K2,12725.5
+Switzerland,CHE,2020,Forest area (sq. km),AG.LND.FRST.K2,12691.1
+Switzerland,CHE,2019,Forest area (sq. km),AG.LND.FRST.K2,12656.7
+Switzerland,CHE,2018,Forest area (sq. km),AG.LND.FRST.K2,12622.3
+Switzerland,CHE,2017,Forest area (sq. km),AG.LND.FRST.K2,12587.9
+Switzerland,CHE,2016,Forest area (sq. km),AG.LND.FRST.K2,12553.5
+Switzerland,CHE,2015,Forest area (sq. km),AG.LND.FRST.K2,12519.1
+Switzerland,CHE,2014,Forest area (sq. km),AG.LND.FRST.K2,12484.72
+Switzerland,CHE,2013,Forest area (sq. km),AG.LND.FRST.K2,12450.34
+Switzerland,CHE,2012,Forest area (sq. km),AG.LND.FRST.K2,12415.96
+Switzerland,CHE,2011,Forest area (sq. km),AG.LND.FRST.K2,12381.58
+Switzerland,CHE,2010,Forest area (sq. km),AG.LND.FRST.K2,12347.2
+Switzerland,CHE,2009,Forest area (sq. km),AG.LND.FRST.K2,12308.66
+Switzerland,CHE,2008,Forest area (sq. km),AG.LND.FRST.K2,12270.12
+Switzerland,CHE,2007,Forest area (sq. km),AG.LND.FRST.K2,12231.58
+Switzerland,CHE,2006,Forest area (sq. km),AG.LND.FRST.K2,12193.04
+Switzerland,CHE,2005,Forest area (sq. km),AG.LND.FRST.K2,12154.5
+Switzerland,CHE,2004,Forest area (sq. km),AG.LND.FRST.K2,12115.96
+Switzerland,CHE,2003,Forest area (sq. km),AG.LND.FRST.K2,12077.42
+Switzerland,CHE,2002,Forest area (sq. km),AG.LND.FRST.K2,12038.88
+Switzerland,CHE,2001,Forest area (sq. km),AG.LND.FRST.K2,12000.34
+Switzerland,CHE,2000,Forest area (sq. km),AG.LND.FRST.K2,11961.8
+Switzerland,CHE,1999,Forest area (sq. km),AG.LND.FRST.K2,11919.12
+Switzerland,CHE,1998,Forest area (sq. km),AG.LND.FRST.K2,11876.44
+Switzerland,CHE,1997,Forest area (sq. km),AG.LND.FRST.K2,11833.76
+Switzerland,CHE,1996,Forest area (sq. km),AG.LND.FRST.K2,11791.08
+Switzerland,CHE,1995,Forest area (sq. km),AG.LND.FRST.K2,11748.4
+Switzerland,CHE,1994,Forest area (sq. km),AG.LND.FRST.K2,11705.72
+Switzerland,CHE,1993,Forest area (sq. km),AG.LND.FRST.K2,11663.04
+Switzerland,CHE,1992,Forest area (sq. km),AG.LND.FRST.K2,11620.36
+Switzerland,CHE,1991,Forest area (sq. km),AG.LND.FRST.K2,11577.68
+Switzerland,CHE,1990,Forest area (sq. km),AG.LND.FRST.K2,11535
+Switzerland,CHE,2021,Forest area (% of land area),AG.LND.FRST.ZS,32.2086033202538
+Switzerland,CHE,2020,Forest area (% of land area),AG.LND.FRST.ZS,32.1215359394659
+Switzerland,CHE,2019,Forest area (% of land area),AG.LND.FRST.ZS,32.034468558678
+Switzerland,CHE,2018,Forest area (% of land area),AG.LND.FRST.ZS,31.9474011778901
+Switzerland,CHE,2017,Forest area (% of land area),AG.LND.FRST.ZS,31.8603337971021
+Switzerland,CHE,2016,Forest area (% of land area),AG.LND.FRST.ZS,31.7732664163142
+Switzerland,CHE,2015,Forest area (% of land area),AG.LND.FRST.ZS,31.6857178507946
+Switzerland,CHE,2014,Forest area (% of land area),AG.LND.FRST.ZS,31.5982233630178
+Switzerland,CHE,2013,Forest area (% of land area),AG.LND.FRST.ZS,31.5107315281037
+Switzerland,CHE,2012,Forest area (% of land area),AG.LND.FRST.ZS,31.4232415506488
+Switzerland,CHE,2011,Forest area (% of land area),AG.LND.FRST.ZS,31.3357558163813
+Switzerland,CHE,2010,Forest area (% of land area),AG.LND.FRST.ZS,31.2482719393317
+Switzerland,CHE,2009,Forest area (% of land area),AG.LND.FRST.ZS,31.1502627536125
+Switzerland,CHE,2008,Forest area (% of land area),AG.LND.FRST.ZS,31.0522573251862
+Switzerland,CHE,2007,Forest area (% of land area),AG.LND.FRST.ZS,30.9542548630875
+Switzerland,CHE,2006,Forest area (% of land area),AG.LND.FRST.ZS,30.8557657743037
+Switzerland,CHE,2005,Forest area (% of land area),AG.LND.FRST.ZS,30.7572827916362
+Switzerland,CHE,2004,Forest area (% of land area),AG.LND.FRST.ZS,30.6588066903223
+Switzerland,CHE,2003,Forest area (% of land area),AG.LND.FRST.ZS,30.5603374622472
+Switzerland,CHE,2002,Forest area (% of land area),AG.LND.FRST.ZS,30.4618750992981
+Switzerland,CHE,2001,Forest area (% of land area),AG.LND.FRST.ZS,30.3634195933644
+Switzerland,CHE,2000,Forest area (% of land area),AG.LND.FRST.ZS,30.2649701705926
+Switzerland,CHE,1999,Forest area (% of land area),AG.LND.FRST.ZS,30.1560539205764
+Switzerland,CHE,1998,Forest area (% of land area),AG.LND.FRST.ZS,30.0471443886115
+Switzerland,CHE,1997,Forest area (% of land area),AG.LND.FRST.ZS,29.938242331484
+Switzerland,CHE,1996,Forest area (% of land area),AG.LND.FRST.ZS,29.829347740238
+Switzerland,CHE,1995,Forest area (% of land area),AG.LND.FRST.ZS,29.7204606059196
+Switzerland,CHE,1994,Forest area (% of land area),AG.LND.FRST.ZS,29.6125510029322
+Switzerland,CHE,1993,Forest area (% of land area),AG.LND.FRST.ZS,29.504640963169
+Switzerland,CHE,1992,Forest area (% of land area),AG.LND.FRST.ZS,29.3967304866273
+Switzerland,CHE,1991,Forest area (% of land area),AG.LND.FRST.ZS,29.2888195733044
+Switzerland,CHE,1990,Forest area (% of land area),AG.LND.FRST.ZS,29.1809082231976
+Switzerland,CHE,2020,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,3.28865724743582
+Switzerland,CHE,2016,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,2.1645869014501
+Switzerland,CHE,2013,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,2.24996889273145
+Switzerland,CHE,2010,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,2.35921191112653
+Switzerland,CHE,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1537
+Switzerland,CHE,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6083.6
+Switzerland,CHE,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5515.8
+Switzerland,CHE,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6978
+Switzerland,CHE,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6580.8
+Switzerland,CHE,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6332.3
+Switzerland,CHE,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6800.2
+Switzerland,CHE,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5154.6
+Switzerland,CHE,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6431.9
+Switzerland,CHE,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,7044.6
+Switzerland,CHE,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5945.6
+Switzerland,CHE,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6464.3
+Switzerland,CHE,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6874.6
+Switzerland,CHE,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6093.9
+Switzerland,CHE,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6578.3
+Switzerland,CHE,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6413.1
+Switzerland,CHE,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6418.5
+Switzerland,CHE,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6165
+Switzerland,CHE,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6300.4
+Switzerland,CHE,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6732.5
+Switzerland,CHE,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5086.5
+Switzerland,CHE,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6269.8
+Switzerland,CHE,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6011.9
+Switzerland,CHE,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6402.2
+Switzerland,CHE,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5643.1
+Switzerland,CHE,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6641
+Switzerland,CHE,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6407
+Switzerland,CHE,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6706.8
+Switzerland,CHE,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6068.8
+Switzerland,CHE,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5807.6
+Switzerland,CHE,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6209
+Switzerland,CHE,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5877.4
+Switzerland,CHE,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6103.6
+Switzerland,CHE,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5983.9
+Switzerland,CHE,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6780.9
+Switzerland,CHE,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6328.9
+Switzerland,CHE,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5043.2
+Switzerland,CHE,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5090.7
+Switzerland,CHE,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5720.6
+Switzerland,CHE,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,6162.9
+Switzerland,CHE,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5071
+Switzerland,CHE,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5279.9
+Switzerland,CHE,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4948.1
+Switzerland,CHE,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4623.7
+Switzerland,CHE,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,5078.4
+Switzerland,CHE,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4815.8
+Switzerland,CHE,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4004.4
+Switzerland,CHE,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4530.2
+Switzerland,CHE,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4256.9
+Switzerland,CHE,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4766.9
+Switzerland,CHE,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4198.3
+Switzerland,CHE,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4079.6
+Switzerland,CHE,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4282.9
+Switzerland,CHE,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3692.5
+Switzerland,CHE,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3651.4
+Switzerland,CHE,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3852.2
+Switzerland,CHE,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3983.4
+Switzerland,CHE,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3305.7
+Switzerland,CHE,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3212.2
+Switzerland,CHE,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3627.4
+Switzerland,CHE,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2936.1
+Switzerland,CHE,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3776.9
+Switzerland,CHE,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2872.6
+Switzerland,CHE,2022,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.38543829489618
+Switzerland,CHE,2021,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-16.5062060650139
+Switzerland,CHE,2020,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-32.6371710834336
+Switzerland,CHE,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.21642491474438
+Switzerland,CHE,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-22.1051198346507
+Switzerland,CHE,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,20.6035378169251
+Switzerland,CHE,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,24.2480735008832
+Switzerland,CHE,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,17.1083833328203
+Switzerland,CHE,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.89084632358215
+Switzerland,CHE,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-3.52948637026792
+Switzerland,CHE,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.81910221569192
+Switzerland,CHE,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.90052077420682
+Switzerland,CHE,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.95077318898271
+Switzerland,CHE,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,8.59932509165808
+Switzerland,CHE,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.527253063961112
+Switzerland,CHE,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,9.92138923782949
+Switzerland,CHE,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,12.1731323129404
+Switzerland,CHE,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.637104289050499
+Switzerland,CHE,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.7583727359017
+Switzerland,CHE,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.44667518652089
+Switzerland,CHE,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.6699038482556
+Switzerland,CHE,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.40739822340102
+Switzerland,CHE,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,8.26631602875868
+Switzerland,CHE,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.88171062927881
+Switzerland,CHE,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.7387354465294
+Switzerland,CHE,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.84676290925378
+Switzerland,CHE,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.43491990572582
+Switzerland,CHE,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.17852210155719
+Switzerland,CHE,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.22196548160131
+Switzerland,CHE,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.62700318828422
+Switzerland,CHE,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.403144429102547
+Switzerland,CHE,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.05569776077177
+Switzerland,CHE,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.08636429216894
+Switzerland,CHE,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.19995691183193
+Switzerland,CHE,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.188014862888798
+Switzerland,CHE,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.16459255712253
+Switzerland,CHE,1986,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.33408104081134
+Switzerland,CHE,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.14194557918635
+Switzerland,CHE,1984,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.709993860030842
+Switzerland,CHE,1983,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.560602971661813
+Switzerland,CHE,2021,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2020,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Switzerland,CHE,2020,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.37
+Switzerland,CHE,2019,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.76
+Switzerland,CHE,2018,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.2
+Switzerland,CHE,2017,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.99
+Switzerland,CHE,2016,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.1
+Switzerland,CHE,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,23.94
+Switzerland,CHE,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,22.2
+Switzerland,CHE,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.83
+Switzerland,CHE,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.88
+Switzerland,CHE,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.57
+Switzerland,CHE,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.56
+Switzerland,CHE,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.97
+Switzerland,CHE,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.55
+Switzerland,CHE,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.31
+Switzerland,CHE,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.07
+Switzerland,CHE,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.73
+Switzerland,CHE,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.1
+Switzerland,CHE,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.03
+Switzerland,CHE,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.19
+Switzerland,CHE,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.72
+Switzerland,CHE,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.19
+Switzerland,CHE,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.38
+Switzerland,CHE,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.07
+Switzerland,CHE,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.41
+Switzerland,CHE,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16.69
+Switzerland,CHE,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.63
+Switzerland,CHE,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.33
+Switzerland,CHE,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.99
+Switzerland,CHE,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.01
+Switzerland,CHE,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.11
+Switzerland,CHE,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16.8
+Switzerland,CHE,2015,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.59198906858646
+Switzerland,CHE,2014,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.58560081300255
+Switzerland,CHE,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.62675036075284
+Switzerland,CHE,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.65816688577089
+Switzerland,CHE,2011,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.62409396828691
+Switzerland,CHE,2010,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.72591447412348
+Switzerland,CHE,2009,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.61963410436867
+Switzerland,CHE,2008,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.67978914760564
+Switzerland,CHE,2007,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.69051270602396
+Switzerland,CHE,2006,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.67912770423369
+Switzerland,CHE,2005,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.76738506533022
+Switzerland,CHE,2004,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.73555413736865
+Switzerland,CHE,2003,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.72493230775516
+Switzerland,CHE,2002,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.68301135810557
+Switzerland,CHE,2001,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.70046965119173
+Switzerland,CHE,2000,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.74801963092831
+Switzerland,CHE,1999,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.75713428878086
+Switzerland,CHE,1998,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.7491976321754
+Switzerland,CHE,1997,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.7103617757228
+Switzerland,CHE,1996,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.79179263703102
+Switzerland,CHE,1995,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.80317992273723
+Switzerland,CHE,1994,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.74267445576817
+Switzerland,CHE,1993,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.79392037289102
+Switzerland,CHE,1992,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.83957867610313
+Switzerland,CHE,1991,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.84653278798553
+Switzerland,CHE,1990,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.77860128791586
+Switzerland,CHE,1989,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.77826731140024
+Switzerland,CHE,1988,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.79655198754458
+Switzerland,CHE,1987,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.79256726459346
+Switzerland,CHE,1986,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.83461255397163
+Switzerland,CHE,1985,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.80381976588511
+Switzerland,CHE,1984,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.87729259889406
+Switzerland,CHE,1983,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.96719615610999
+Switzerland,CHE,1982,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.9204888792814
+Switzerland,CHE,1981,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,1.97704368893634
+Switzerland,CHE,1980,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.02327616669062
+Switzerland,CHE,1979,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.08431202178584
+Switzerland,CHE,1978,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.24398696262569
+Switzerland,CHE,1977,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.27291736995045
+Switzerland,CHE,1976,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.27699346070701
+Switzerland,CHE,1975,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.27541653785413
+Switzerland,CHE,1974,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.35001872090208
+Switzerland,CHE,1973,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.44654656698534
+Switzerland,CHE,1972,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.51629265030773
+Switzerland,CHE,1971,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.559240915544
+Switzerland,CHE,1970,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.55003549146006
+Switzerland,CHE,1969,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.65942929910481
+Switzerland,CHE,1968,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.7329885693709
+Switzerland,CHE,1967,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.66293932664835
+Switzerland,CHE,1966,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.70892425461951
+Switzerland,CHE,1965,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.66810587559549
+Switzerland,CHE,1964,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.67406152741361
+Switzerland,CHE,1963,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.73391616842288
+Switzerland,CHE,1962,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.76215279445432
+Switzerland,CHE,1961,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.57900793200538
+Switzerland,CHE,1960,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,2.61992157321643
+Switzerland,CHE,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6864.624
+Switzerland,CHE,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6530.927
+Switzerland,CHE,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6116.556
+Switzerland,CHE,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,7058.975
+Switzerland,CHE,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6703.276
+Switzerland,CHE,2011,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6112.889
+Switzerland,CHE,2010,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6893.96
+Switzerland,CHE,2009,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6171.561
+Switzerland,CHE,2008,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6428.251
+Switzerland,CHE,2007,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6035.882
+Switzerland,CHE,2006,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6197.23
+Switzerland,CHE,2005,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6373.246
+Switzerland,CHE,2004,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6208.231
+Switzerland,CHE,2003,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,6017.547
+Switzerland,CHE,2002,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5694.851
+Switzerland,CHE,2001,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5801.194
+Switzerland,CHE,2000,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5573.84
+Switzerland,CHE,1999,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5603.176
+Switzerland,CHE,1998,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5408.825
+Switzerland,CHE,1997,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5254.811
+Switzerland,CHE,1996,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5441.828
+Switzerland,CHE,1995,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,5027.457
+Switzerland,CHE,1994,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4561.748
+Switzerland,CHE,1993,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4627.754
+Switzerland,CHE,1992,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4411.401
+Switzerland,CHE,1991,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,4195.048
+Switzerland,CHE,1990,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3736.673
+Switzerland,CHE,1989,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3490.984
+Switzerland,CHE,1988,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3208.625
+Switzerland,CHE,1987,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3186.623
+Switzerland,CHE,1986,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2973.937
+Switzerland,CHE,1985,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2904.264
+Switzerland,CHE,1984,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2772.252
+Switzerland,CHE,1983,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2486.226
+Switzerland,CHE,1982,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2262.539
+Switzerland,CHE,1981,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,2141.528
+Switzerland,CHE,1980,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1983.847
+Switzerland,CHE,1979,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1738.158
+Switzerland,CHE,1978,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1554.808
+Switzerland,CHE,1977,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1415.462
+Switzerland,CHE,1976,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1239.446
+Switzerland,CHE,1975,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,1184.441
+Switzerland,CHE,1974,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,737.067
+Switzerland,CHE,1973,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,348.365
+Switzerland,CHE,1972,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,256.69
+Switzerland,CHE,1971,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,201.685
+Switzerland,CHE,1970,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,84.341
+Switzerland,CHE,1969,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,25.669
+Switzerland,CHE,1968,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,22.002
+Switzerland,CHE,1967,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3.667
+Switzerland,CHE,1966,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,-3.667
+Switzerland,CHE,1965,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+Switzerland,CHE,1964,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,-3.667
+Switzerland,CHE,1963,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,-3.667
+Switzerland,CHE,1962,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,-3.667
+Switzerland,CHE,1961,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,-3.667
+Switzerland,CHE,1960,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,-3.667
+Switzerland,CHE,2016,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,17.3305326937642
+Switzerland,CHE,2015,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,16.7330950550858
+Switzerland,CHE,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.3953083312358
+Switzerland,CHE,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,16.234993100276
+Switzerland,CHE,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.7835554509065
+Switzerland,CHE,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,14.8407113377033
+Switzerland,CHE,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.2487502764875
+Switzerland,CHE,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,14.1322670025189
+Switzerland,CHE,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,14.2977112989324
+Switzerland,CHE,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.8628433624254
+Switzerland,CHE,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.6262752858399
+Switzerland,CHE,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.9002093784079
+Switzerland,CHE,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.7107575088339
+Switzerland,CHE,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.4200423728814
+Switzerland,CHE,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.070578379619
+Switzerland,CHE,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.8458680248007
+Switzerland,CHE,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.7518645618852
+Switzerland,CHE,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.5829238715473
+Switzerland,CHE,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.2233333333333
+Switzerland,CHE,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.2919555555556
+Switzerland,CHE,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.3649806862077
+Switzerland,CHE,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,11.5733356353591
+Switzerland,CHE,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,10.7108429208734
+Switzerland,CHE,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,10.6507571921749
+Switzerland,CHE,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,9.65295623632385
+Switzerland,CHE,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,9.18556601707904
+Switzerland,CHE,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.6237549042234
+Switzerland,CHE,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.84511753228654
+Switzerland,CHE,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.88146279949559
+Switzerland,CHE,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.91655279220188
+Switzerland,CHE,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.03138546904803
+Switzerland,CHE,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.29214621121444
+Switzerland,CHE,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.07666385846672
+Switzerland,CHE,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,6.20481376407065
+Switzerland,CHE,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,6.17679447392131
+Switzerland,CHE,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,5.51099367745588
+Switzerland,CHE,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,4.89371325192221
+Switzerland,CHE,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,4.35501653803749
+Switzerland,CHE,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.68279336402328
+Switzerland,CHE,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.44519814352017
+Switzerland,CHE,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.06159420289855
+Switzerland,CHE,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.02945038454324
+Switzerland,CHE,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.77687411598303
+Switzerland,CHE,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.753012048192771
+Switzerland,CHE,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.597320590494069
+Switzerland,CHE,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.480853296030775
+Switzerland,CHE,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.209300209300209
+Switzerland,CHE,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.0673789585138127
+Switzerland,CHE,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.0610687022900763
+Switzerland,CHE,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.0112612612612613
+Switzerland,CHE,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.0116306117701791
+Switzerland,CHE,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Switzerland,CHE,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.0130191381330556
+Switzerland,CHE,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.0125992188484314
+Switzerland,CHE,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.015181417944436
+Switzerland,CHE,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.0179856115107914
+Switzerland,CHE,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.0187828700225394
+Switzerland,CHE,2020,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0477577440464042
+Switzerland,CHE,2019,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0500278551521581
+Switzerland,CHE,2018,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0507413109700634
+Switzerland,CHE,2017,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0538883868390193
+Switzerland,CHE,2016,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0559883822615462
+Switzerland,CHE,2015,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.056317210479514
+Switzerland,CHE,2014,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.058272139274055
+Switzerland,CHE,2013,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0652437610610162
+Switzerland,CHE,2012,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0648651069624534
+Switzerland,CHE,2011,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0635857979033344
+Switzerland,CHE,2010,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0710495207055498
+Switzerland,CHE,2009,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0708564411268487
+Switzerland,CHE,2008,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0712798457579785
+Switzerland,CHE,2007,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0709648903302437
+Switzerland,CHE,2006,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0770266314058024
+Switzerland,CHE,2005,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0808190610166067
+Switzerland,CHE,2004,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0820147963550766
+Switzerland,CHE,2003,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0834039886989098
+Switzerland,CHE,2002,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0810225270028645
+Switzerland,CHE,2001,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.083901591524294
+Switzerland,CHE,2000,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0824946496423368
+Switzerland,CHE,1999,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0873679178598164
+Switzerland,CHE,1998,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0882604711687028
+Switzerland,CHE,1997,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.087854069852495
+Switzerland,CHE,1996,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0924839451662478
+Switzerland,CHE,1995,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0917234130148368
+Switzerland,CHE,1994,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0903686906895894
+Switzerland,CHE,1993,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0933618183017574
+Switzerland,CHE,1992,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0980737889987826
+Switzerland,CHE,1991,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0979541083084492
+Switzerland,CHE,1990,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD,0.0920831180372224
+Switzerland,CHE,2020,CO2 emissions (kt),EN.ATM.CO2E.KT,34916.1
+Switzerland,CHE,2019,CO2 emissions (kt),EN.ATM.CO2E.KT,37376.3
+Switzerland,CHE,2018,CO2 emissions (kt),EN.ATM.CO2E.KT,37481.3
+Switzerland,CHE,2017,CO2 emissions (kt),EN.ATM.CO2E.KT,38699
+Switzerland,CHE,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,39666.5
+Switzerland,CHE,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,39090.8
+Switzerland,CHE,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,39793.3
+Switzerland,CHE,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,43531.2
+Switzerland,CHE,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,42516.6
+Switzerland,CHE,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,41192.3
+Switzerland,CHE,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,45207.8
+Switzerland,CHE,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,43668.6
+Switzerland,CHE,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,44962.5
+Switzerland,CHE,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,43541.2
+Switzerland,CHE,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,45479.3
+Switzerland,CHE,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,45850.7
+Switzerland,CHE,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,45283.9
+Switzerland,CHE,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,44839.5
+Switzerland,CHE,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,43573.3
+Switzerland,CHE,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,45154.7
+Switzerland,CHE,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,43708.8
+Switzerland,CHE,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,44528.1
+Switzerland,CHE,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,44247.3
+Switzerland,CHE,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,42748.3
+Switzerland,CHE,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,44006
+Switzerland,CHE,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,43439.4
+Switzerland,CHE,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,42593
+Switzerland,CHE,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,43452
+Switzerland,CHE,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,45702.6
+Switzerland,CHE,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,45666.8
+Switzerland,CHE,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,43326.5
+Switzerland,CHE,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,24884.262
+Switzerland,CHE,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,26450.071
+Switzerland,CHE,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,26629.754
+Switzerland,CHE,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,30531.442
+Switzerland,CHE,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,28477.922
+Switzerland,CHE,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,28184.562
+Switzerland,CHE,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29438.676
+Switzerland,CHE,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32973.664
+Switzerland,CHE,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31440.858
+Switzerland,CHE,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29431.342
+Switzerland,CHE,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33230.354
+Switzerland,CHE,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32511.622
+Switzerland,CHE,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31825.893
+Switzerland,CHE,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31862.563
+Switzerland,CHE,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32683.971
+Switzerland,CHE,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,34664.151
+Switzerland,CHE,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31132.83
+Switzerland,CHE,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32958.996
+Switzerland,CHE,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,34150.771
+Switzerland,CHE,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,34011.425
+Switzerland,CHE,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32082.583
+Switzerland,CHE,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31470.194
+Switzerland,CHE,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33901.415
+Switzerland,CHE,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33457.708
+Switzerland,CHE,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35452.556
+Switzerland,CHE,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35019.85
+Switzerland,CHE,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,34917.174
+Switzerland,CHE,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31869.897
+Switzerland,CHE,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33641.058
+Switzerland,CHE,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33153.347
+Switzerland,CHE,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35412.219
+Switzerland,CHE,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32797.648
+Switzerland,CHE,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32309.937
+Switzerland,CHE,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33589.72
+Switzerland,CHE,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,30454.435
+Switzerland,CHE,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32632.633
+Switzerland,CHE,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35144.528
+Switzerland,CHE,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35324.211
+Switzerland,CHE,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,37938.782
+Switzerland,CHE,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,36904.688
+Switzerland,CHE,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,36739.673
+Switzerland,CHE,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35261.872
+Switzerland,CHE,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,37080.704
+Switzerland,CHE,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,41807.467
+Switzerland,CHE,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,38565.839
+Switzerland,CHE,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,37674.758
+Switzerland,CHE,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35661.575
+Switzerland,CHE,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33494.378
+Switzerland,CHE,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31437.191
+Switzerland,CHE,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,27722.52
+Switzerland,CHE,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25804.679
+Switzerland,CHE,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,23930.842
+Switzerland,CHE,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20835.894
+Switzerland,CHE,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,19908.143
+Switzerland,CHE,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,16043.125
+Switzerland,CHE,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12610.813
+Switzerland,CHE,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11129.345
+Switzerland,CHE,2016,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,62.8231810148952
+Switzerland,CHE,2015,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,67.7685652062516
+Switzerland,CHE,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,67.0268160080544
+Switzerland,CHE,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,70.2195078196872
+Switzerland,CHE,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,67.0542076760066
+Switzerland,CHE,2011,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,68.4257392571012
+Switzerland,CHE,2010,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,65.1154080955541
+Switzerland,CHE,2009,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,75.5064437829173
+Switzerland,CHE,2008,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,69.9307339857651
+Switzerland,CHE,2007,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,67.5961001378043
+Switzerland,CHE,2006,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,73.0658619173263
+Switzerland,CHE,2005,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,70.9086630316249
+Switzerland,CHE,2004,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,70.2868661660777
+Switzerland,CHE,2003,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,71.0583474576271
+Switzerland,CHE,2002,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,75.0148519623594
+Switzerland,CHE,2001,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,76.7585274579274
+Switzerland,CHE,2000,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,71.2258750857927
+Switzerland,CHE,1999,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,74.0152616213788
+Switzerland,CHE,1998,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,77.1768836158192
+Switzerland,CHE,1997,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,79.5588888888889
+Switzerland,CHE,1996,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,72.8983935469211
+Switzerland,CHE,1995,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,72.4451979742173
+Switzerland,CHE,1994,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,79.5994717069735
+Switzerland,CHE,1993,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,77.0027802071346
+Switzerland,CHE,1992,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,77.5767089715536
+Switzerland,CHE,1991,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,76.6802058243924
+Switzerland,CHE,1990,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,80.5842926378952
+Switzerland,CHE,1989,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,80.748861841494
+Switzerland,CHE,1988,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.63375968294
+Switzerland,CHE,1987,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.3631228933224
+Switzerland,CHE,1986,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.7263741980232
+Switzerland,CHE,1985,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.3496915569469
+Switzerland,CHE,1984,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.4768323504634
+Switzerland,CHE,1983,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.8290473139929
+Switzerland,CHE,1982,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.1414556011613
+Switzerland,CHE,1981,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.9765971501368
+Switzerland,CHE,1980,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,86.6938037087291
+Switzerland,CHE,1979,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,88.5060639470783
+Switzerland,CHE,1978,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.8636324155303
+Switzerland,CHE,1977,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.8250624776865
+Switzerland,CHE,1976,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.7518115942029
+Switzerland,CHE,1975,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.1894578878259
+Switzerland,CHE,1974,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.3917963224894
+Switzerland,CHE,1973,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.3693722257451
+Switzerland,CHE,1972,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.7431521460876
+Switzerland,CHE,1971,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.8233956985487
+Switzerland,CHE,1970,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,88.4975884975885
+Switzerland,CHE,1969,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,87.9199152950236
+Switzerland,CHE,1968,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,87.2569974554707
+Switzerland,CHE,1967,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,85.1351351351351
+Switzerland,CHE,1966,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,81.8446150267504
+Switzerland,CHE,1965,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,78.7973919343154
+Switzerland,CHE,1964,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,73.9747428720219
+Switzerland,CHE,1963,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,68.4011591281341
+Switzerland,CHE,1962,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,66.4187035069075
+Switzerland,CHE,1961,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,61.8525179856115
+Switzerland,CHE,1960,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,57.0060105184072
+Switzerland,CHE,2020,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.04207281475341
+Switzerland,CHE,2019,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.35860986463416
+Switzerland,CHE,2018,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.40214372735655
+Switzerland,CHE,2017,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.57876628047857
+Switzerland,CHE,2016,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.73723860185747
+Switzerland,CHE,2015,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.71974534905117
+Switzerland,CHE,2014,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.85956840988056
+Switzerland,CHE,2013,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.38130029300267
+Switzerland,CHE,2012,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.31666112490889
+Switzerland,CHE,2011,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.20604499419771
+Switzerland,CHE,2010,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.77742182049657
+Switzerland,CHE,2009,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.63914682538914
+Switzerland,CHE,2008,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.87923780756897
+Switzerland,CHE,2007,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.76619326650613
+Switzerland,CHE,2006,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.07692424866387
+Switzerland,CHE,2005,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.16511913557878
+Switzerland,CHE,2004,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.12803762031226
+Switzerland,CHE,2003,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.10975526505583
+Switzerland,CHE,2002,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,5.98143821760326
+Switzerland,CHE,2001,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.24558946833504
+Switzerland,CHE,2000,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.08397536277273
+Switzerland,CHE,1999,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.23294458237699
+Switzerland,CHE,1998,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.22324806986666
+Switzerland,CHE,1997,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.03030989549022
+Switzerland,CHE,1996,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.22269985930131
+Switzerland,CHE,1995,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.16976724004348
+Switzerland,CHE,1994,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.09011273564638
+Switzerland,CHE,1993,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.26266076605607
+Switzerland,CHE,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.64729896482572
+Switzerland,CHE,1991,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.71572760970697
+Switzerland,CHE,1990,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,6.45169792535767
+Switzerland,CHE,2020,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0569222382659294
+Switzerland,CHE,2019,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0599791524986121
+Switzerland,CHE,2018,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0622749651961244
+Switzerland,CHE,2017,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0671437294106246
+Switzerland,CHE,2016,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0703368332199965
+Switzerland,CHE,2015,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0723165868651836
+Switzerland,CHE,2014,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.07662874402758
+Switzerland,CHE,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0872787661571612
+Switzerland,CHE,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0894444684762689
+Switzerland,CHE,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0905500213864581
+Switzerland,CHE,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.1061265651627
+Switzerland,CHE,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.106452296695123
+Switzerland,CHE,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.109261673619208
+Switzerland,CHE,2007,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.113230520714106
+Switzerland,CHE,2006,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.131328050988162
+Switzerland,CHE,2005,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.148468189598732
+Switzerland,CHE,2004,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.152531158745109
+Switzerland,CHE,2003,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.157723499383732
+Switzerland,CHE,2002,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.15453932662988
+Switzerland,CHE,2001,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.16514416291686
+Switzerland,CHE,2000,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.16578661040359
+Switzerland,CHE,1999,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.179403351102684
+Switzerland,CHE,1998,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.18380071282969
+Switzerland,CHE,1997,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.184221637187677
+Switzerland,CHE,1996,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.197491097498853
+Switzerland,CHE,1995,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.200035156329421
+Switzerland,CHE,1994,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.201213290488824
+Switzerland,CHE,1993,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.212316796717889
+Switzerland,CHE,1992,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.22831903835836
+Switzerland,CHE,1991,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.233237296784322
+Switzerland,CHE,1990,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.226672642206377
+Switzerland,CHE,2020,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0595050850769165
+Switzerland,CHE,2019,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0623335929383993
+Switzerland,CHE,2018,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.063222542992276
+Switzerland,CHE,2017,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0671437294106246
+Switzerland,CHE,2016,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0697602769208499
+Switzerland,CHE,2015,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0701699895544042
+Switzerland,CHE,2014,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0726057872781293
+Switzerland,CHE,2013,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0812922727024434
+Switzerland,CHE,2012,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.080820478131749
+Switzerland,CHE,2011,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0792264875460844
+Switzerland,CHE,2010,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0885261198717824
+Switzerland,CHE,2009,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0882855470183817
+Switzerland,CHE,2008,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.088813099755648
+Switzerland,CHE,2007,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0884206723096491
+Switzerland,CHE,2006,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.0959734666389808
+Switzerland,CHE,2005,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.1006987494417
+Switzerland,CHE,2004,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.102188609033392
+Switzerland,CHE,2003,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.103919511743698
+Switzerland,CHE,2002,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.100952263527515
+Switzerland,CHE,2001,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.104539513777928
+Switzerland,CHE,2000,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.102786495538565
+Switzerland,CHE,1999,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.108858479164969
+Switzerland,CHE,1998,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.109970580702457
+Switzerland,CHE,1997,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.109464213716764
+Switzerland,CHE,1996,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.115232935207726
+Switzerland,CHE,1995,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.114285329091125
+Switzerland,CHE,1994,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.112597375256012
+Switzerland,CHE,1993,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.116326745576249
+Switzerland,CHE,1992,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.122197756085749
+Switzerland,CHE,1991,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.122048636611985
+Switzerland,CHE,1990,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.114733513535073
+Switzerland,CHE,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,443.707
+Switzerland,CHE,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,502.379
+Switzerland,CHE,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,546.383
+Switzerland,CHE,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,476.71
+Switzerland,CHE,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,465.709
+Switzerland,CHE,2011,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,513.38
+Switzerland,CHE,2010,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,550.05
+Switzerland,CHE,2009,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,546.383
+Switzerland,CHE,2008,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,590.387
+Switzerland,CHE,2007,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,649.059
+Switzerland,CHE,2006,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,550.05
+Switzerland,CHE,2005,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,553.717
+Switzerland,CHE,2004,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,487.711
+Switzerland,CHE,2003,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,509.713
+Switzerland,CHE,2002,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,498.712
+Switzerland,CHE,2001,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,546.383
+Switzerland,CHE,2000,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,513.38
+Switzerland,CHE,1999,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,359.366
+Switzerland,CHE,1998,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,348.365
+Switzerland,CHE,1997,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,421.705
+Switzerland,CHE,1996,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,546.383
+Switzerland,CHE,1995,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,722.399
+Switzerland,CHE,1994,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,682.062
+Switzerland,CHE,1993,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,671.061
+Switzerland,CHE,1992,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,810.407
+Switzerland,CHE,1991,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1151.438
+Switzerland,CHE,1990,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1356.79
+Switzerland,CHE,1989,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1378.792
+Switzerland,CHE,1988,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1386.126
+Switzerland,CHE,1987,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1609.813
+Switzerland,CHE,1986,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1719.823
+Switzerland,CHE,1985,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2002.182
+Switzerland,CHE,1984,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2002.182
+Switzerland,CHE,1983,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1954.511
+Switzerland,CHE,1982,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1870.17
+Switzerland,CHE,1981,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1917.841
+Switzerland,CHE,1980,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1287.117
+Switzerland,CHE,1979,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,891.081
+Switzerland,CHE,1978,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,883.747
+Switzerland,CHE,1977,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,946.086
+Switzerland,CHE,1976,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,737.067
+Switzerland,CHE,1975,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,773.737
+Switzerland,CHE,1974,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1045.095
+Switzerland,CHE,1973,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1235.779
+Switzerland,CHE,1972,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1301.785
+Switzerland,CHE,1971,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1463.133
+Switzerland,CHE,1970,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2156.196
+Switzerland,CHE,1969,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2317.544
+Switzerland,CHE,1968,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2412.886
+Switzerland,CHE,1967,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,2750.25
+Switzerland,CHE,1966,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,3567.991
+Switzerland,CHE,1965,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,4429.736
+Switzerland,CHE,1964,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,5177.804
+Switzerland,CHE,1963,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,7414.674
+Switzerland,CHE,1962,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,6255.902
+Switzerland,CHE,1961,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,5984.544
+Switzerland,CHE,1960,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,6882.959
+Switzerland,CHE,2016,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.12018934612472
+Switzerland,CHE,2015,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.28716115808353
+Switzerland,CHE,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.37524037251447
+Switzerland,CHE,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.09638914443422
+Switzerland,CHE,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.0965599246527
+Switzerland,CHE,2011,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.24637047827143
+Switzerland,CHE,2010,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.21665560716656
+Switzerland,CHE,2009,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.25116326997939
+Switzerland,CHE,2008,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.31313834519573
+Switzerland,CHE,2007,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.49071887919155
+Switzerland,CHE,2006,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.2094327176781
+Switzerland,CHE,2005,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.20767066521265
+Switzerland,CHE,2004,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.07710026501767
+Switzerland,CHE,2003,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.13673728813559
+Switzerland,CHE,2002,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.14462244663759
+Switzerland,CHE,2001,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.20988263950399
+Switzerland,CHE,2000,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.17451384122626
+Switzerland,CHE,1999,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0.807019986525937
+Switzerland,CHE,1998,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0.787265536723164
+Switzerland,CHE,1997,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0.986444444444444
+Switzerland,CHE,1996,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.24149738695751
+Switzerland,CHE,1995,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.66298112338858
+Switzerland,CHE,1994,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.60146043672224
+Switzerland,CHE,1993,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.54444418872267
+Switzerland,CHE,1992,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.77331947483589
+Switzerland,CHE,1991,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.52121305014233
+Switzerland,CHE,1990,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.13129471497807
+Switzerland,CHE,1989,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.49344978165939
+Switzerland,CHE,1988,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.40479192938209
+Switzerland,CHE,1987,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.99927120342534
+Switzerland,CHE,1986,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,4.06623894572568
+Switzerland,CHE,1985,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,5.02716140318571
+Switzerland,CHE,1984,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,5.11092389778152
+Switzerland,CHE,1983,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,4.87782556968976
+Switzerland,CHE,1982,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,5.10561617779558
+Switzerland,CHE,1981,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,4.935359063886
+Switzerland,CHE,1980,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.17503392130258
+Switzerland,CHE,1979,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.23263506063947
+Switzerland,CHE,1978,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.09328585077738
+Switzerland,CHE,1977,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.30274901820778
+Switzerland,CHE,1976,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.82065217391304
+Switzerland,CHE,1975,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,1.97899080847871
+Switzerland,CHE,1974,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.51944837340877
+Switzerland,CHE,1973,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,2.6712111604312
+Switzerland,CHE,1972,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.02926870893421
+Switzerland,CHE,1971,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,3.48837209302326
+Switzerland,CHE,1970,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,5.35080535080535
+Switzerland,CHE,1969,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,6.08335739724709
+Switzerland,CHE,1968,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,6.6972010178117
+Switzerland,CHE,1967,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,8.44594594594595
+Switzerland,CHE,1966,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,11.3165852523843
+Switzerland,CHE,1965,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,14.5858488287853
+Switzerland,CHE,1964,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,18.3830230438745
+Switzerland,CHE,1963,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,25.4756205115283
+Switzerland,CHE,1962,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,25.8994990132078
+Switzerland,CHE,1961,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,29.3525179856115
+Switzerland,CHE,1960,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,35.2554470323065
+Switzerland,CHE,2016,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1473.0708007812
+Switzerland,CHE,2015,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,30.830078125
+Switzerland,CHE,2014,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1327.7302246094
+Switzerland,CHE,2013,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1171.4350585937
+Switzerland,CHE,2012,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1118.33984375
+Switzerland,CHE,2011,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-139.8896484375
+Switzerland,CHE,2010,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-278.626708984397
+Switzerland,CHE,2009,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-113.202392578103
+Switzerland,CHE,2008,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-296.757568359397
+Switzerland,CHE,2007,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-266.1787109375
+Switzerland,CHE,2006,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-387.30859375
+Switzerland,CHE,2005,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-595.281494140603
+Switzerland,CHE,2004,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-603.712402343801
+Switzerland,CHE,2003,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-650.762939453103
+Switzerland,CHE,2002,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-660.774902343801
+Switzerland,CHE,2001,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-219.833251953103
+Switzerland,CHE,2000,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-814.8115234375
+Switzerland,CHE,1999,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-966.194580078103
+Switzerland,CHE,1998,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1331.0065917969
+Switzerland,CHE,1997,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1132.7495117188
+Switzerland,CHE,1996,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1540.9194335938
+Switzerland,CHE,1995,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1476.9333496094
+Switzerland,CHE,1994,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1664.6427001953
+Switzerland,CHE,1993,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1851.0443115234
+Switzerland,CHE,1992,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2081.8269042969
+Switzerland,CHE,1991,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2118.4892578125
+Switzerland,CHE,1990,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2386.6007080078
+Switzerland,CHE,1989,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,2570.0670922852
+Switzerland,CHE,1988,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1862.6961303711
+Switzerland,CHE,1987,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,3509.6685449219
+Switzerland,CHE,1986,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1676.7818481445
+Switzerland,CHE,1985,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1925.6117431641
+Switzerland,CHE,1984,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1396.5994921875
+Switzerland,CHE,1983,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,2173.8572070312
+Switzerland,CHE,1982,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1164.3606743164
+Switzerland,CHE,1981,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,2285.1088256836
+Switzerland,CHE,1980,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1579.3890673828
+Switzerland,CHE,1979,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1363.9420595703
+Switzerland,CHE,1978,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1692.6713232422
+Switzerland,CHE,1977,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1550.1159667969
+Switzerland,CHE,1976,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,816.861205078104
+Switzerland,CHE,1975,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1166.8961962891
+Switzerland,CHE,1974,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1112.7098876953
+Switzerland,CHE,1973,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1174.2338964844
+Switzerland,CHE,1972,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,386.261865234396
+Switzerland,CHE,1971,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,575.549379882797
+Switzerland,CHE,1970,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1091.2875366211
+Switzerland,CHE,2012,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-5.53304942760662
+Switzerland,CHE,2011,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-5.5330494276049
+Switzerland,CHE,2010,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-5.53304942760662
+Switzerland,CHE,2009,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-6.73299202401268
+Switzerland,CHE,2008,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-8.45164179465765
+Switzerland,CHE,2007,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-14.7694951768878
+Switzerland,CHE,2006,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-20.5720994327072
+Switzerland,CHE,2005,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-29.749758368908
+Switzerland,CHE,2004,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-35.1961836984167
+Switzerland,CHE,2003,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-40.2725979103017
+Switzerland,CHE,2002,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-44.194024147548
+Switzerland,CHE,2001,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-51.0686232301279
+Switzerland,CHE,2000,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-56.5218851201931
+Switzerland,CHE,1999,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-63.9636835817076
+Switzerland,CHE,1998,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-69.8319907462641
+Switzerland,CHE,1997,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-35.1637817902659
+Switzerland,CHE,1996,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-44.8399529013886
+Switzerland,CHE,1995,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-33.5529193704278
+Switzerland,CHE,1994,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-2.95196252859372
+Switzerland,CHE,1993,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-29.3835511038953
+Switzerland,CHE,1992,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-28.8022532639649
+Switzerland,CHE,1991,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-13.3644903442656
+Switzerland,CHE,2020,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,43987.63547
+Switzerland,CHE,2019,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46475.84007
+Switzerland,CHE,2018,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46682.73407
+Switzerland,CHE,2017,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,47920.92857
+Switzerland,CHE,2016,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48900.51827
+Switzerland,CHE,2015,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48392.16573
+Switzerland,CHE,2014,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49167.61866
+Switzerland,CHE,2013,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52977.68781
+Switzerland,CHE,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51951.56435
+Switzerland,CHE,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,50649.0865
+Switzerland,CHE,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54762.18135
+Switzerland,CHE,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53186.47335
+Switzerland,CHE,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54631.74468
+Switzerland,CHE,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53006.82379
+Switzerland,CHE,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54932.86427
+Switzerland,CHE,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,55215.00962
+Switzerland,CHE,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54495.82612
+Switzerland,CHE,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53998.8257
+Switzerland,CHE,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52761.11121
+Switzerland,CHE,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54393.75669
+Switzerland,CHE,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52787.05705
+Switzerland,CHE,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53536.69996
+Switzerland,CHE,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53403.57246
+Switzerland,CHE,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51846.35099
+Switzerland,CHE,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,53300.80025
+Switzerland,CHE,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52684.19741
+Switzerland,CHE,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51755.24125
+Switzerland,CHE,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52627.84071
+Switzerland,CHE,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,54986.84868
+Switzerland,CHE,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,55060.31154
+Switzerland,CHE,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52841.49768
+Switzerland,CHE,2012,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-4.0531108963622
+Switzerland,CHE,2011,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-5.89946747698303
+Switzerland,CHE,2010,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,1.34834311212324
+Switzerland,CHE,2009,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-2.03537784896047
+Switzerland,CHE,2008,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,0.427514898055947
+Switzerland,CHE,2007,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-4.0453290390741
+Switzerland,CHE,2006,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-1.12032792795906
+Switzerland,CHE,2005,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-0.906044623259361
+Switzerland,CHE,2004,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-2.07689548032733
+Switzerland,CHE,2003,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-3.26462939876894
+Switzerland,CHE,2002,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-6.02261498927024
+Switzerland,CHE,2001,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-4.11113662691803
+Switzerland,CHE,2000,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-5.90594294541679
+Switzerland,CHE,1999,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-3.80038261226755
+Switzerland,CHE,1998,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-3.58926171190078
+Switzerland,CHE,1997,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-4.931904855755
+Switzerland,CHE,1996,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-2.61014682308839
+Switzerland,CHE,1995,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-3.22048110649779
+Switzerland,CHE,1994,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-2.76087030473746
+Switzerland,CHE,1993,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-2.70660636159852
+Switzerland,CHE,1992,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,1.97208218673568
+Switzerland,CHE,1991,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,2.58900762014254
+Switzerland,CHE,2010,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,2277
+Switzerland,CHE,2008,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,2116.4
+Switzerland,CHE,2005,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,1613.8
+Switzerland,CHE,2000,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,848.2
+Switzerland,CHE,1990,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0.3
+Switzerland,CHE,2020,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,4975.239558
+Switzerland,CHE,2019,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5041.752034
+Switzerland,CHE,2018,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5128.934511
+Switzerland,CHE,2017,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5162.609488
+Switzerland,CHE,2016,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5206.999464
+Switzerland,CHE,2015,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5224.814676
+Switzerland,CHE,2014,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5277.873312
+Switzerland,CHE,2013,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5345.168296
+Switzerland,CHE,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5395.277672
+Switzerland,CHE,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5424.431338
+Switzerland,CHE,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5528.269765
+Switzerland,CHE,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5522.457413
+Switzerland,CHE,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5591.203393
+Switzerland,CHE,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5514.73184
+Switzerland,CHE,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5559.279111
+Switzerland,CHE,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5554.864987
+Switzerland,CHE,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5521.290386
+Switzerland,CHE,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5598.718757
+Switzerland,CHE,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5691.832038
+Switzerland,CHE,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5731.175479
+Switzerland,CHE,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5680.136644
+Switzerland,CHE,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5738.638824
+Switzerland,CHE,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5867.316254
+Switzerland,CHE,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,5931.032951
+Switzerland,CHE,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6138.202015
+Switzerland,CHE,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6140.650605
+Switzerland,CHE,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6196.148778
+Switzerland,CHE,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6242.844056
+Switzerland,CHE,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6273.71155
+Switzerland,CHE,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6346.143956
+Switzerland,CHE,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,6438.125825
+Switzerland,CHE,2012,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-17.0443086991402
+Switzerland,CHE,2011,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-17.0009856483358
+Switzerland,CHE,2010,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-15.4860192955221
+Switzerland,CHE,2009,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-17.083596436135
+Switzerland,CHE,2008,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-16.2593299216024
+Switzerland,CHE,2007,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-16.1509851753915
+Switzerland,CHE,2006,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-16.2855696648254
+Switzerland,CHE,2005,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-16.1315169788067
+Switzerland,CHE,2004,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-15.7330114591498
+Switzerland,CHE,2003,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-15.7705935429917
+Switzerland,CHE,2002,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-13.9226384654321
+Switzerland,CHE,2001,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-12.8039789608046
+Switzerland,CHE,2000,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-13.2145039757443
+Switzerland,CHE,1999,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-12.7227204011464
+Switzerland,CHE,1998,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-9.7967350987884
+Switzerland,CHE,1997,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-8.80673498028632
+Switzerland,CHE,1996,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-5.59431325513325
+Switzerland,CHE,1995,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-4.97353171707801
+Switzerland,CHE,1994,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-3.57385302696599
+Switzerland,CHE,1993,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-4.08002613817001
+Switzerland,CHE,1992,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-2.6713751487624
+Switzerland,CHE,1991,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-0.700855077051732
+Switzerland,CHE,2020,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2396.71253
+Switzerland,CHE,2019,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2400.088339
+Switzerland,CHE,2018,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2456.683548
+Switzerland,CHE,2017,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2485.386757
+Switzerland,CHE,2016,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2494.970166
+Switzerland,CHE,2015,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2481.468004
+Switzerland,CHE,2014,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2500.069011
+Switzerland,CHE,2013,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2523.417523
+Switzerland,CHE,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2500.133037
+Switzerland,CHE,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2551.9849
+Switzerland,CHE,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2603.610081
+Switzerland,CHE,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2599.342646
+Switzerland,CHE,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2638.108703
+Switzerland,CHE,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2569.752104
+Switzerland,CHE,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2600.81683
+Switzerland,CHE,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2588.800628
+Switzerland,CHE,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2536.462932
+Switzerland,CHE,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2519.928717
+Switzerland,CHE,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2532.325212
+Switzerland,CHE,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2642.735794
+Switzerland,CHE,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2603.164626
+Switzerland,CHE,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2603.308914
+Switzerland,CHE,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2681.742387
+Switzerland,CHE,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2687.253556
+Switzerland,CHE,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2758.692721
+Switzerland,CHE,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2779.414124
+Switzerland,CHE,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2801.25988
+Switzerland,CHE,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2801.111097
+Switzerland,CHE,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2849.825246
+Switzerland,CHE,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2883.1959
+Switzerland,CHE,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,2896.804073
+Switzerland,CHE,2012,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-17.1439658230572
+Switzerland,CHE,2011,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-16.4685672352954
+Switzerland,CHE,2010,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.1938478633988
+Switzerland,CHE,2009,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.7931686475335
+Switzerland,CHE,2008,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-14.1594111452562
+Switzerland,CHE,2007,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.3822796586262
+Switzerland,CHE,2006,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.2096761341979
+Switzerland,CHE,2005,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.7292095124677
+Switzerland,CHE,2004,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-14.5214155427159
+Switzerland,CHE,2003,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-15.0698059044834
+Switzerland,CHE,2002,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-14.4408744096701
+Switzerland,CHE,2001,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-12.6251456308589
+Switzerland,CHE,2000,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-11.5244885961077
+Switzerland,CHE,1999,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-12.5540799252303
+Switzerland,CHE,1998,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-8.31587198697559
+Switzerland,CHE,1997,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-8.09998298730076
+Switzerland,CHE,1996,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-4.85292629194223
+Switzerland,CHE,1995,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-3.02104621639722
+Switzerland,CHE,1994,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-1.15610982020375
+Switzerland,CHE,1993,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-4.1101819928116
+Switzerland,CHE,1992,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-1.70762276600647
+Switzerland,CHE,1991,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-0.117581440221892
+Switzerland,CHE,2010,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,74
+Switzerland,CHE,2008,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,69.4
+Switzerland,CHE,2005,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,62.5
+Switzerland,CHE,2000,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,97.9
+Switzerland,CHE,1990,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,315.5
+Switzerland,CHE,2010,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,378
+Switzerland,CHE,2008,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,448.3
+Switzerland,CHE,2005,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,348.7
+Switzerland,CHE,2000,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,293.1
+Switzerland,CHE,1990,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,586.8
+Switzerland,CHE,2011,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ,4.75
+Switzerland,CHE,2009,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,0.0885596709664323
+Switzerland,CHE,2008,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,0.574134454286045
+Switzerland,CHE,2007,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,0.568848872102636
+Switzerland,CHE,2006,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,0.952185027390134
+Switzerland,CHE,2005,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-0.373288965086197
+Switzerland,CHE,2004,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-0.454208509436166
+Switzerland,CHE,2003,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-1.16759956663967
+Switzerland,CHE,2002,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,1.63384327741316
+Switzerland,CHE,2001,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,1.89435754351934
+Switzerland,CHE,2000,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,1.44188387264984
+Switzerland,CHE,1999,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-0.704402263149665
+Switzerland,CHE,1998,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-1.88762145724847
+Switzerland,CHE,1997,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-1.9898856340363
+Switzerland,CHE,1996,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-3.29564036501227
+Switzerland,CHE,1995,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-3.46072719998941
+Switzerland,CHE,1994,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-4.53868071432043
+Switzerland,CHE,1993,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-3.70319708704314
+Switzerland,CHE,1992,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-2.00857549539103
+Switzerland,CHE,1991,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-2.58938862522817
+Switzerland,CHE,1990,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-2.72500292429444
+Switzerland,CHE,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.00388788412428912
+Switzerland,CHE,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0
+Switzerland,CHE,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0
+Switzerland,CHE,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0
+Switzerland,CHE,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Switzerland,CHE,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Switzerland,CHE,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Switzerland,CHE,2015,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0
+Switzerland,CHE,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0
+Switzerland,CHE,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0
+Switzerland,CHE,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1766160423713
+Switzerland,CHE,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1705389344832
+Switzerland,CHE,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1533806882872
+Switzerland,CHE,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1288261141327
+Switzerland,CHE,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0996715067036
+Switzerland,CHE,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0442814819022
+Switzerland,CHE,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0205284917437
+Switzerland,CHE,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0222476684283
+Switzerland,CHE,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0316311030061
+Switzerland,CHE,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0541408415464
+Switzerland,CHE,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0656287510812
+Switzerland,CHE,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0625009004855
+Switzerland,CHE,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0676628955046
+Switzerland,CHE,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0615204541525
+Switzerland,CHE,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0890335951776
+Switzerland,CHE,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1195224494601
+Switzerland,CHE,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0895593146599
+Switzerland,CHE,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0169635671897
+Switzerland,CHE,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.9470067831588
+Switzerland,CHE,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.8843145000253
+Switzerland,CHE,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.8307357847274
+Switzerland,CHE,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.7796409166769
+Switzerland,CHE,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.7122037791001
+Switzerland,CHE,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.637099766783
+Switzerland,CHE,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.5493508369408
+Switzerland,CHE,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.4343279484874
+Switzerland,CHE,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.3117501078219
+Switzerland,CHE,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.2202476832161
+Switzerland,CHE,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1638273641135
+Switzerland,CHE,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1270958950112
+Switzerland,CHE,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1078255638538
+Switzerland,CHE,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1171077318191
+Switzerland,CHE,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.9781275281925
+Switzerland,CHE,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5841256812186
+Switzerland,CHE,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.1702457584009
+Switzerland,CHE,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.7565686483916
+Switzerland,CHE,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.3413969352368
+Switzerland,CHE,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.9248349977165
+Switzerland,CHE,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.5120132135647
+Switzerland,CHE,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.1011913024499
+Switzerland,CHE,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.7126084812986
+Switzerland,CHE,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.3541485352547
+Switzerland,CHE,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.1840539493573
+Switzerland,CHE,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2492364201949
+Switzerland,CHE,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2925913178805
+Switzerland,CHE,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.3143816745086
+Switzerland,CHE,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2968115529954
+Switzerland,CHE,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2531063484992
+Switzerland,CHE,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2688749575212
+Switzerland,CHE,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.3505725941509
+Switzerland,CHE,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.4556786535475
+Switzerland,CHE,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.5646363608711
+Switzerland,CHE,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.4964268015688
+Switzerland,CHE,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2467971788611
+Switzerland,CHE,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.0474554337927
+Switzerland,CHE,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.8653097532705
+Switzerland,CHE,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.6844336990761
+Switzerland,CHE,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.4862278860037
+Switzerland,CHE,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.3033945113234
+Switzerland,CHE,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.1736190930952
+Switzerland,CHE,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0945761565463
+Switzerland,CHE,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0560072752781
+Switzerland,CHE,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0504577194417
+Switzerland,CHE,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.704
+Switzerland,CHE,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.704
+Switzerland,CHE,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.704
+Switzerland,CHE,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.704
+Switzerland,CHE,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.704
+Switzerland,CHE,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.705917
+Switzerland,CHE,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.704
+Switzerland,CHE,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,1.72
+Switzerland,CHE,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2
+Switzerland,CHE,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.05585
+Switzerland,CHE,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.1072
+Switzerland,CHE,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.15855
+Switzerland,CHE,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.2099
+Switzerland,CHE,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.26125
+Switzerland,CHE,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.3126
+Switzerland,CHE,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.36395
+Switzerland,CHE,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.4153
+Switzerland,CHE,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.46665
+Switzerland,CHE,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.518
+Switzerland,CHE,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.52602
+Switzerland,CHE,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.53404
+Switzerland,CHE,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.54206
+Switzerland,CHE,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.55008
+Switzerland,CHE,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.5581
+Switzerland,CHE,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.58548
+Switzerland,CHE,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.61286
+Switzerland,CHE,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.64024
+Switzerland,CHE,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.66762
+Switzerland,CHE,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.695
+Switzerland,CHE,1991,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.688
+Switzerland,CHE,1990,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.681
+Switzerland,CHE,1989,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.674
+Switzerland,CHE,1988,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.667
+Switzerland,CHE,1987,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.66
+Switzerland,CHE,1986,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.653
+Switzerland,CHE,1985,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.646
+Switzerland,CHE,1984,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.6346
+Switzerland,CHE,1983,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.6232
+Switzerland,CHE,1982,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.6118
+Switzerland,CHE,1981,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.6004
+Switzerland,CHE,1980,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.589
+Switzerland,CHE,1979,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.5908
+Switzerland,CHE,1978,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.5926
+Switzerland,CHE,1977,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.5944
+Switzerland,CHE,1976,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.5962
+Switzerland,CHE,1975,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,2.598
+Switzerland,CHE,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.21782178217822
+Switzerland,CHE,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.21782178217822
+Switzerland,CHE,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.21782178217822
+Switzerland,CHE,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.21782178217822
+Switzerland,CHE,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.21782178217822
+Switzerland,CHE,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.22256683168317
+Switzerland,CHE,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.21782178217822
+Switzerland,CHE,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.25742574257426
+Switzerland,CHE,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,4.95049504950495
+Switzerland,CHE,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.08873762376238
+Switzerland,CHE,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.21584158415842
+Switzerland,CHE,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.34294554455446
+Switzerland,CHE,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.4700495049505
+Switzerland,CHE,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.59715346534654
+Switzerland,CHE,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.72425742574258
+Switzerland,CHE,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.85136138613861
+Switzerland,CHE,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,5.97846534653465
+Switzerland,CHE,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.10556930693069
+Switzerland,CHE,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.23267326732673
+Switzerland,CHE,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.25252475247525
+Switzerland,CHE,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.27237623762376
+Switzerland,CHE,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.29222772277228
+Switzerland,CHE,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.31207920792079
+Switzerland,CHE,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.33193069306931
+Switzerland,CHE,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.39970297029703
+Switzerland,CHE,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.46747524752475
+Switzerland,CHE,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.53524752475248
+Switzerland,CHE,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.6030198019802
+Switzerland,CHE,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.67079207920792
+Switzerland,CHE,1991,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.65346534653465
+Switzerland,CHE,1990,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.63613861386139
+Switzerland,CHE,1989,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.61881188118812
+Switzerland,CHE,1988,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.60148514851485
+Switzerland,CHE,1987,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.58415841584158
+Switzerland,CHE,1986,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.56683168316832
+Switzerland,CHE,1985,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.54950495049505
+Switzerland,CHE,1984,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.52128712871287
+Switzerland,CHE,1983,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.49306930693069
+Switzerland,CHE,1982,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.46485148514851
+Switzerland,CHE,1981,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.43663366336634
+Switzerland,CHE,1980,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.40841584158416
+Switzerland,CHE,1979,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.41287128712871
+Switzerland,CHE,1978,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.41732673267327
+Switzerland,CHE,1977,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.42178217821782
+Switzerland,CHE,1976,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.42623762376238
+Switzerland,CHE,1975,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,6.43069306930693
+Switzerland,CHE,2022,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,12.1402102
+Switzerland,CHE,2021,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,12.13257694
+Switzerland,CHE,2020,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,11.95877
+Switzerland,CHE,2019,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,9.993424
+Switzerland,CHE,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,9.66518426119506
+Switzerland,CHE,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,9.66518426119506
+Switzerland,CHE,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,9.65
+Switzerland,CHE,2022,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,12.1402102955477
+Switzerland,CHE,2021,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,12.1325764873699
+Switzerland,CHE,2020,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,11.9587701898469
+Switzerland,CHE,2019,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,9.99342442212193
+Switzerland,CHE,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,9.66518426119507
+Switzerland,CHE,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,9.66518426119507
+Switzerland,CHE,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,9.65051637879546
+Switzerland,CHE,2019,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ,36
+Switzerland,CHE,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.614574942644973
+Switzerland,CHE,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.625932432983477
+Switzerland,CHE,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.705477633321729
+Switzerland,CHE,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.647745526895984
+Switzerland,CHE,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.643750702339479
+Switzerland,CHE,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.631333510334041
+Switzerland,CHE,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.658010471667002
+Switzerland,CHE,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.62644626050893
+Switzerland,CHE,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.708877666889646
+Switzerland,CHE,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.662533713556518
+Switzerland,CHE,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.634586963665186
+Switzerland,CHE,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.676699830016967
+Switzerland,CHE,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.662940574514361
+Switzerland,CHE,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.722507576681507
+Switzerland,CHE,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.783533938641809
+Switzerland,CHE,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.773162582920631
+Switzerland,CHE,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.753298112550259
+Switzerland,CHE,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.818619332578622
+Switzerland,CHE,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.934999580301804
+Switzerland,CHE,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.836991886074435
+Switzerland,CHE,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.933658141892988
+Switzerland,CHE,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,0.920924113572322
+Switzerland,CHE,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.0538895108627
+Switzerland,CHE,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.09235100023413
+Switzerland,CHE,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.17193472469708
+Switzerland,CHE,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.24518953802149
+Switzerland,CHE,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.21980716280797
+Switzerland,CHE,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.39877722256648
+Switzerland,CHE,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.52059970363763
+Switzerland,CHE,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.65702190710011
+Switzerland,CHE,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.81097917614887
+Switzerland,CHE,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,1.98040415079752
+Switzerland,CHE,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,2.10985921602114
+Switzerland,CHE,2020,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.968540012836456
+Switzerland,CHE,2019,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.968580007553101
+Switzerland,CHE,2018,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.970459997653961
+Switzerland,CHE,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.973230004310608
+Switzerland,CHE,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.97613000869751
+Switzerland,CHE,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.979340016841888
+Switzerland,CHE,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.985319972038269
+Switzerland,CHE,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983169972896576
+Switzerland,CHE,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.983799993991852
+Switzerland,CHE,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.981530010700226
+Switzerland,CHE,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.975220024585724
+Switzerland,CHE,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.972180008888245
+Switzerland,CHE,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.969760000705719
+Switzerland,CHE,2006,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.967320024967194
+Switzerland,CHE,2005,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.966939985752106
+Switzerland,CHE,2004,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.964699983596802
+Switzerland,CHE,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.969969987869263
+Switzerland,CHE,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.971790015697479
+Switzerland,CHE,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.974749982357025
+Switzerland,CHE,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.967230021953583
+Switzerland,CHE,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.960879981517792
+Switzerland,CHE,1998,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.956250011920929
+Switzerland,CHE,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.96806001663208
+Switzerland,CHE,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.963680028915405
+Switzerland,CHE,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.960979998111725
+Switzerland,CHE,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.955579996109009
+Switzerland,CHE,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.972379982471466
+Switzerland,CHE,1991,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.969820022583008
+Switzerland,CHE,1990,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.965449988842011
+Switzerland,CHE,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.963389992713928
+Switzerland,CHE,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.957589983940125
+Switzerland,CHE,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.953779995441437
+Switzerland,CHE,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.948920011520386
+Switzerland,CHE,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.947229981422424
+Switzerland,CHE,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.945360004901886
+Switzerland,CHE,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.945200026035309
+Switzerland,CHE,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.943560004234314
+Switzerland,CHE,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.942460000514984
+Switzerland,CHE,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.941340029239655
+Switzerland,CHE,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.937390029430389
+Switzerland,CHE,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.928780019283295
+Switzerland,CHE,2021,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.4812088012695
+Switzerland,CHE,2020,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.2758178710938
+Switzerland,CHE,2019,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,93.5932235717773
+Switzerland,CHE,2018,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.4237213134766
+Switzerland,CHE,2017,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.3591537475586
+Switzerland,CHE,2016,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.9024276733398
+Switzerland,CHE,2015,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.6313629150391
+Switzerland,CHE,2014,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.4781188964844
+Switzerland,CHE,2013,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.0501098632812
+Switzerland,CHE,2012,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.8369369506836
+Switzerland,CHE,2011,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.6746292114258
+Switzerland,CHE,2010,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,97.018913269043
+Switzerland,CHE,2009,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.0933532714844
+Switzerland,CHE,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,97.185546875
+Switzerland,CHE,2007,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.270637512207
+Switzerland,CHE,2006,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.7452087402344
+Switzerland,CHE,2005,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.3978805541992
+Switzerland,CHE,2004,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.5045394897461
+Switzerland,CHE,2003,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.3054122924805
+Switzerland,CHE,2002,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.2356033325195
+Switzerland,CHE,2001,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,94.956169128418
+Switzerland,CHE,2000,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,96.8936080932617
+Switzerland,CHE,1999,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,95.3095321655273
+Switzerland,CHE,1996,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,73.3475189208984
+Switzerland,CHE,1994,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,60.7344589233398
+Switzerland,CHE,1993,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,58.6071701049805
+Switzerland,CHE,1992,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,53.9017105102539
+Switzerland,CHE,1991,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,52.7077102661133
+Switzerland,CHE,1990,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,51.212158203125
+Switzerland,CHE,1989,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,51.808521270752
+Switzerland,CHE,1988,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,51.2793617248535
+Switzerland,CHE,1987,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,51.4994812011719
+Switzerland,CHE,1986,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,52.0220108032227
+Switzerland,CHE,1985,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,52.5236015319824
+Switzerland,CHE,1984,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,52.5071601867676
+Switzerland,CHE,1983,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,53.785400390625
+Switzerland,CHE,1982,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,53.8125686645508
+Switzerland,CHE,1981,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,53.5609703063965
+Switzerland,CHE,1980,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,57.5948715209961
+Switzerland,CHE,1979,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,57.7193489074707
+Switzerland,CHE,1978,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,59.2602310180664
+Switzerland,CHE,1977,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,51.3605690002441
+Switzerland,CHE,2021,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,3.8
+Switzerland,CHE,2020,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,3.9
+Switzerland,CHE,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4
+Switzerland,CHE,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.1
+Switzerland,CHE,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.1
+Switzerland,CHE,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.2
+Switzerland,CHE,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.3
+Switzerland,CHE,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.3
+Switzerland,CHE,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.4
+Switzerland,CHE,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.4
+Switzerland,CHE,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.5
+Switzerland,CHE,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.6
+Switzerland,CHE,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.6
+Switzerland,CHE,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.7
+Switzerland,CHE,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.8
+Switzerland,CHE,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,4.9
+Switzerland,CHE,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.1
+Switzerland,CHE,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.2
+Switzerland,CHE,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.3
+Switzerland,CHE,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.4
+Switzerland,CHE,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.5
+Switzerland,CHE,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.6
+Switzerland,CHE,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.7
+Switzerland,CHE,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,5.8
+Switzerland,CHE,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6
+Switzerland,CHE,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.1
+Switzerland,CHE,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.4
+Switzerland,CHE,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,6.7
+Switzerland,CHE,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.1
+Switzerland,CHE,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.5
+Switzerland,CHE,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.8
+Switzerland,CHE,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.2
+Switzerland,CHE,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.4
+Switzerland,CHE,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.6
+Switzerland,CHE,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.8
+Switzerland,CHE,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8.9
+Switzerland,CHE,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9
+Switzerland,CHE,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.2
+Switzerland,CHE,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.4
+Switzerland,CHE,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,9.7
+Switzerland,CHE,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10
+Switzerland,CHE,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.4
+Switzerland,CHE,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,10.9
+Switzerland,CHE,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11.4
+Switzerland,CHE,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.1
+Switzerland,CHE,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,12.9
+Switzerland,CHE,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,13.8
+Switzerland,CHE,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.8
+Switzerland,CHE,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.7
+Switzerland,CHE,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,16.7
+Switzerland,CHE,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,17.6
+Switzerland,CHE,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,18.4
+Switzerland,CHE,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,19.2
+Switzerland,CHE,1968,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,19.9
+Switzerland,CHE,1967,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.7
+Switzerland,CHE,1966,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,21.6
+Switzerland,CHE,1965,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,22.6
+Switzerland,CHE,1964,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,23.6
+Switzerland,CHE,1963,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,24.5
+Switzerland,CHE,1962,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,25.4
+Switzerland,CHE,1961,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26
+Switzerland,CHE,1960,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,26.5
+Switzerland,CHE,2018,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2017,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2016,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2015,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2014,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2013,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2012,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2011,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2010,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2009,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2008,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1
+Switzerland,CHE,2007,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2006,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2002,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,2000,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0
+Switzerland,CHE,1992,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.5
+Switzerland,CHE,1982,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.7
+Switzerland,CHE,2022,Population growth (annual %),SP.POP.GROW,0.814795736256849
+Switzerland,CHE,2021,Population growth (annual %),SP.POP.GROW,0.765501039496593
+Switzerland,CHE,2020,Population growth (annual %),SP.POP.GROW,0.730676195047382
+Switzerland,CHE,2019,Population growth (annual %),SP.POP.GROW,0.713313668444329
+Switzerland,CHE,2018,Population growth (annual %),SP.POP.GROW,0.736633975172522
+Switzerland,CHE,2017,Population growth (annual %),SP.POP.GROW,0.933155888738653
+Switzerland,CHE,2016,Population growth (annual %),SP.POP.GROW,1.09203117387253
+Switzerland,CHE,2015,Population growth (annual %),SP.POP.GROW,1.13833715247736
+Switzerland,CHE,2014,Population growth (annual %),SP.POP.GROW,1.22010397343287
+Switzerland,CHE,2013,Population growth (annual %),SP.POP.GROW,1.14987975781229
+Switzerland,CHE,2012,Population growth (annual %),SP.POP.GROW,1.06181932886789
+Switzerland,CHE,2011,Population growth (annual %),SP.POP.GROW,1.11187894263206
+Switzerland,CHE,2010,Population growth (annual %),SP.POP.GROW,1.0415580576588
+Switzerland,CHE,2009,Population growth (annual %),SP.POP.GROW,1.24948463127384
+Switzerland,CHE,2008,Population growth (annual %),SP.POP.GROW,1.27061807385776
+Switzerland,CHE,2007,Population growth (annual %),SP.POP.GROW,0.893690977823134
+Switzerland,CHE,2006,Population growth (annual %),SP.POP.GROW,0.627558473346134
+Switzerland,CHE,2005,Population growth (annual %),SP.POP.GROW,0.640601540243491
+Switzerland,CHE,2004,Population growth (annual %),SP.POP.GROW,0.687425960233006
+Switzerland,CHE,2003,Population growth (annual %),SP.POP.GROW,0.74191960337232
+Switzerland,CHE,2002,Population growth (annual %),SP.POP.GROW,0.756469145838096
+Switzerland,CHE,2001,Population growth (annual %),SP.POP.GROW,0.632771238018431
+Switzerland,CHE,2000,Population growth (annual %),SP.POP.GROW,0.561954617400164
+Switzerland,CHE,1999,Population growth (annual %),SP.POP.GROW,0.476919931285641
+Switzerland,CHE,1998,Population growth (annual %),SP.POP.GROW,0.297135765740057
+Switzerland,CHE,1997,Population growth (annual %),SP.POP.GROW,0.240891210155647
+Switzerland,CHE,1996,Population growth (annual %),SP.POP.GROW,0.441636406706345
+Switzerland,CHE,1995,Population growth (annual %),SP.POP.GROW,0.668242326234317
+Switzerland,CHE,1994,Population growth (annual %),SP.POP.GROW,0.797158411024818
+Switzerland,CHE,1993,Population growth (annual %),SP.POP.GROW,0.910715565788466
+Switzerland,CHE,1992,Population growth (annual %),SP.POP.GROW,1.10252107229095
+Switzerland,CHE,1991,Population growth (annual %),SP.POP.GROW,1.24982602441627
+Switzerland,CHE,1990,Population growth (annual %),SP.POP.GROW,1.02687307219521
+Switzerland,CHE,1989,Population growth (annual %),SP.POP.GROW,0.808536055550948
+Switzerland,CHE,1988,Population growth (annual %),SP.POP.GROW,0.734943056123237
+Switzerland,CHE,1987,Population growth (annual %),SP.POP.GROW,0.628115754543019
+Switzerland,CHE,1986,Population growth (annual %),SP.POP.GROW,0.520391611336159
+Switzerland,CHE,1985,Population growth (annual %),SP.POP.GROW,0.441442667641394
+Switzerland,CHE,1984,Population growth (annual %),SP.POP.GROW,0.359111652414513
+Switzerland,CHE,1983,Population growth (annual %),SP.POP.GROW,0.428787920002408
+Switzerland,CHE,1982,Population growth (annual %),SP.POP.GROW,0.584291675385673
+Switzerland,CHE,1981,Population growth (annual %),SP.POP.GROW,0.547064910132262
+Switzerland,CHE,1980,Population growth (annual %),SP.POP.GROW,0.397074418637607
+Switzerland,CHE,1979,Population growth (annual %),SP.POP.GROW,0.200809491511636
+Switzerland,CHE,1978,Population growth (annual %),SP.POP.GROW,0.00897881001440717
+Switzerland,CHE,1977,Population growth (annual %),SP.POP.GROW,-0.339010906485653
+Switzerland,CHE,1976,Population growth (annual %),SP.POP.GROW,-0.57159575476383
+Switzerland,CHE,1975,Population growth (annual %),SP.POP.GROW,-0.0437380434174903
+Switzerland,CHE,1974,Population growth (annual %),SP.POP.GROW,0.538520832855669
+Switzerland,CHE,1973,Population growth (annual %),SP.POP.GROW,0.738225529466449
+Switzerland,CHE,1972,Population growth (annual %),SP.POP.GROW,0.762479990409525
+Switzerland,CHE,1971,Population growth (annual %),SP.POP.GROW,0.524791841648688
+Switzerland,CHE,1970,Population growth (annual %),SP.POP.GROW,0.722403830625566
+Switzerland,CHE,1969,Population growth (annual %),SP.POP.GROW,1.125420460311
+Switzerland,CHE,1968,Population growth (annual %),SP.POP.GROW,1.25925634808891
+Switzerland,CHE,1967,Population growth (annual %),SP.POP.GROW,1.23904724663021
+Switzerland,CHE,1966,Population growth (annual %),SP.POP.GROW,1.04515174261587
+Switzerland,CHE,1965,Population growth (annual %),SP.POP.GROW,1.15484251419216
+Switzerland,CHE,1964,Population growth (annual %),SP.POP.GROW,1.65425824514532
+Switzerland,CHE,1963,Population growth (annual %),SP.POP.GROW,2.13766282113072
+Switzerland,CHE,1962,Population growth (annual %),SP.POP.GROW,2.53501253675864
+Switzerland,CHE,1961,Population growth (annual %),SP.POP.GROW,1.97861505905873
+Switzerland,CHE,2022,"Population, total",SP.POP.TOTL,8775760
+Switzerland,CHE,2021,"Population, total",SP.POP.TOTL,8704546
+Switzerland,CHE,2020,"Population, total",SP.POP.TOTL,8638167
+Switzerland,CHE,2019,"Population, total",SP.POP.TOTL,8575280
+Switzerland,CHE,2018,"Population, total",SP.POP.TOTL,8514329
+Switzerland,CHE,2017,"Population, total",SP.POP.TOTL,8451840
+Switzerland,CHE,2016,"Population, total",SP.POP.TOTL,8373338
+Switzerland,CHE,2015,"Population, total",SP.POP.TOTL,8282396
+Switzerland,CHE,2014,"Population, total",SP.POP.TOTL,8188649
+Switzerland,CHE,2013,"Population, total",SP.POP.TOTL,8089346
+Switzerland,CHE,2012,"Population, total",SP.POP.TOTL,7996861
+Switzerland,CHE,2011,"Population, total",SP.POP.TOTL,7912398
+Switzerland,CHE,2010,"Population, total",SP.POP.TOTL,7824909
+Switzerland,CHE,2009,"Population, total",SP.POP.TOTL,7743831
+Switzerland,CHE,2008,"Population, total",SP.POP.TOTL,7647675
+Switzerland,CHE,2007,"Population, total",SP.POP.TOTL,7551117
+Switzerland,CHE,2006,"Population, total",SP.POP.TOTL,7483934
+Switzerland,CHE,2005,"Population, total",SP.POP.TOTL,7437115
+Switzerland,CHE,2004,"Population, total",SP.POP.TOTL,7389625
+Switzerland,CHE,2003,"Population, total",SP.POP.TOTL,7339001
+Switzerland,CHE,2002,"Population, total",SP.POP.TOTL,7284753
+Switzerland,CHE,2001,"Population, total",SP.POP.TOTL,7229854
+Switzerland,CHE,2000,"Population, total",SP.POP.TOTL,7184250
+Switzerland,CHE,1999,"Population, total",SP.POP.TOTL,7143991
+Switzerland,CHE,1998,"Population, total",SP.POP.TOTL,7110001
+Switzerland,CHE,1997,"Population, total",SP.POP.TOTL,7088906
+Switzerland,CHE,1996,"Population, total",SP.POP.TOTL,7071850
+Switzerland,CHE,1995,"Population, total",SP.POP.TOTL,7040687
+Switzerland,CHE,1994,"Population, total",SP.POP.TOTL,6993795
+Switzerland,CHE,1993,"Population, total",SP.POP.TOTL,6938265
+Switzerland,CHE,1992,"Population, total",SP.POP.TOTL,6875364
+Switzerland,CHE,1991,"Population, total",SP.POP.TOTL,6799978
+Switzerland,CHE,1990,"Population, total",SP.POP.TOTL,6715519
+Switzerland,CHE,1989,"Population, total",SP.POP.TOTL,6646912
+Switzerland,CHE,1988,"Population, total",SP.POP.TOTL,6593386
+Switzerland,CHE,1987,"Population, total",SP.POP.TOTL,6545106
+Switzerland,CHE,1986,"Population, total",SP.POP.TOTL,6504124
+Switzerland,CHE,1985,"Population, total",SP.POP.TOTL,6470365
+Switzerland,CHE,1984,"Population, total",SP.POP.TOTL,6441865
+Switzerland,CHE,1983,"Population, total",SP.POP.TOTL,6418773
+Switzerland,CHE,1982,"Population, total",SP.POP.TOTL,6391309
+Switzerland,CHE,1981,"Population, total",SP.POP.TOTL,6354074
+Switzerland,CHE,1980,"Population, total",SP.POP.TOTL,6319408
+Switzerland,CHE,1979,"Population, total",SP.POP.TOTL,6294365
+Switzerland,CHE,1978,"Population, total",SP.POP.TOTL,6281738
+Switzerland,CHE,1977,"Population, total",SP.POP.TOTL,6281174
+Switzerland,CHE,1976,"Population, total",SP.POP.TOTL,6302504
+Switzerland,CHE,1975,"Population, total",SP.POP.TOTL,6338632
+Switzerland,CHE,1974,"Population, total",SP.POP.TOTL,6341405
+Switzerland,CHE,1973,"Population, total",SP.POP.TOTL,6307347
+Switzerland,CHE,1972,"Population, total",SP.POP.TOTL,6260956
+Switzerland,CHE,1971,"Population, total",SP.POP.TOTL,6213399
+Switzerland,CHE,1970,"Population, total",SP.POP.TOTL,6180877
+Switzerland,CHE,1969,"Population, total",SP.POP.TOTL,6136387
+Switzerland,CHE,1968,"Population, total",SP.POP.TOTL,6067714
+Switzerland,CHE,1967,"Population, total",SP.POP.TOTL,5991785
+Switzerland,CHE,1966,"Population, total",SP.POP.TOTL,5918002
+Switzerland,CHE,1965,"Population, total",SP.POP.TOTL,5856472
+Switzerland,CHE,1964,"Population, total",SP.POP.TOTL,5789228
+Switzerland,CHE,1963,"Population, total",SP.POP.TOTL,5694247
+Switzerland,CHE,1962,"Population, total",SP.POP.TOTL,5573815
+Switzerland,CHE,1961,"Population, total",SP.POP.TOTL,5434294
+Switzerland,CHE,1960,"Population, total",SP.POP.TOTL,5327827
+Switzerland,CHE,2022,Urban population growth (annual %),SP.URB.GROW,0.944444665600694
+Switzerland,CHE,2021,Urban population growth (annual %),SP.URB.GROW,0.875030737374761
+Switzerland,CHE,2020,Urban population growth (annual %),SP.URB.GROW,0.819998209849981
+Switzerland,CHE,2019,Urban population growth (annual %),SP.URB.GROW,0.783765811954327
+Switzerland,CHE,2018,Urban population growth (annual %),SP.URB.GROW,0.785417652319277
+Switzerland,CHE,2017,Urban population growth (annual %),SP.URB.GROW,0.962986439023895
+Switzerland,CHE,2016,Urban population growth (annual %),SP.URB.GROW,1.12051359857279
+Switzerland,CHE,2015,Urban population growth (annual %),SP.URB.GROW,1.16818639104156
+Switzerland,CHE,2014,Urban population growth (annual %),SP.URB.GROW,1.24996083195795
+Switzerland,CHE,2013,Urban population growth (annual %),SP.URB.GROW,1.17839214469233
+Switzerland,CHE,2012,Urban population growth (annual %),SP.URB.GROW,1.09168911257723
+Switzerland,CHE,2011,Urban population growth (annual %),SP.URB.GROW,1.14447911246303
+Switzerland,CHE,2010,Urban population growth (annual %),SP.URB.GROW,1.07689611583261
+Switzerland,CHE,2009,Urban population growth (annual %),SP.URB.GROW,1.28345836397255
+Switzerland,CHE,2008,Urban population growth (annual %),SP.URB.GROW,1.30598063263603
+Switzerland,CHE,2007,Urban population growth (annual %),SP.URB.GROW,0.929048227949449
+Switzerland,CHE,2006,Urban population growth (annual %),SP.URB.GROW,0.662946312521288
+Switzerland,CHE,2005,Urban population growth (annual %),SP.URB.GROW,0.675992501186956
+Switzerland,CHE,2004,Urban population growth (annual %),SP.URB.GROW,0.721465950344645
+Switzerland,CHE,2003,Urban population growth (annual %),SP.URB.GROW,0.777321863401719
+Switzerland,CHE,2002,Urban population growth (annual %),SP.URB.GROW,0.791912727997122
+Switzerland,CHE,2001,Urban population growth (annual %),SP.URB.GROW,0.621865281288162
+Switzerland,CHE,2000,Urban population growth (annual %),SP.URB.GROW,0.487032192288853
+Switzerland,CHE,1999,Urban population growth (annual %),SP.URB.GROW,0.403412184918245
+Switzerland,CHE,1998,Urban population growth (annual %),SP.URB.GROW,0.22368290088907
+Switzerland,CHE,1997,Urban population growth (annual %),SP.URB.GROW,0.167490737662571
+Switzerland,CHE,1996,Urban population growth (annual %),SP.URB.GROW,0.368293772905816
+Switzerland,CHE,1995,Urban population growth (annual %),SP.URB.GROW,0.594969191642619
+Switzerland,CHE,1994,Urban population growth (annual %),SP.URB.GROW,0.723915625684626
+Switzerland,CHE,1993,Urban population growth (annual %),SP.URB.GROW,0.838886830242898
+Switzerland,CHE,1992,Urban population growth (annual %),SP.URB.GROW,1.02938820424635
+Switzerland,CHE,1991,Urban population growth (annual %),SP.URB.GROW,1.1726886114345
+Switzerland,CHE,1990,Urban population growth (annual %),SP.URB.GROW,0.945758640258411
+Switzerland,CHE,1989,Urban population growth (annual %),SP.URB.GROW,0.727457903349373
+Switzerland,CHE,1988,Urban population growth (annual %),SP.URB.GROW,0.652597876882438
+Switzerland,CHE,1987,Urban population growth (annual %),SP.URB.GROW,0.547183299740602
+Switzerland,CHE,1986,Urban population growth (annual %),SP.URB.GROW,0.43952954995705
+Switzerland,CHE,1985,Urban population growth (annual %),SP.URB.GROW,0.361988438450072
+Switzerland,CHE,1984,Urban population growth (annual %),SP.URB.GROW,0.278378271126319
+Switzerland,CHE,1983,Urban population growth (annual %),SP.URB.GROW,0.348125139958558
+Switzerland,CHE,1982,Urban population growth (annual %),SP.URB.GROW,0.503672244155451
+Switzerland,CHE,1981,Urban population growth (annual %),SP.URB.GROW,0.53231009353371
+Switzerland,CHE,1980,Urban population growth (annual %),SP.URB.GROW,0.468256550424119
+Switzerland,CHE,1979,Urban population growth (annual %),SP.URB.GROW,0.273379015432088
+Switzerland,CHE,1978,Urban population growth (annual %),SP.URB.GROW,0.0816305074449063
+Switzerland,CHE,1977,Urban population growth (annual %),SP.URB.GROW,-0.266337836777118
+Switzerland,CHE,1976,Urban population growth (annual %),SP.URB.GROW,-0.498842803399313
+Switzerland,CHE,1975,Urban population growth (annual %),SP.URB.GROW,0.0290660065109045
+Switzerland,CHE,1974,Urban population growth (annual %),SP.URB.GROW,0.611361642613308
+Switzerland,CHE,1973,Urban population growth (annual %),SP.URB.GROW,0.811134221057727
+Switzerland,CHE,1972,Urban population growth (annual %),SP.URB.GROW,0.835427977510815
+Switzerland,CHE,1971,Urban population growth (annual %),SP.URB.GROW,0.726363968494036
+Switzerland,CHE,1970,Urban population growth (annual %),SP.URB.GROW,1.10501818763145
+Switzerland,CHE,1969,Urban population growth (annual %),SP.URB.GROW,1.50952360718135
+Switzerland,CHE,1968,Urban population growth (annual %),SP.URB.GROW,1.65029736454527
+Switzerland,CHE,1967,Urban population growth (annual %),SP.URB.GROW,1.63300839783526
+Switzerland,CHE,1966,Urban population growth (annual %),SP.URB.GROW,1.44345367209856
+Switzerland,CHE,1965,Urban population growth (annual %),SP.URB.GROW,1.55610869737212
+Switzerland,CHE,1964,Urban population growth (annual %),SP.URB.GROW,2.06131154481387
+Switzerland,CHE,1963,Urban population growth (annual %),SP.URB.GROW,2.54915567362899
+Switzerland,CHE,1962,Urban population growth (annual %),SP.URB.GROW,2.94964535914491
+Switzerland,CHE,1961,Urban population growth (annual %),SP.URB.GROW,2.4273824566381
+Switzerland,CHE,2022,Urban population,SP.URB.TOTL,6502136
+Switzerland,CHE,2021,Urban population,SP.URB.TOTL,6441016
+Switzerland,CHE,2020,Urban population,SP.URB.TOTL,6384901
+Switzerland,CHE,2019,Urban population,SP.URB.TOTL,6332759
+Switzerland,CHE,2018,Urban population,SP.URB.TOTL,6283319
+Switzerland,CHE,2017,Urban population,SP.URB.TOTL,6234162
+Switzerland,CHE,2016,Urban population,SP.URB.TOTL,6174416
+Switzerland,CHE,2015,Urban population,SP.URB.TOTL,6105617
+Switzerland,CHE,2014,Urban population,SP.URB.TOTL,6034707
+Switzerland,CHE,2013,Urban population,SP.URB.TOTL,5959745
+Switzerland,CHE,2012,Urban population,SP.URB.TOTL,5889928
+Switzerland,CHE,2011,Urban population,SP.URB.TOTL,5825978
+Switzerland,CHE,2010,Urban population,SP.URB.TOTL,5759681
+Switzerland,CHE,2009,Urban population,SP.URB.TOTL,5697988
+Switzerland,CHE,2008,Urban population,SP.URB.TOTL,5625324
+Switzerland,CHE,2007,Urban population,SP.URB.TOTL,5552336
+Switzerland,CHE,2006,Urban population,SP.URB.TOTL,5500991
+Switzerland,CHE,2005,Urban population,SP.URB.TOTL,5464643
+Switzerland,CHE,2004,Urban population,SP.URB.TOTL,5427827
+Switzerland,CHE,2003,Urban population,SP.URB.TOTL,5388808
+Switzerland,CHE,2002,Urban population,SP.URB.TOTL,5347082
+Switzerland,CHE,2001,Urban population,SP.URB.TOTL,5304905
+Switzerland,CHE,2000,Urban population,SP.URB.TOTL,5272018
+Switzerland,CHE,1999,Urban population,SP.URB.TOTL,5246404
+Switzerland,CHE,1998,Urban population,SP.URB.TOTL,5225282
+Switzerland,CHE,1997,Urban population,SP.URB.TOTL,5213607
+Switzerland,CHE,1996,Urban population,SP.URB.TOTL,5204882
+Switzerland,CHE,1995,Urban population,SP.URB.TOTL,5185748
+Switzerland,CHE,1994,Urban population,SP.URB.TOTL,5154986
+Switzerland,CHE,1993,Urban population,SP.URB.TOTL,5117803
+Switzerland,CHE,1992,Urban population,SP.URB.TOTL,5075050
+Switzerland,CHE,1991,Urban population,SP.URB.TOTL,5023076
+Switzerland,CHE,1990,Urban population,SP.URB.TOTL,4964515
+Switzerland,CHE,1989,Urban population,SP.URB.TOTL,4917784
+Switzerland,CHE,1988,Urban population,SP.URB.TOTL,4882139
+Switzerland,CHE,1987,Urban population,SP.URB.TOTL,4850382
+Switzerland,CHE,1986,Urban population,SP.URB.TOTL,4823914
+Switzerland,CHE,1985,Urban population,SP.URB.TOTL,4802758
+Switzerland,CHE,1984,Urban population,SP.URB.TOTL,4785404
+Switzerland,CHE,1983,Urban population,SP.URB.TOTL,4772101
+Switzerland,CHE,1982,Urban population,SP.URB.TOTL,4755517
+Switzerland,CHE,1981,Urban population,SP.URB.TOTL,4731625
+Switzerland,CHE,1980,Urban population,SP.URB.TOTL,4706505
+Switzerland,CHE,1979,Urban population,SP.URB.TOTL,4684518
+Switzerland,CHE,1978,Urban population,SP.URB.TOTL,4671729
+Switzerland,CHE,1977,Urban population,SP.URB.TOTL,4667917
+Switzerland,CHE,1976,Urban population,SP.URB.TOTL,4680366
+Switzerland,CHE,1975,Urban population,SP.URB.TOTL,4703772
+Switzerland,CHE,1974,Urban population,SP.URB.TOTL,4702405
+Switzerland,CHE,1973,Urban population,SP.URB.TOTL,4673744
+Switzerland,CHE,1972,Urban population,SP.URB.TOTL,4635987
+Switzerland,CHE,1971,Urban population,SP.URB.TOTL,4597418
+Switzerland,CHE,1970,Urban population,SP.URB.TOTL,4564145
+Switzerland,CHE,1969,Urban population,SP.URB.TOTL,4513988
+Switzerland,CHE,1968,Urban population,SP.URB.TOTL,4446360
+Switzerland,CHE,1967,Urban population,SP.URB.TOTL,4373584
+Switzerland,CHE,1966,Urban population,SP.URB.TOTL,4302743
+Switzerland,CHE,1965,Urban population,SP.URB.TOTL,4241081
+Switzerland,CHE,1964,Urban population,SP.URB.TOTL,4175596
+Switzerland,CHE,1963,Urban population,SP.URB.TOTL,4090405
+Switzerland,CHE,1962,Urban population,SP.URB.TOTL,3987452
+Switzerland,CHE,1961,Urban population,SP.URB.TOTL,3871554
+Switzerland,CHE,1960,Urban population,SP.URB.TOTL,3778708
+Switzerland,CHE,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.092
+Switzerland,CHE,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.996
+Switzerland,CHE,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.915
+Switzerland,CHE,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.849
+Switzerland,CHE,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.797
+Switzerland,CHE,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.761
+Switzerland,CHE,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.739
+Switzerland,CHE,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.718
+Switzerland,CHE,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.696
+Switzerland,CHE,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.674
+Switzerland,CHE,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.653
+Switzerland,CHE,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.631
+Switzerland,CHE,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.607
+Switzerland,CHE,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.581
+Switzerland,CHE,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.556
+Switzerland,CHE,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.53
+Switzerland,CHE,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.504
+Switzerland,CHE,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.478
+Switzerland,CHE,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.452
+Switzerland,CHE,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.427
+Switzerland,CHE,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.401
+Switzerland,CHE,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.375
+Switzerland,CHE,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.383
+Switzerland,CHE,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.438
+Switzerland,CHE,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.492
+Switzerland,CHE,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.546
+Switzerland,CHE,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.6
+Switzerland,CHE,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.654
+Switzerland,CHE,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.708
+Switzerland,CHE,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.762
+Switzerland,CHE,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.815
+Switzerland,CHE,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.869
+Switzerland,CHE,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.926
+Switzerland,CHE,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.986
+Switzerland,CHE,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.046
+Switzerland,CHE,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.107
+Switzerland,CHE,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.167
+Switzerland,CHE,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.227
+Switzerland,CHE,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.286
+Switzerland,CHE,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.346
+Switzerland,CHE,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.406
+Switzerland,CHE,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.466
+Switzerland,CHE,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.477
+Switzerland,CHE,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.424
+Switzerland,CHE,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.37
+Switzerland,CHE,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.316
+Switzerland,CHE,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.262
+Switzerland,CHE,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.208
+Switzerland,CHE,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.154
+Switzerland,CHE,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.1
+Switzerland,CHE,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.046
+Switzerland,CHE,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.992
+Switzerland,CHE,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.843
+Switzerland,CHE,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.561
+Switzerland,CHE,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.279
+Switzerland,CHE,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.993
+Switzerland,CHE,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.706
+Switzerland,CHE,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.417
+Switzerland,CHE,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.127
+Switzerland,CHE,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.834
+Switzerland,CHE,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.539
+Switzerland,CHE,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.243
+Switzerland,CHE,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.924

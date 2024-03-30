@@ -1,0 +1,615 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Switzerland,CHE,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Switzerland,CHE,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Switzerland,CHE,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Switzerland,CHE,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Switzerland,CHE,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Switzerland,CHE,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Switzerland,CHE,2015,Urban land area (sq. km),AG.LND.TOTL.UR.K2,4016.815073034
+Switzerland,CHE,2000,Urban land area (sq. km),AG.LND.TOTL.UR.K2,3388.774180366
+Switzerland,CHE,1990,Urban land area (sq. km),AG.LND.TOTL.UR.K2,3066.311174795
+Switzerland,CHE,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1994,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1993,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1992,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1991,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,1990,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Switzerland,CHE,2019,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,9.902709701
+Switzerland,CHE,2018,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,10.15005926
+Switzerland,CHE,2017,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,9.854778198
+Switzerland,CHE,2016,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,10.60281759
+Switzerland,CHE,2015,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,11.59075488
+Switzerland,CHE,2014,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,10.60883998
+Switzerland,CHE,2013,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,12.47195588
+Switzerland,CHE,2012,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,12.71146517
+Switzerland,CHE,2011,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,13.81779708
+Switzerland,CHE,2010,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,13.15189172
+Switzerland,CHE,2005,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,13.06616084
+Switzerland,CHE,2000,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,14.88087098
+Switzerland,CHE,1995,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.70703907
+Switzerland,CHE,1990,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.97383325
+Switzerland,CHE,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,49.3001362303515
+Switzerland,CHE,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,49.3394536369063
+Switzerland,CHE,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,72.3111073443463
+Switzerland,CHE,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,78.499186393826
+Switzerland,CHE,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,86.9104974533489
+Switzerland,CHE,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,91.8209143581515
+Switzerland,CHE,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,94.7852350840776
+Switzerland,CHE,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,93.0007045460388
+Switzerland,CHE,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,93.5750613398087
+Switzerland,CHE,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,92.7305802837176
+Switzerland,CHE,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,95.1002489908761
+Switzerland,CHE,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,96.4286654928097
+Switzerland,CHE,2021,Population density (people per sq. km of land area),EN.POP.DNST,220.31454103721
+Switzerland,CHE,2020,Population density (people per sq. km of land area),EN.POP.DNST,218.63446962171
+Switzerland,CHE,2019,Population density (people per sq. km of land area),EN.POP.DNST,217.042781721823
+Switzerland,CHE,2018,Population density (people per sq. km of land area),EN.POP.DNST,215.500094533915
+Switzerland,CHE,2017,Population density (people per sq. km of land area),EN.POP.DNST,213.918480127503
+Switzerland,CHE,2016,Population density (people per sq. km of land area),EN.POP.DNST,211.931572125581
+Switzerland,CHE,2015,Population density (people per sq. km of land area),EN.POP.DNST,209.626620751132
+Switzerland,CHE,2014,Population density (people per sq. km of land area),EN.POP.DNST,207.250751433234
+Switzerland,CHE,2013,Population density (people per sq. km of land area),EN.POP.DNST,204.734336607627
+Switzerland,CHE,2012,Population density (people per sq. km of land area),EN.POP.DNST,202.390548012367
+Switzerland,CHE,2011,Population density (people per sq. km of land area),EN.POP.DNST,200.249864435738
+Switzerland,CHE,2010,Population density (people per sq. km of land area),EN.POP.DNST,198.032658685794
+Switzerland,CHE,2009,Population density (people per sq. km of land area),EN.POP.DNST,195.977767173332
+Switzerland,CHE,2008,Population density (people per sq. km of land area),EN.POP.DNST,193.541360670795
+Switzerland,CHE,2007,Population density (people per sq. km of land area),EN.POP.DNST,191.094854564163
+Switzerland,CHE,2006,Population density (people per sq. km of land area),EN.POP.DNST,189.388794405946
+Switzerland,CHE,2005,Population density (people per sq. km of land area),EN.POP.DNST,188.198156410317
+Switzerland,CHE,2004,Population density (people per sq. km of land area),EN.POP.DNST,186.990617655533
+Switzerland,CHE,2003,Population density (people per sq. km of land area),EN.POP.DNST,185.703856614881
+Switzerland,CHE,2002,Population density (people per sq. km of land area),EN.POP.DNST,184.325482117304
+Switzerland,CHE,2001,Population density (people per sq. km of land area),EN.POP.DNST,182.930725796739
+Switzerland,CHE,2000,Population density (people per sq. km of land area),EN.POP.DNST,181.771231711013
+Switzerland,CHE,1999,Population density (people per sq. km of land area),EN.POP.DNST,180.747049953447
+Switzerland,CHE,1998,Population density (people per sq. km of land area),EN.POP.DNST,179.881535754967
+Switzerland,CHE,1997,Population density (people per sq. km of land area),EN.POP.DNST,179.342310215106
+Switzerland,CHE,1996,Population density (people per sq. km of land area),EN.POP.DNST,178.905301988284
+Switzerland,CHE,1995,Population density (people per sq. km of land area),EN.POP.DNST,178.111454004043
+Switzerland,CHE,1994,Population density (people per sq. km of land area),EN.POP.DNST,176.925563862413
+Switzerland,CHE,1993,Population density (people per sq. km of land area),EN.POP.DNST,175.521148630479
+Switzerland,CHE,1992,Population density (people per sq. km of land area),EN.POP.DNST,173.930259050029
+Switzerland,CHE,1991,Population density (people per sq. km of land area),EN.POP.DNST,172.023521762943
+Switzerland,CHE,1990,Population density (people per sq. km of land area),EN.POP.DNST,169.887250637313
+Switzerland,CHE,1989,Population density (people per sq. km of land area),EN.POP.DNST,168.151990971735
+Switzerland,CHE,1988,Population density (people per sq. km of land area),EN.POP.DNST,166.798240587759
+Switzerland,CHE,1987,Population density (people per sq. km of land area),EN.POP.DNST,165.577197315492
+Switzerland,CHE,1986,Population density (people per sq. km of land area),EN.POP.DNST,164.540773281355
+Switzerland,CHE,1985,Population density (people per sq. km of land area),EN.POP.DNST,163.687072258833
+Switzerland,CHE,1984,Population density (people per sq. km of land area),EN.POP.DNST,162.966410052015
+Switzerland,CHE,1983,Population density (people per sq. km of land area),EN.POP.DNST,162.382556880809
+Switzerland,CHE,1982,Population density (people per sq. km of land area),EN.POP.DNST,161.687770736763
+Switzerland,CHE,1981,Population density (people per sq. km of land area),EN.POP.DNST,160.745797168691
+Switzerland,CHE,1980,Population density (people per sq. km of land area),EN.POP.DNST,159.868814337731
+Switzerland,CHE,1979,Population density (people per sq. km of land area),EN.POP.DNST,159.235274816709
+Switzerland,CHE,1978,Population density (people per sq. km of land area),EN.POP.DNST,158.918690548472
+Switzerland,CHE,1977,Population density (people per sq. km of land area),EN.POP.DNST,158.904422181745
+Switzerland,CHE,1976,Population density (people per sq. km of land area),EN.POP.DNST,159.444039668083
+Switzerland,CHE,1975,Population density (people per sq. km of land area),EN.POP.DNST,160.358024691358
+Switzerland,CHE,1974,Population density (people per sq. km of land area),EN.POP.DNST,160.428177494434
+Switzerland,CHE,1973,Population density (people per sq. km of land area),EN.POP.DNST,159.566560412872
+Switzerland,CHE,1972,Population density (people per sq. km of land area),EN.POP.DNST,158.392936652499
+Switzerland,CHE,1971,Population density (people per sq. km of land area),EN.POP.DNST,157.189814814815
+Switzerland,CHE,1970,Population density (people per sq. km of land area),EN.POP.DNST,156.367056263914
+Switzerland,CHE,1969,Population density (people per sq. km of land area),EN.POP.DNST,155.24152499494
+Switzerland,CHE,1968,Population density (people per sq. km of land area),EN.POP.DNST,153.504199554746
+Switzerland,CHE,1967,Population density (people per sq. km of land area),EN.POP.DNST,151.583308034811
+Switzerland,CHE,1966,Population density (people per sq. km of land area),EN.POP.DNST,149.716707144303
+Switzerland,CHE,1965,Population density (people per sq. km of land area),EN.POP.DNST,148.160089050799
+Switzerland,CHE,1964,Population density (people per sq. km of land area),EN.POP.DNST,146.458915199352
+Switzerland,CHE,1963,Population density (people per sq. km of land area),EN.POP.DNST,144.056036227484
+Switzerland,CHE,1962,Population density (people per sq. km of land area),EN.POP.DNST,141.009284557782
+Switzerland,CHE,1961,Population density (people per sq. km of land area),EN.POP.DNST,137.479609390812
+Switzerland,CHE,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Switzerland,CHE,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Switzerland,CHE,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Switzerland,CHE,2022,Population in largest city,EN.URB.LCTY,1419621
+Switzerland,CHE,2021,Population in largest city,EN.URB.LCTY,1407572
+Switzerland,CHE,2020,Population in largest city,EN.URB.LCTY,1395356
+Switzerland,CHE,2019,Population in largest city,EN.URB.LCTY,1383092
+Switzerland,CHE,2018,Population in largest city,EN.URB.LCTY,1370779
+Switzerland,CHE,2017,Population in largest city,EN.URB.LCTY,1356037
+Switzerland,CHE,2016,Population in largest city,EN.URB.LCTY,1341453
+Switzerland,CHE,2015,Population in largest city,EN.URB.LCTY,1327026
+Switzerland,CHE,2014,Population in largest city,EN.URB.LCTY,1312774
+Switzerland,CHE,2013,Population in largest city,EN.URB.LCTY,1298675
+Switzerland,CHE,2012,Population in largest city,EN.URB.LCTY,1284746
+Switzerland,CHE,2011,Population in largest city,EN.URB.LCTY,1270929
+Switzerland,CHE,2010,Population in largest city,EN.URB.LCTY,1257280
+Switzerland,CHE,2009,Population in largest city,EN.URB.LCTY,1243777
+Switzerland,CHE,2008,Population in largest city,EN.URB.LCTY,1230437
+Switzerland,CHE,2007,Population in largest city,EN.URB.LCTY,1217204
+Switzerland,CHE,2006,Population in largest city,EN.URB.LCTY,1204132
+Switzerland,CHE,2005,Population in largest city,EN.URB.LCTY,1191200
+Switzerland,CHE,2004,Population in largest city,EN.URB.LCTY,1178424
+Switzerland,CHE,2003,Population in largest city,EN.URB.LCTY,1165750
+Switzerland,CHE,2002,Population in largest city,EN.URB.LCTY,1153230
+Switzerland,CHE,2001,Population in largest city,EN.URB.LCTY,1140845
+Switzerland,CHE,2000,Population in largest city,EN.URB.LCTY,1128804
+Switzerland,CHE,1999,Population in largest city,EN.URB.LCTY,1117113
+Switzerland,CHE,1998,Population in largest city,EN.URB.LCTY,1105559
+Switzerland,CHE,1997,Population in largest city,EN.URB.LCTY,1094125
+Switzerland,CHE,1996,Population in largest city,EN.URB.LCTY,1082824
+Switzerland,CHE,1995,Population in largest city,EN.URB.LCTY,1071610
+Switzerland,CHE,1994,Population in largest city,EN.URB.LCTY,1060527
+Switzerland,CHE,1993,Population in largest city,EN.URB.LCTY,1049558
+Switzerland,CHE,1992,Population in largest city,EN.URB.LCTY,1038718
+Switzerland,CHE,1991,Population in largest city,EN.URB.LCTY,1027960
+Switzerland,CHE,1990,Population in largest city,EN.URB.LCTY,1005859
+Switzerland,CHE,1989,Population in largest city,EN.URB.LCTY,969394
+Switzerland,CHE,1988,Population in largest city,EN.URB.LCTY,934299
+Switzerland,CHE,1987,Population in largest city,EN.URB.LCTY,900382
+Switzerland,CHE,1986,Population in largest city,EN.URB.LCTY,867741
+Switzerland,CHE,1985,Population in largest city,EN.URB.LCTY,836284
+Switzerland,CHE,1984,Population in largest city,EN.URB.LCTY,806007
+Switzerland,CHE,1983,Population in largest city,EN.URB.LCTY,776748
+Switzerland,CHE,1982,Population in largest city,EN.URB.LCTY,748589
+Switzerland,CHE,1981,Population in largest city,EN.URB.LCTY,721451
+Switzerland,CHE,1980,Population in largest city,EN.URB.LCTY,706766
+Switzerland,CHE,1979,Population in largest city,EN.URB.LCTY,708068
+Switzerland,CHE,1978,Population in largest city,EN.URB.LCTY,709371
+Switzerland,CHE,1977,Population in largest city,EN.URB.LCTY,710676
+Switzerland,CHE,1976,Population in largest city,EN.URB.LCTY,711982
+Switzerland,CHE,1975,Population in largest city,EN.URB.LCTY,713293
+Switzerland,CHE,1974,Population in largest city,EN.URB.LCTY,714605
+Switzerland,CHE,1973,Population in largest city,EN.URB.LCTY,715920
+Switzerland,CHE,1972,Population in largest city,EN.URB.LCTY,717235
+Switzerland,CHE,1971,Population in largest city,EN.URB.LCTY,718557
+Switzerland,CHE,1970,Population in largest city,EN.URB.LCTY,710580
+Switzerland,CHE,1969,Population in largest city,EN.URB.LCTY,690147
+Switzerland,CHE,1968,Population in largest city,EN.URB.LCTY,670328
+Switzerland,CHE,1967,Population in largest city,EN.URB.LCTY,651026
+Switzerland,CHE,1966,Population in largest city,EN.URB.LCTY,632305
+Switzerland,CHE,1965,Population in largest city,EN.URB.LCTY,614123
+Switzerland,CHE,1964,Population in largest city,EN.URB.LCTY,596487
+Switzerland,CHE,1963,Population in largest city,EN.URB.LCTY,579311
+Switzerland,CHE,1962,Population in largest city,EN.URB.LCTY,562653
+Switzerland,CHE,1961,Population in largest city,EN.URB.LCTY,546473
+Switzerland,CHE,1960,Population in largest city,EN.URB.LCTY,535471
+Switzerland,CHE,2022,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8331483684746
+Switzerland,CHE,2021,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8532604173006
+Switzerland,CHE,2020,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8539958567878
+Switzerland,CHE,2019,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8402753049658
+Switzerland,CHE,2018,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8161611721448
+Switzerland,CHE,2017,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7517125798143
+Switzerland,CHE,2016,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7259899559732
+Switzerland,CHE,2015,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7345110248481
+Switzerland,CHE,2014,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7537322027399
+Switzerland,CHE,2013,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7907813169859
+Switzerland,CHE,2012,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8125926157332
+Switzerland,CHE,2011,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.814860955534
+Switzerland,CHE,2010,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.828986709507
+Switzerland,CHE,2009,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.828354148868
+Switzerland,CHE,2008,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.8731756606375
+Switzerland,CHE,2007,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.9223764556036
+Switzerland,CHE,2006,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.88936502532
+Switzerland,CHE,2005,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7983132658437
+Switzerland,CHE,2004,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.7107877609216
+Switzerland,CHE,2003,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.6327989418068
+Switzerland,CHE,2002,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.5674642730371
+Switzerland,CHE,2001,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.5054746503472
+Switzerland,CHE,2000,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.4112319039882
+Switzerland,CHE,1999,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.2929274985304
+Switzerland,CHE,1998,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.15788200522
+Switzerland,CHE,1997,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.9859508014317
+Switzerland,CHE,1996,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.8040066998637
+Switzerland,CHE,1995,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.6645212995309
+Switzerland,CHE,1994,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.5728395770619
+Switzerland,CHE,1993,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.5079796936303
+Switzerland,CHE,1992,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.4671481069152
+Switzerland,CHE,1991,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.4647510808118
+Switzerland,CHE,1990,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.2609721191295
+Switzerland,CHE,1989,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.7120084981366
+Switzerland,CHE,1988,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.1370831514629
+Switzerland,CHE,1987,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.5631152350475
+Switzerland,CHE,1986,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.9883181997026
+Switzerland,CHE,1985,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.4125783560196
+Switzerland,CHE,1984,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.8430293450668
+Switzerland,CHE,1983,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.2768558335207
+Switzerland,CHE,1982,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.7414851003582
+Switzerland,CHE,1981,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.2474255673262
+Switzerland,CHE,1980,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.0167905908949
+Switzerland,CHE,1979,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.1150662672232
+Switzerland,CHE,1978,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.1843353927422
+Switzerland,CHE,1977,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.2246922985134
+Switzerland,CHE,1976,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.2121009339868
+Switzerland,CHE,1975,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.1642766698726
+Switzerland,CHE,1974,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.1965855769548
+Switzerland,CHE,1973,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.317912149232
+Switzerland,CHE,1972,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.4710313035822
+Switzerland,CHE,1971,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.6295772975179
+Switzerland,CHE,1970,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.5687428861265
+Switzerland,CHE,1969,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.2890747605
+Switzerland,CHE,1968,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.075882294731
+Switzerland,CHE,1967,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.8854120556505
+Switzerland,CHE,1966,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.6953931480453
+Switzerland,CHE,1965,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.4803412148931
+Switzerland,CHE,1964,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.2850745139137
+Switzerland,CHE,1963,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.1626807125456
+Switzerland,CHE,1962,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.1105899205809
+Switzerland,CHE,1961,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.1150814375829
+Switzerland,CHE,1960,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.1707430158668
+Switzerland,CHE,2022,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1419621
+Switzerland,CHE,2021,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1407572
+Switzerland,CHE,2020,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1395356
+Switzerland,CHE,2019,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1383092
+Switzerland,CHE,2018,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1370779
+Switzerland,CHE,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1356037
+Switzerland,CHE,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1341453
+Switzerland,CHE,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1327026
+Switzerland,CHE,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1312774
+Switzerland,CHE,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1298675
+Switzerland,CHE,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1284746
+Switzerland,CHE,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1270929
+Switzerland,CHE,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1257280
+Switzerland,CHE,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1243777
+Switzerland,CHE,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1230437
+Switzerland,CHE,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1217204
+Switzerland,CHE,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1204132
+Switzerland,CHE,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1191200
+Switzerland,CHE,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1178424
+Switzerland,CHE,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1165750
+Switzerland,CHE,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1153230
+Switzerland,CHE,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1140845
+Switzerland,CHE,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1128804
+Switzerland,CHE,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1117113
+Switzerland,CHE,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1105559
+Switzerland,CHE,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1094125
+Switzerland,CHE,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1082824
+Switzerland,CHE,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1071610
+Switzerland,CHE,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1060527
+Switzerland,CHE,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1049558
+Switzerland,CHE,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1038718
+Switzerland,CHE,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1027960
+Switzerland,CHE,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1005859
+Switzerland,CHE,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,969394
+Switzerland,CHE,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,934299
+Switzerland,CHE,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,900382
+Switzerland,CHE,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,867741
+Switzerland,CHE,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,836284
+Switzerland,CHE,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,806007
+Switzerland,CHE,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,776748
+Switzerland,CHE,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,748589
+Switzerland,CHE,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,721451
+Switzerland,CHE,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,706766
+Switzerland,CHE,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,708068
+Switzerland,CHE,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,709371
+Switzerland,CHE,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,710676
+Switzerland,CHE,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,711982
+Switzerland,CHE,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,713293
+Switzerland,CHE,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,714605
+Switzerland,CHE,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,715920
+Switzerland,CHE,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,717235
+Switzerland,CHE,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,718557
+Switzerland,CHE,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,710580
+Switzerland,CHE,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,690147
+Switzerland,CHE,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,670328
+Switzerland,CHE,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,651026
+Switzerland,CHE,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,632305
+Switzerland,CHE,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,614123
+Switzerland,CHE,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,596487
+Switzerland,CHE,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,579311
+Switzerland,CHE,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,562653
+Switzerland,CHE,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,546473
+Switzerland,CHE,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,535471
+Switzerland,CHE,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1766160423713
+Switzerland,CHE,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1705389344832
+Switzerland,CHE,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1533806882872
+Switzerland,CHE,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1288261141327
+Switzerland,CHE,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0996715067036
+Switzerland,CHE,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0442814819022
+Switzerland,CHE,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0205284917437
+Switzerland,CHE,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0222476684283
+Switzerland,CHE,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0316311030061
+Switzerland,CHE,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0541408415464
+Switzerland,CHE,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0656287510812
+Switzerland,CHE,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0625009004855
+Switzerland,CHE,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0676628955046
+Switzerland,CHE,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0615204541525
+Switzerland,CHE,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0890335951776
+Switzerland,CHE,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.1195224494601
+Switzerland,CHE,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0895593146599
+Switzerland,CHE,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.0169635671897
+Switzerland,CHE,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.9470067831588
+Switzerland,CHE,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.8843145000253
+Switzerland,CHE,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.8307357847274
+Switzerland,CHE,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.7796409166769
+Switzerland,CHE,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.7122037791001
+Switzerland,CHE,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.637099766783
+Switzerland,CHE,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.5493508369408
+Switzerland,CHE,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.4343279484874
+Switzerland,CHE,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.3117501078219
+Switzerland,CHE,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.2202476832161
+Switzerland,CHE,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1638273641135
+Switzerland,CHE,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1270958950112
+Switzerland,CHE,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1078255638538
+Switzerland,CHE,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.1171077318191
+Switzerland,CHE,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.9781275281925
+Switzerland,CHE,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.5841256812186
+Switzerland,CHE,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.1702457584009
+Switzerland,CHE,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.7565686483916
+Switzerland,CHE,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.3413969352368
+Switzerland,CHE,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.9248349977165
+Switzerland,CHE,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.5120132135647
+Switzerland,CHE,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.1011913024499
+Switzerland,CHE,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.7126084812986
+Switzerland,CHE,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.3541485352547
+Switzerland,CHE,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.1840539493573
+Switzerland,CHE,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2492364201949
+Switzerland,CHE,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2925913178805
+Switzerland,CHE,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.3143816745086
+Switzerland,CHE,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2968115529954
+Switzerland,CHE,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2531063484992
+Switzerland,CHE,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2688749575212
+Switzerland,CHE,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.3505725941509
+Switzerland,CHE,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.4556786535475
+Switzerland,CHE,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.5646363608711
+Switzerland,CHE,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.4964268015688
+Switzerland,CHE,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2467971788611
+Switzerland,CHE,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.0474554337927
+Switzerland,CHE,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.8653097532705
+Switzerland,CHE,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.6844336990761
+Switzerland,CHE,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.4862278860037
+Switzerland,CHE,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.3033945113234
+Switzerland,CHE,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.1736190930952
+Switzerland,CHE,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0945761565463
+Switzerland,CHE,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0560072752781
+Switzerland,CHE,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.0504577194417
+Switzerland,CHE,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.46
+Switzerland,CHE,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.79
+Switzerland,CHE,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,2.06
+Switzerland,CHE,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.77
+Switzerland,CHE,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.52
+Switzerland,CHE,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.36
+Switzerland,CHE,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.37
+Switzerland,CHE,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.93
+Switzerland,CHE,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.84
+Switzerland,CHE,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.91
+Switzerland,CHE,1995,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.01
+Switzerland,CHE,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.45
+Switzerland,CHE,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.74
+Switzerland,CHE,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.88
+Switzerland,CHE,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.66
+Switzerland,CHE,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.3
+Switzerland,CHE,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.27
+Switzerland,CHE,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.29
+Switzerland,CHE,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.89
+Switzerland,CHE,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.78
+Switzerland,CHE,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.86
+Switzerland,CHE,1995,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.02
+Switzerland,CHE,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,2.2
+Switzerland,CHE,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,2.8
+Switzerland,CHE,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,2.8
+Switzerland,CHE,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,2.7
+Switzerland,CHE,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,3.1
+Switzerland,CHE,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,3.1
+Switzerland,CHE,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,3.4
+Switzerland,CHE,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.4
+Switzerland,CHE,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.2
+Switzerland,CHE,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.3
+Switzerland,CHE,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.7
+Switzerland,CHE,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,4.8
+Switzerland,CHE,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.3
+Switzerland,CHE,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.1
+Switzerland,CHE,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,5.7
+Switzerland,CHE,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.2
+Switzerland,CHE,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.7
+Switzerland,CHE,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.3
+Switzerland,CHE,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,7.8
+Switzerland,CHE,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,8.5
+Switzerland,CHE,2022,Urban population growth (annual %),SP.URB.GROW,0.944444665600694
+Switzerland,CHE,2021,Urban population growth (annual %),SP.URB.GROW,0.875030737374761
+Switzerland,CHE,2020,Urban population growth (annual %),SP.URB.GROW,0.819998209849981
+Switzerland,CHE,2019,Urban population growth (annual %),SP.URB.GROW,0.783765811954327
+Switzerland,CHE,2018,Urban population growth (annual %),SP.URB.GROW,0.785417652319277
+Switzerland,CHE,2017,Urban population growth (annual %),SP.URB.GROW,0.962986439023895
+Switzerland,CHE,2016,Urban population growth (annual %),SP.URB.GROW,1.12051359857279
+Switzerland,CHE,2015,Urban population growth (annual %),SP.URB.GROW,1.16818639104156
+Switzerland,CHE,2014,Urban population growth (annual %),SP.URB.GROW,1.24996083195795
+Switzerland,CHE,2013,Urban population growth (annual %),SP.URB.GROW,1.17839214469233
+Switzerland,CHE,2012,Urban population growth (annual %),SP.URB.GROW,1.09168911257723
+Switzerland,CHE,2011,Urban population growth (annual %),SP.URB.GROW,1.14447911246303
+Switzerland,CHE,2010,Urban population growth (annual %),SP.URB.GROW,1.07689611583261
+Switzerland,CHE,2009,Urban population growth (annual %),SP.URB.GROW,1.28345836397255
+Switzerland,CHE,2008,Urban population growth (annual %),SP.URB.GROW,1.30598063263603
+Switzerland,CHE,2007,Urban population growth (annual %),SP.URB.GROW,0.929048227949449
+Switzerland,CHE,2006,Urban population growth (annual %),SP.URB.GROW,0.662946312521288
+Switzerland,CHE,2005,Urban population growth (annual %),SP.URB.GROW,0.675992501186956
+Switzerland,CHE,2004,Urban population growth (annual %),SP.URB.GROW,0.721465950344645
+Switzerland,CHE,2003,Urban population growth (annual %),SP.URB.GROW,0.777321863401719
+Switzerland,CHE,2002,Urban population growth (annual %),SP.URB.GROW,0.791912727997122
+Switzerland,CHE,2001,Urban population growth (annual %),SP.URB.GROW,0.621865281288162
+Switzerland,CHE,2000,Urban population growth (annual %),SP.URB.GROW,0.487032192288853
+Switzerland,CHE,1999,Urban population growth (annual %),SP.URB.GROW,0.403412184918245
+Switzerland,CHE,1998,Urban population growth (annual %),SP.URB.GROW,0.22368290088907
+Switzerland,CHE,1997,Urban population growth (annual %),SP.URB.GROW,0.167490737662571
+Switzerland,CHE,1996,Urban population growth (annual %),SP.URB.GROW,0.368293772905816
+Switzerland,CHE,1995,Urban population growth (annual %),SP.URB.GROW,0.594969191642619
+Switzerland,CHE,1994,Urban population growth (annual %),SP.URB.GROW,0.723915625684626
+Switzerland,CHE,1993,Urban population growth (annual %),SP.URB.GROW,0.838886830242898
+Switzerland,CHE,1992,Urban population growth (annual %),SP.URB.GROW,1.02938820424635
+Switzerland,CHE,1991,Urban population growth (annual %),SP.URB.GROW,1.1726886114345
+Switzerland,CHE,1990,Urban population growth (annual %),SP.URB.GROW,0.945758640258411
+Switzerland,CHE,1989,Urban population growth (annual %),SP.URB.GROW,0.727457903349373
+Switzerland,CHE,1988,Urban population growth (annual %),SP.URB.GROW,0.652597876882438
+Switzerland,CHE,1987,Urban population growth (annual %),SP.URB.GROW,0.547183299740602
+Switzerland,CHE,1986,Urban population growth (annual %),SP.URB.GROW,0.43952954995705
+Switzerland,CHE,1985,Urban population growth (annual %),SP.URB.GROW,0.361988438450072
+Switzerland,CHE,1984,Urban population growth (annual %),SP.URB.GROW,0.278378271126319
+Switzerland,CHE,1983,Urban population growth (annual %),SP.URB.GROW,0.348125139958558
+Switzerland,CHE,1982,Urban population growth (annual %),SP.URB.GROW,0.503672244155451
+Switzerland,CHE,1981,Urban population growth (annual %),SP.URB.GROW,0.53231009353371
+Switzerland,CHE,1980,Urban population growth (annual %),SP.URB.GROW,0.468256550424119
+Switzerland,CHE,1979,Urban population growth (annual %),SP.URB.GROW,0.273379015432088
+Switzerland,CHE,1978,Urban population growth (annual %),SP.URB.GROW,0.0816305074449063
+Switzerland,CHE,1977,Urban population growth (annual %),SP.URB.GROW,-0.266337836777118
+Switzerland,CHE,1976,Urban population growth (annual %),SP.URB.GROW,-0.498842803399313
+Switzerland,CHE,1975,Urban population growth (annual %),SP.URB.GROW,0.0290660065109045
+Switzerland,CHE,1974,Urban population growth (annual %),SP.URB.GROW,0.611361642613308
+Switzerland,CHE,1973,Urban population growth (annual %),SP.URB.GROW,0.811134221057727
+Switzerland,CHE,1972,Urban population growth (annual %),SP.URB.GROW,0.835427977510815
+Switzerland,CHE,1971,Urban population growth (annual %),SP.URB.GROW,0.726363968494036
+Switzerland,CHE,1970,Urban population growth (annual %),SP.URB.GROW,1.10501818763145
+Switzerland,CHE,1969,Urban population growth (annual %),SP.URB.GROW,1.50952360718135
+Switzerland,CHE,1968,Urban population growth (annual %),SP.URB.GROW,1.65029736454527
+Switzerland,CHE,1967,Urban population growth (annual %),SP.URB.GROW,1.63300839783526
+Switzerland,CHE,1966,Urban population growth (annual %),SP.URB.GROW,1.44345367209856
+Switzerland,CHE,1965,Urban population growth (annual %),SP.URB.GROW,1.55610869737212
+Switzerland,CHE,1964,Urban population growth (annual %),SP.URB.GROW,2.06131154481387
+Switzerland,CHE,1963,Urban population growth (annual %),SP.URB.GROW,2.54915567362899
+Switzerland,CHE,1962,Urban population growth (annual %),SP.URB.GROW,2.94964535914491
+Switzerland,CHE,1961,Urban population growth (annual %),SP.URB.GROW,2.4273824566381
+Switzerland,CHE,2022,Urban population,SP.URB.TOTL,6502136
+Switzerland,CHE,2021,Urban population,SP.URB.TOTL,6441016
+Switzerland,CHE,2020,Urban population,SP.URB.TOTL,6384901
+Switzerland,CHE,2019,Urban population,SP.URB.TOTL,6332759
+Switzerland,CHE,2018,Urban population,SP.URB.TOTL,6283319
+Switzerland,CHE,2017,Urban population,SP.URB.TOTL,6234162
+Switzerland,CHE,2016,Urban population,SP.URB.TOTL,6174416
+Switzerland,CHE,2015,Urban population,SP.URB.TOTL,6105617
+Switzerland,CHE,2014,Urban population,SP.URB.TOTL,6034707
+Switzerland,CHE,2013,Urban population,SP.URB.TOTL,5959745
+Switzerland,CHE,2012,Urban population,SP.URB.TOTL,5889928
+Switzerland,CHE,2011,Urban population,SP.URB.TOTL,5825978
+Switzerland,CHE,2010,Urban population,SP.URB.TOTL,5759681
+Switzerland,CHE,2009,Urban population,SP.URB.TOTL,5697988
+Switzerland,CHE,2008,Urban population,SP.URB.TOTL,5625324
+Switzerland,CHE,2007,Urban population,SP.URB.TOTL,5552336
+Switzerland,CHE,2006,Urban population,SP.URB.TOTL,5500991
+Switzerland,CHE,2005,Urban population,SP.URB.TOTL,5464643
+Switzerland,CHE,2004,Urban population,SP.URB.TOTL,5427827
+Switzerland,CHE,2003,Urban population,SP.URB.TOTL,5388808
+Switzerland,CHE,2002,Urban population,SP.URB.TOTL,5347082
+Switzerland,CHE,2001,Urban population,SP.URB.TOTL,5304905
+Switzerland,CHE,2000,Urban population,SP.URB.TOTL,5272018
+Switzerland,CHE,1999,Urban population,SP.URB.TOTL,5246404
+Switzerland,CHE,1998,Urban population,SP.URB.TOTL,5225282
+Switzerland,CHE,1997,Urban population,SP.URB.TOTL,5213607
+Switzerland,CHE,1996,Urban population,SP.URB.TOTL,5204882
+Switzerland,CHE,1995,Urban population,SP.URB.TOTL,5185748
+Switzerland,CHE,1994,Urban population,SP.URB.TOTL,5154986
+Switzerland,CHE,1993,Urban population,SP.URB.TOTL,5117803
+Switzerland,CHE,1992,Urban population,SP.URB.TOTL,5075050
+Switzerland,CHE,1991,Urban population,SP.URB.TOTL,5023076
+Switzerland,CHE,1990,Urban population,SP.URB.TOTL,4964515
+Switzerland,CHE,1989,Urban population,SP.URB.TOTL,4917784
+Switzerland,CHE,1988,Urban population,SP.URB.TOTL,4882139
+Switzerland,CHE,1987,Urban population,SP.URB.TOTL,4850382
+Switzerland,CHE,1986,Urban population,SP.URB.TOTL,4823914
+Switzerland,CHE,1985,Urban population,SP.URB.TOTL,4802758
+Switzerland,CHE,1984,Urban population,SP.URB.TOTL,4785404
+Switzerland,CHE,1983,Urban population,SP.URB.TOTL,4772101
+Switzerland,CHE,1982,Urban population,SP.URB.TOTL,4755517
+Switzerland,CHE,1981,Urban population,SP.URB.TOTL,4731625
+Switzerland,CHE,1980,Urban population,SP.URB.TOTL,4706505
+Switzerland,CHE,1979,Urban population,SP.URB.TOTL,4684518
+Switzerland,CHE,1978,Urban population,SP.URB.TOTL,4671729
+Switzerland,CHE,1977,Urban population,SP.URB.TOTL,4667917
+Switzerland,CHE,1976,Urban population,SP.URB.TOTL,4680366
+Switzerland,CHE,1975,Urban population,SP.URB.TOTL,4703772
+Switzerland,CHE,1974,Urban population,SP.URB.TOTL,4702405
+Switzerland,CHE,1973,Urban population,SP.URB.TOTL,4673744
+Switzerland,CHE,1972,Urban population,SP.URB.TOTL,4635987
+Switzerland,CHE,1971,Urban population,SP.URB.TOTL,4597418
+Switzerland,CHE,1970,Urban population,SP.URB.TOTL,4564145
+Switzerland,CHE,1969,Urban population,SP.URB.TOTL,4513988
+Switzerland,CHE,1968,Urban population,SP.URB.TOTL,4446360
+Switzerland,CHE,1967,Urban population,SP.URB.TOTL,4373584
+Switzerland,CHE,1966,Urban population,SP.URB.TOTL,4302743
+Switzerland,CHE,1965,Urban population,SP.URB.TOTL,4241081
+Switzerland,CHE,1964,Urban population,SP.URB.TOTL,4175596
+Switzerland,CHE,1963,Urban population,SP.URB.TOTL,4090405
+Switzerland,CHE,1962,Urban population,SP.URB.TOTL,3987452
+Switzerland,CHE,1961,Urban population,SP.URB.TOTL,3871554
+Switzerland,CHE,1960,Urban population,SP.URB.TOTL,3778708
+Switzerland,CHE,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.092
+Switzerland,CHE,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.996
+Switzerland,CHE,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.915
+Switzerland,CHE,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.849
+Switzerland,CHE,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.797
+Switzerland,CHE,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.761
+Switzerland,CHE,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.739
+Switzerland,CHE,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.718
+Switzerland,CHE,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.696
+Switzerland,CHE,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.674
+Switzerland,CHE,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.653
+Switzerland,CHE,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.631
+Switzerland,CHE,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.607
+Switzerland,CHE,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.581
+Switzerland,CHE,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.556
+Switzerland,CHE,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.53
+Switzerland,CHE,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.504
+Switzerland,CHE,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.478
+Switzerland,CHE,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.452
+Switzerland,CHE,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.427
+Switzerland,CHE,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.401
+Switzerland,CHE,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.375
+Switzerland,CHE,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.383
+Switzerland,CHE,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.438
+Switzerland,CHE,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.492
+Switzerland,CHE,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.546
+Switzerland,CHE,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.6
+Switzerland,CHE,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.654
+Switzerland,CHE,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.708
+Switzerland,CHE,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.762
+Switzerland,CHE,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.815
+Switzerland,CHE,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.869
+Switzerland,CHE,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.926
+Switzerland,CHE,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.986
+Switzerland,CHE,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.046
+Switzerland,CHE,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.107
+Switzerland,CHE,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.167
+Switzerland,CHE,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.227
+Switzerland,CHE,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.286
+Switzerland,CHE,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.346
+Switzerland,CHE,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.406
+Switzerland,CHE,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.466
+Switzerland,CHE,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.477
+Switzerland,CHE,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.424
+Switzerland,CHE,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.37
+Switzerland,CHE,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.316
+Switzerland,CHE,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.262
+Switzerland,CHE,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.208
+Switzerland,CHE,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.154
+Switzerland,CHE,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.1
+Switzerland,CHE,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.046
+Switzerland,CHE,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.992
+Switzerland,CHE,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.843
+Switzerland,CHE,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.561
+Switzerland,CHE,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.279
+Switzerland,CHE,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.993
+Switzerland,CHE,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.706
+Switzerland,CHE,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.417
+Switzerland,CHE,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.127
+Switzerland,CHE,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.834
+Switzerland,CHE,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.539
+Switzerland,CHE,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.243
+Switzerland,CHE,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.924
