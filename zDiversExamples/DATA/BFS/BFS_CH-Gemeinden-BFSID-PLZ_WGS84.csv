@@ -1,4 +1,4 @@
-﻿Ortschaftsname;PLZ;Zusatzziffer;Gemeindename;GemeindeNr;Kantonskürzel;LongWGS84;LatWGS84;Sprache;Validity
+﻿OrtschaftsName;PLZ;PLZZusatzziffer;GemeindeName;GemeindeNr;KantonsKürzel;LongWGS84;LatWGS84;Sprache;Validity
 Aeugst am Albis;8914;00;Aeugst am Albis;1;ZH;8.487911353897033;47.26870659372531;de;2008-07-01
 Aeugstertal;8914;02;Aeugst am Albis;1;ZH;8.49363930090502;47.28270771355741;de;2008-07-01
 Zwillikon;8909;00;Affoltern am Albis;2;ZH;8.433816382206734;47.289571911025355;de;2008-07-01
