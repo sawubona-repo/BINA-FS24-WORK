@@ -1,0 +1,48 @@
+This should be solved using Python. Problem 2 You are on a diet and can only eat 750 calories per day. There are food items that you enjoy more than others. The following table lists the value and calories of each kind of food: Food Value Calories wine 89 123 beer 90 154 pizza 30 258 burger 50 354 fries 90 365 coke 79 150 apple 90 95 donut 10 195 Create a program that selects the optimal mix of food items that will maximize your value, and not exceed the limit of 750 calories. Assume that you can pick at most one of each kind of food. Notes: - You should use recursion in your solution. - Suggestion: after you pick an item, recursively call the function to solve the problem with the remaining items and the remaining calories. - This is a combinatorial problem. This is NOT a permutations problem, since the order of the items doesn't matter. - There are C(8,8) = 6435 possible combinations of 8 items without repetitions.
+This should be solved using Python.
+
+Problem 2
+
+You are on a diet and can only eat 750 calories per day. There are food items that you enjoy more than others. The following table lists the value and calories of each kind of food:
+
+Food          Value   Calories
+wine          89      123
+beer          90      154
+pizza         30      258
+burger        50      354
+fries         90      365
+coke          79      150
+apple         90      95
+donut         10      195
+
+Create a program that selects the optimal mix of food items that will maximize your value, and not exceed the limit of 750 calories. Assume that you can pick at most one of each kind of food.
+
+Notes:
+- You should use recursion in your solution.
+- Suggestion: after you pick an item, recursively call the function to solve the problem with the remaining items and the remaining calories.
+- This is a combinatorial problem. This is NOT a permutations problem, since the order of the items doesn't matter.
+- There are C(8,8) = 6435 possible combinations of 8 items without repetitions.
+This should be solved using Python.
+
+Problem 2
+
+You are on a diet and can only eat 750 calories per day. There are food items that you enjoy more than others. The following table lists the value and calories of each kind of food:
+
+Food          Value   Calories
+wine          89      123
+beer          90      154
+pizza         30      258
+burger        50      354
+fries         90      365
+coke          79      150
+apple         90      95
+donut         10      195
+
+Create a program that selects the optimal mix of food items that will maximize your value, and not exceed the limit of 750 calories. Assume that you can pick at most one of each kind of food.
+
+Notes:
+- You should use recursion in your solution.
+- Suggestion: after you pick an item, recursively call the function to solve the problem with the remaining items and the remaining calories.
+- This is a combinatorial problem. This is NOT a permutations problem, since the order of the items doesn't matter.
+- There are C(8,8) = 6435 possible combinations of 8 items without repetitions.
+Submitted by Brandy W.  Feb. 10, 2023  02:07 p.m.
