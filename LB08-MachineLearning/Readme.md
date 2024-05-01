@@ -1,5 +1,5 @@
 # LB08 - Machine Learning README
-###### Last update: 23/5/23 dbe
+###### Last update: 01/5/24 dbe - Section "Datasets" added
 </br>
 
 ![Folie4](https://user-images.githubusercontent.com/52699611/164497329-da8d80ab-5d34-486c-953e-dfcb9913aece.PNG)
