@@ -37,6 +37,13 @@ There is also a free [Machine Learning Crash Course](https://developers.google.c
 
 </br> 
 
-## C) Links   
+## C) Datasets   
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
+
+ The archive was created as an ftp archive in 1987 by UCI PhD student David Aha. Since that time, it has been widely used by students, educators, and researchers all over the world as a primary source of machine learning datasets.
+ 
+</br> 
+
+## D) Links   
 * [Insane Cheat Sheet Collection](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html#) A curated list of 100+ machine learning and data science cheatsheet. The InsaneApp team researched for more than a month to find out all the cheat sheets on machine learning, deep learning, data mining, neural networks, big data, artificial intelligence, python, tensorflow, scikit-learn, etc from all over the web.
  
