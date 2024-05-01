@@ -38,8 +38,7 @@ There is also a free [Machine Learning Crash Course](https://developers.google.c
 </br> 
 
 ## C) Datasets   
-* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
-
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.  
  The archive was created as an ftp archive in 1987 by UCI PhD student David Aha. Since that time, it has been widely used by students, educators, and researchers all over the world as a primary source of machine learning datasets.
  
 </br> 
