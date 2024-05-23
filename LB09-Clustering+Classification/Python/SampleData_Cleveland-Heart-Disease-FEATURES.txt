@@ -1,0 +1,81 @@
+Kaggle dataset HEART Disease Cleveland Hospital
+-----------------------------------------------------------------------------------------------
+Variables
+	age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,condition
+
+Inspiration
+	With the attributes described below, you predict if a patient has heart disease?
+
+age: age in years
+
+sex
+-- 1: male
+-- 0: female
+
+
+cp: chest pain type
+-- Value 0: typical angina
+-- Value 1: atypical angina
+-- Value 2: non-anginal pain
+-- Value 3: asymptomatic
+
+trestbps: resting blood pressure (in mm Hg on admission to the hospital)
+
+chol: serum cholestoral in mg/dl
+
+fbs: fasting blood sugar > 120 mg/dl 
+-- 1: true
+-- 0: false
+
+restecg: resting electrocardiographic results
+-- Value 0: normal
+-- Value 1: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)
+-- Value 2: showing probable or definite left ventricular hypertrophy by Estes' criteria
+
+thalach:  maximum heart rate achieved
+
+exang: exercise induced angina 
+-- 1 = yes
+-- 0 = no
+
+oldpeak =  ST depression induced by exercise relative to rest
+
+
+slope: the slope of the peak exercise ST segment
+-- Value 0: upsloping
+-- Value 1: flat
+-- Value 2: downsloping
+
+ca: number of major vessels (0-3) colored by flourosopy
+
+
+thal (Thalium -  a radioactive tracer injected during a stress test)
+#  I'll copy a sentence so you get more insight about the "thal" column (thal is for Thalium, a radioactive tracer injected during a stress test):
+# Nuclear stress testing requires the injection of a tracer, commonly technicium 99M (Myoview or Cardiolyte), 
+# which is then taken up by healthy, viable myocardial cells. 
+# A camera (detector) is used afterwards to image the heart and compare segments. 
+# A coronary stenosis is detected when a myocardial segment takes up the nuclear tracer at rest, but not during cardiac stress. 
+# This is called a "reversible defect." Scarred myocardium from prior infarct will not take up tracer at all and is referred to as a "fixed defect"
+-- Value 0 = normal
+-- Value 1 = fixed defect
+-- Value 2 = reversable defect
+
+condition (maybe THE most important feature): 
+-- 0 = no disease
+-- 1 = disease
+
+Acknowledgements
+Data posted on Kaggle: https://www.kaggle.com/ronitf/heart-disease-uci
+Description of the data above: https://www.kaggle.com/ronitf/heart-disease-uci/discussion/105877
+Original data https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+Creators:
+Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+University Hospital, Zurich, Switzerland: William Steinbr
+Creators:
+Hungarian Institute of Cardiology. Budapest: Andras Janosi, M.D.
+University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
+University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
+V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
+Donor: David W. Aha (aha '@' ics.uci.edu) (714) 856-8779
+
